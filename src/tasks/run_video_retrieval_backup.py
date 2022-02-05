@@ -136,7 +136,7 @@ def mk_video_ret_eval_dataloader(anno_path, lmdb_dir, cfg, tokenizer):
     """
     raw_datalist = load_jsonl(anno_path)
     datalist = mk_video_ret_datalist(raw_datalist, cfg)
-    frm_sampling_strategy = cfg.frm_sampling_strategy # this can be extended
+    frm_sampling_strategy = cfg.frm_sampling_strategy
     if frm_sampling_strategy == "rand":
         frm_sampling_strategy = "uniform"
 
@@ -698,14 +698,10 @@ def inference_retrieval(model, val_loader, eval_file_path, cfg):
         if hvd.rank() == 0:
             pbar.update(1)
 
-        # LOGGER.info(f"Debug: Early break!!!")
-        # break
-
     # ###### Saving with Horovod ####################
     # dummy sync
     _ = None
     all_gather_list(_)
-    # LOGGER.info(f"Debug: sync success!!!")
     n_gpu = hvd.size()
     eval_dir = join(cfg.output_dir, f"results_{os.path.splitext(os.path.basename(eval_file_path))[0]}")
     os.makedirs(eval_dir, exist_ok=True)
@@ -723,6 +719,7 @@ def inference_retrieval(model, val_loader, eval_file_path, cfg):
             except Exception as e:
                 print(f"Saving exception: {e}")
                 save_trial += 1
+
     # dummy sync
     _ = None
     all_gather_list(_)

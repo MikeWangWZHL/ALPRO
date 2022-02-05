@@ -174,6 +174,7 @@ class AlproBaseDataset(Dataset):
                 raise NotImplementedError('Invalid sampling strategy {} '.format(self.frm_sampling_strategy))
 
             raw_sample_frms = vr.get_batch(frame_indices)
+
         except Exception as e:
             return None
 

@@ -1,5 +1,7 @@
 .vscode 
 
+*.jpg
+
 # script
 tmp_all/script/
 

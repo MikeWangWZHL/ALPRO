@@ -13,8 +13,8 @@ easydict
 pycocotools>=2.0.1
 opencv-python
 tensorboardX==2.0
-av==8.0.2
 ujson
 einops
 decord
 timm
+av
