@@ -170,6 +170,13 @@ class AlproVideoRetrievalEvalDataset(AlproBaseDataset):
         self.id2data = {d["id"]: d for d in self.datalist}
 
         self.video_fmt = video_fmt
+        # print("#######################\n")
+        # print("#######################\n")
+        # print(len(self.batches))
+        # print(self.text_batch["n_examples"])
+        # print("#######################\n")
+        # print("#######################\n")
+        # quit()
 
     def __len__(self):
         return len(self.batches)
@@ -213,9 +220,12 @@ class AlproVideoRetrievalEvalDataset(AlproBaseDataset):
         # make 1000 batches for 1000video x 1000text combinations.
         # each batch contains 1video x 1000text
         batches = []
+        unique_vid_ids = set()
         for idx, d in enumerate(self.datalist):
              #_batch = copy.deepcopy(text_batch)
-            _batch = dict()
-            _batch["vid_id"] = d["vid_id"]
-            batches.append(_batch)
+            if d["vid_id"] not in unique_vid_ids:
+                _batch = dict()
+                _batch["vid_id"] = d["vid_id"]
+                batches.append(_batch)
+                unique_vid_ids.add(d["vid_id"])
         return batches, text_batch

@@ -6,13 +6,13 @@ lmdb==0.97
 msgpack-numpy
 msgpack
 toolz
-transformers==4.11.3
+transformers
 tensorboard
 tqdm
 easydict
-pycocotools>=2.0.1
+pycocotools
 opencv-python
-tensorboardX==2.0
+tensorboardX
 ujson
 einops
 decord

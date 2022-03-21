@@ -1,0 +1,2140 @@
+{
+    "get_better": [
+        {
+            "vid_id": "video7026",
+            "original_pred": [
+                "a man talking about the two cars he test drove"
+            ],
+            "augmented_pred": [
+                "a man is giving a review on a vehicle. The vehicle he is reviewing is very expensive. He said this is the car he likes as an example.",
+                "a man is giving a review on a vehicle. Reviews are provided by the public.",
+                "jeremy is describing a car. A car is usually driven by a person with authority over it. For instance, a car is sometimes driven by the owner. It is also driven by a passenger.",
+                "a man is giving a review on a vehicle. This is a car review.",
+                "a man is giving a review on a vehicle. The review is usually about the quality of the car or the car maker.",
+                "a man is giving a review on a vehicle. Vehicles are often owned or driven by people.",
+                "a man is giving a review on a vehicle. The review is usually given to an audience member or another person present in the theater. The driver must be very familiar with the vehicle before giving the review.",
+                "a man is showing off a new vehicle. The man driving the car is usually wearing leather.",
+                "a man speaks on driving and a car model. Drivers usually speak when speaking about driving. Car models usually wear stylish clothes.",
+                "a man talking about the two cars he test drove. He was test driving both a Volkswagen CC TDI and an Audi TT."
+            ],
+            "gt": {
+                "txt_id": 4,
+                "txt": "a man is giving a review on a vehicle"
+            }
+        },
+        {
+            "vid_id": "video9775",
+            "original_pred": [
+                "a man is talking about making it easier for kids to learn while scenes of a school are shown"
+            ],
+            "augmented_pred": [
+                "a man speaks to children in a classroom. Most of the movies that you will see will have a good message or a moral lesson.",
+                "a man is talking about making it easier for kids to learn while scenes of a school are shown. Most children learn by trying.",
+                "a man speaks to children in a classroom. The man is usually the narrator in the film. The man tells the children what they are learning in the video.",
+                "a man speaks to children in a classroom.",
+                "a man is talking about making it easier for kids to learn while scenes of a school are shown.",
+                "a woman discusses how we can help children in a classroom. A large number of children and classrooms are involved in the documentary.",
+                "a man speaks to children in a classroom. An adult sometimes teaches children in a classroom.",
+                "a man speaks to children in a classroom. Students are often seen in classes. Teachers usually speak to them.",
+                "a woman discusses how we can help children in a classroom. Children love to sing.",
+                "two kids talking to the camera and then a woman talking to the camera. When people talk to the camera, they often talk about important things. Most of the time, parents talk to their children."
+            ],
+            "gt": {
+                "txt_id": 5,
+                "txt": "a man speaks to children in a classroom"
+            }
+        },
+        {
+            "vid_id": "video9774",
+            "original_pred": [
+                "a man in a flying contraption crashes in a field"
+            ],
+            "augmented_pred": [
+                "a rocket is lauching into a blue sky smoke is emerging from the base of the rocket. There are many types of rockets that make up the rocket. A red rocket is one of the most common rockets. Another type of rocket is called a white rocket.",
+                "a rocket is lauching into a blue sky smoke is emerging from the base of the rocket. A missile is launched using a missile system.",
+                "a man in a flying contraption crashes in a field.",
+                "a rocket is lauching into a blue sky smoke is emerging from the base of the rocket. This is a famous launch that used to take place on a certain day. Scientists and rocket engineers use launch simulations to make sure the rockets going to the sky will reach their target.",
+                "a man in a flying contraption crashes in a field. The contraption is an aeroplane.",
+                "a person juggling sticks on the summit of a snowy mountain. When a person juggles several balls, it is called being an aerialist.",
+                "a man in a flying contraption crashes in a field. A flying contraption is an airplane that can transport people.",
+                "a man in a flying contraption crashes in a field. He was thrown out of his contraption.",
+                "a man in a flying contraption crashes in a field. A man in a flying contraption is not usually something meant to happen. Flying contraptions is usually meant to show how futuristic things could be.",
+                "a rocket is lauching into a blue sky smoke is emerging from the base of the rocket. The rocket has been launched successfully, giving off bright lights."
+            ],
+            "gt": {
+                "txt_id": 14,
+                "txt": "a rocket is lauching into a blue sky smoke is emerging from the base of the rocket"
+            }
+        },
+        {
+            "vid_id": "video7115",
+            "original_pred": [
+                "a man talks about cars"
+            ],
+            "augmented_pred": [
+                "someone is talking about a car. Car is one of those heavy, high-tech machines. People have to buy new cars every few years.",
+                "a man is showing off a new vehicle. New model cars are very expensive.",
+                "a man speaks on driving and a car model. A car model stands next to a driver in a car.",
+                "a man is showing off a new vehicle. A car is a vehicle that can be driven by people.",
+                "a man is showing off a new vehicle. A new car usually has lots of features. There is a new car model.",
+                "a person is discussing a car. These cars are very expensive.",
+                "men in a garage talk about a car they are going to restore. A restored car can be quite nice. The car may cost more, but the beauty of it is appreciated more!",
+                "a man is giving a review on a vehicle. The review is usually about the quality of the car or the car maker.",
+                "a man talks about cars.",
+                "a man talks about cars. The man in the video is talking about cars. Cars have become one of the most popular consumer items."
+            ],
+            "gt": {
+                "txt_id": 36,
+                "txt": "a man is showing off a new vehicle"
+            }
+        },
+        {
+            "vid_id": "video9542",
+            "original_pred": [
+                "this is a vine sports compilation"
+            ],
+            "augmented_pred": [
+                "sports vine clips of football. Football is a very popular sport in the United States.",
+                "sports vine clips of football. Sports videos usually start with a clip about the game then a clip of a players action during the game. The second clip is usually a video of the players after the game.",
+                "sports vine clips of football. This is usually followed by a short sports news clip.",
+                "sports vine clips of football. A football game is usually divided into several periods. At the end of each of these periods, players leave the field as the teams are called off to play.",
+                "various sports clips with music are shown. Sports teams usually have names that look like their sponsors. This is done so that they can be easily seen when passing by.",
+                "various sports clips with music are shown. The names of sports teams are usually shown on the bottom of the screen. Sometimes, the name of the sports team is shown during the music playing.",
+                "sports vine clips of football. Sports vines are videos related to sports.",
+                "sports vine clips of football. Football is a sport that many men and women play. The sport has many different types of plays. The sport is played in many different locations.",
+                "sports vine clips of football.",
+                "a video showing footage from sporting events. The name of the sport or team appears at the beginning of the video."
+            ],
+            "gt": {
+                "txt_id": 40,
+                "txt": "sports vine clips of football"
+            }
+        },
+        {
+            "vid_id": "video8895",
+            "original_pred": [
+                "a man and a woman are walking a dog on a beach"
+            ],
+            "augmented_pred": [
+                "a man and a woman are singing on the beach. The beach is often used in the movies. Often, musicians and singers will appear on beaches and beaches.",
+                "a family is having coversation. A family often goes on vacation together.",
+                "a man and a woman are walking a dog on a beach. Beach men and women are usually very close to each other. They may spend time together.",
+                "a man and a woman are singing on the beach. The soundtrack of the music is always being played. Usually, the songs are also sung by the actors.",
+                "a man and a woman are walking a dog on a beach. The beach is known as Dog Beach",
+                "a man and a woman are singing on the beach. A woman usually wears a dress or a nightgown. A man usually wears a white shirt and a tie.",
+                "a man and a woman are walking a dog on a beach. Usually, couples get married (or living together). They do not usually get engaged first.",
+                "people are singing on the beach. People often sing at beaches. Songs have words like \"sunshine\", \"water\", \"sun\", \"sand\", \"sail\", \"girl\", and so on.",
+                "a man and a woman are singing on the beach. Mostly, singers sing love songs. They usually sing songs that end with the word \"lover\". It's also possible that a song ends with the phrase \"love you much\". Singing may also simply be accompanied by the rhythm of walking. For example, \"When you love me, you walk",
+                "a man and a woman are singing on the beach."
+            ],
+            "gt": {
+                "txt_id": 47,
+                "txt": "a man and a woman are singing on the beach"
+            }
+        },
+        {
+            "vid_id": "video8340",
+            "original_pred": [
+                "a trailer for a movie with a girl knocking on the wall"
+            ],
+            "augmented_pred": [
+                "a man and a woman stand in a bedroom. A bedroom is usually seen in movies.",
+                "a man and a woman stand in a bedroom. A man and a woman may or may not have gotten married.",
+                "a man and a woman stand in a bedroom. A pair of people rarely stand in a bedroom. For a couple to stand in a bedroom, one of them has to be facing away from the other.",
+                "a man and a woman stand in a bedroom. A bedroom is usually where you spend time alone with your lover.",
+                "a trailer for a movie with a girl knocking on the wall. Trailers often show preview clips from the movie.",
+                "a trailer for a movie with a girl knocking on the wall. A girl knocks on a wall; it is a quick way to get one's attention.",
+                "a man and a woman stand in a bedroom. The bedroom is one of the scenes in the film. This is a famous house in Italy.",
+                "a trailer for a movie with a girl knocking on the wall.",
+                "a man walks towards a woman and the woman breaks a bottle to defend her belongings. The end credits, which appear after the final scene of a film, usually list everyone involved in the production.",
+                "a man and a woman stand in a bedroom. A bedroom is usually a place where a person sleeps or gets ready for bed. Men and women usually sleep in separate rooms in a house or apartment."
+            ],
+            "gt": {
+                "txt_id": 116,
+                "txt": "a man and a woman stand in a bedroom"
+            }
+        },
+        {
+            "vid_id": "video9836",
+            "original_pred": [
+                "a cook prepares food items in a metal bowl"
+            ],
+            "augmented_pred": [
+                "a cook prepares food items in a metal bowl. The cook uses a wooden spoon/fork as a utensil (or utensil tool).",
+                "a woman is stirring food. She is stirring rice.",
+                "a woman is stirring food. A person who has a big appetite loves to eat a lot.",
+                "a man is stirring something in a pot. When you make something by hand, you have to use your hands.",
+                "a cook prepares food items in a metal bowl. It looks like there are meatballs inside the metal bowl.",
+                "a cook prepares food items in a metal bowl. Cooking involves using a large amount of heat. In order to make various flavors of food, you need to use heat.",
+                "a cook prepares food items in a metal bowl.",
+                "a woman is making a recipe in a sauce pan. Most spices are essential for baking. Most people do not even know the spice they use as it is used extensively in cooking.",
+                "a woman is stirring food.",
+                "a woman is stirring food. A woman usually has more control over the food. She can use an electric blender or a mortar and pestle to make it."
+            ],
+            "gt": {
+                "txt_id": 123,
+                "txt": "a woman is stirring food"
+            }
+        },
+        {
+            "vid_id": "video9839",
+            "original_pred": [
+                "multi colored horses in a barn and outside in the snow"
+            ],
+            "augmented_pred": [
+                "an animated horse is in a barn and the maker asks for comments. Animals have the ability to move their limbs.",
+                "an animated horse is in a barn and the maker asks for comments. An animated horse can be ridden. An animated horse is used for entertainment.",
+                "multi colored horses in a barn and outside in the snow.",
+                "an animated horse is in a barn and the maker asks for comments. Animals have personalities and have different personalities. Horses can sometimes even change personalities.",
+                "multi colored horses in a barn and outside in the snow. Most horses are multi colored, and they do not have any colors.",
+                "an animated horse is in a barn and the maker asks for comments. Animals are created by animators to study natural behavior.",
+                "multi colored horses in a barn and outside in the snow. Most horses we see are multi colored (browns, blacks, reds and greens). Horses usually look fluffy.",
+                "an animated horse is in a barn and the maker asks for comments. Animals get tired very quickly when asked to sit still. Horses don\u2019t.",
+                "multi colored horses in a barn and outside in the snow. Horses come from horses and the snow is made from snow.",
+                "multi colored horses in a barn and outside in the snow. Horses are usually seen in farmlands as well as on farm rides. Many animals are seen in films and TV."
+            ],
+            "gt": {
+                "txt_id": 130,
+                "txt": "an animated horse is in a barn and the maker asks for comments"
+            }
+        },
+        {
+            "vid_id": "video7830",
+            "original_pred": [
+                "this little light of mine song with different photos"
+            ],
+            "augmented_pred": [
+                "this little light of mine song with different photos. A famous singer is featured in the song.",
+                "this is about a young boy s photo shoot. The title of the film is the word \"Gentlemen\".",
+                "there are pictures and quotes from george bernard shaw and vincent van gogh while a voice over artist talks about making mistakes. Shaw and van Gogh made films before they are famous.",
+                "this is about a young boy s photo shoot. Photos are often used in TV and movies to present the person in a certain context. This example shows a photo of a young boy who is about to be photographed for a magazine story.",
+                "this is about a young boy s photo shoot. The person who takes the photo shoots is usually an actor or actress.",
+                "this little light of mine song with different photos. For many people, this is their favorite song.",
+                "this is about a young boy s photo shoot. A photo shoot is a series of photographs taken for a story.",
+                "a man is wearing a cap. Caps can be found on many different styles of hats. Hats can be used to protect your head. A hat can also be used to shade your face, or it can be used to protect you from the sun.",
+                "a man is wearing a cap. He wears a hat.",
+                "this is about a young boy s photo shoot. This is a photo shoot show the photos of a young boy."
+            ],
+            "gt": {
+                "txt_id": 148,
+                "txt": "this is about a young boy s photo shoot"
+            }
+        },
+        {
+            "vid_id": "video7235",
+            "original_pred": [
+                "cartoons of a sponge a squid and a starfish"
+            ],
+            "augmented_pred": [
+                "cartoon of a squid on a bike looking up at a treehouse. A treehouse is a place where most people live. Many kinds of people live under that tree. (An undersea world of sorts)",
+                "cartoons of a sponge a squid and a starfish. Sponges are not very good at holding things in their mouth. A squid can hold onto things very well. However, a starfish is very good at holding things in its mouth.",
+                "cartoons of a sponge a squid and a starfish. Sponges and cephalopods are very different.",
+                "cartoon of a squid on a bike looking up at a treehouse. Squids have not much information about the world. They usually eat plants and fish.",
+                "cartoon of a squid on a bike looking up at a treehouse. Squids are usually the largest invertebrates living in the ocean. Squids feed on sea creatures.",
+                "cartoon of a squid on a bike looking up at a treehouse. Squids are usually deep sea creatures. Squid look similar to humans.",
+                "cartoons of a sponge a squid and a starfish.",
+                "cartoon of a squid on a bike looking up at a treehouse. A cartoon squid (one of a family of gregarious squid) riding on a bicycle is often used in drawings and cartoons.",
+                "cartoon of a squid on a bike looking up at a treehouse. A flying fish, or seagull, looks up at a tree house as he flies by.",
+                "cartoons of a sponge a squid and a starfish. These are all pretty much cartoonish. That's what they are."
+            ],
+            "gt": {
+                "txt_id": 161,
+                "txt": "cartoon of a squid on a bike looking up at a treehouse"
+            }
+        },
+        {
+            "vid_id": "video7900",
+            "original_pred": [
+                "a commercial for the website called eharmony"
+            ],
+            "augmented_pred": [
+                "a man talks about dna force. We learn here that men can pass on disease to their sons by taking paternity blood tests.",
+                "a man talks about dna force. DNA force is a technique developed by Bruce Lipton. Research has shown some of the effects that can appear in people who use DNA force.",
+                "a women is explaining about the information of responders and the non responders for precision medicine. Precision medicine refers to the application of new technology to disease diagnosis and early treatment.",
+                "a women is explaining about the information of responders and the non responders for precision medicine. It is a type of medicine that involves the use of specialists to study every aspect of every part of the patient's body. Usually, there will be information regarding disease states, medical diagnosis, treatment options, and outcomes. This medicine is one of the most accurate among the three",
+                "an exploration about the title of professional video advertisement. Such commercials are usually designed to sell products.",
+                "a commercial for the website called eharmony. The slogan says, we'll find you the most compatible matches for your taste and personality.",
+                "music is playing and advertisements was showing. Advertising plays an important role in building a brand. Advertisements are usually made for various products.",
+                "an exploration about the title of professional video advertisement. In many cases, a professional advertisement is used to promote or describe something. Some movies use commercials as the means to bring awareness to a specific product or service.",
+                "a man talks about dna force. Scientists use forces to explore the dna of living things. DNA is made up of strings that form the genes that a cell receives from its parent. DNA is more complex than proteins, which are made of amino acids.",
+                "a man is discussing some functions for a science expirement. A science experiment seeks to test a hypothesis."
+            ],
+            "gt": {
+                "txt_id": 180,
+                "txt": "a man talks about dna force"
+            }
+        },
+        {
+            "vid_id": "video7340",
+            "original_pred": [
+                "a man is showing the interior of a car"
+            ],
+            "augmented_pred": [
+                "a man is talking about his car s features while inside his car. The car has air conditioning and running lights.",
+                "a man is showing the interior of a car.",
+                "someone is showing a car features. You can see the car features with a camera.",
+                "a man is showing the interior of a car. The interior of a car is usually kept clean to prevent unwanted odors from coming out.",
+                "someone is showing a car features.",
+                "a man is talking about his car s features while inside his car. A car has many features like air conditioning, sound systems, heating system etc.",
+                "a man is talking about his car s features while inside his car.",
+                "inside of a toyota car with large space and safety.",
+                "a man is showing the interior of a car. Many cars come with a stereo, so that those who own a car with a stereo can listen to music while they drive.",
+                "a man is showing the interior of a car. The interior of a car normally uses lots of space."
+            ],
+            "gt": {
+                "txt_id": 208,
+                "txt": "a man is talking about his car s features while inside his car"
+            }
+        },
+        {
+            "vid_id": "video8900",
+            "original_pred": [
+                "spices being combined in a stainless steel bowl"
+            ],
+            "augmented_pred": [
+                "a woman bakes and decorates a cake. Cakes are usually eaten with the help of a baking dish. For decorating, people use a paint brush.",
+                "a woman bakes and decorates a cake. A cake is usually wrapped with a delicious icing such as fondant or chocolate.",
+                "spices being combined in a stainless steel bowl. The table is usually placed on a wooden table.",
+                "a woman is making playdoh. Playdoh is a mixture of colored sand and water.",
+                "a woman is making playdoh. Playdoh is a thick paste that can be made by mixing flour, coloring, water, and food coloring.",
+                "a woman bakes and decorates a cake. Cakes are made of flour, sugar and other ingredients.",
+                "a woman bakes and decorates a cake. Cakes are usually eaten with a fork. Baking is usually done with a oven.",
+                "a woman bakes and decorates a cake. Cakes are usually delicious. However, it is often tough for women to bake well.",
+                "a woman bakes and decorates a cake.",
+                "spices being combined in a stainless steel bowl. The spice mixture is being applied to the raw meat."
+            ],
+            "gt": {
+                "txt_id": 212,
+                "txt": "a woman bakes and decorates a cake"
+            }
+        },
+        {
+            "vid_id": "video8907",
+            "original_pred": [
+                "the actor playing thor talking about the new movie"
+            ],
+            "augmented_pred": [
+                "scene of thor from the avengers. Thor is a mutant who is strong and fast. He is usually good at climbing.",
+                "the actor playing thor talking about the new movie. Thor from \"The Avengers\"",
+                "scene of thor from the avengers. If you have ever watched a movie with an intro and outro, this is what you are looking at.",
+                "batman is beating up bane in a scene from a batman movie. Batman is a bat-themed superhero. He is usually shown punching a bad guy. Sometimes, the villain wears a costume shaped like a bat. Sometimes, the villain wears the superhero's suit.",
+                "how to make a galaxy fighter. This article covers how to make your own starfighter/fighter in the X-Wing series or X-Wing video game.",
+                "scene of thor from the avengers. Thor has super powers. His super powers are usually used in the film movies.",
+                "scene of thor from the avengers. Thor is a famous superhero.",
+                "the actor playing thor talking about the new movie.",
+                "scene of thor from the avengers. Thor is the main character of the movie.",
+                "scene of thor from the avengers. Thor is the strongest Avenger."
+            ],
+            "gt": {
+                "txt_id": 219,
+                "txt": "scene of thor from the avengers"
+            }
+        },
+        {
+            "vid_id": "video9825",
+            "original_pred": [
+                "a man with glasses and a goatee talking about his former job"
+            ],
+            "augmented_pred": [
+                "a man with glasses and a goatee talking about his former job. A former job can help someone get a new job.",
+                "the man sitting in the black chair and wearing brown suit is talking. This is a storyboard or synopsis of the movie. It gives important information about the plot and the characters.",
+                "an intelligent man with glasses talk about certain phrenologists. Phrenologists are doctors who use X-rays to help determine a person s intellectual level.",
+                "an intelligent man with glasses talk about certain phrenologists. A person who believes in the theory of phrenology is often known as a phrenologist.",
+                "an intelligent man with glasses talk about certain phrenologists. A group of people who study phrenology.",
+                "an intelligent man with glasses talk about certain phrenologists.",
+                "a man with glasses and a goatee talking about his former job.",
+                "the man sitting in the black chair and wearing brown suit is talking. The man wearing the brown suit is a director, the man sitting in the black chair is his writer.",
+                "a man with glasses and a goatee talking about his former job. A goatee is a facial hair that goes from the jaw and ends at the ears.",
+                "a man with glasses and a goatee talking about his former job. He was a bartender and a waiter before becoming a computer programmer."
+            ],
+            "gt": {
+                "txt_id": 349,
+                "txt": "an intelligent man with glasses talk about certain phrenologists"
+            }
+        },
+        {
+            "vid_id": "video8488",
+            "original_pred": [
+                "a transvestite shows what she bought for her dog including shampoo and conditioner made by martha stuart"
+            ],
+            "augmented_pred": [
+                "a woman talks about a skin care treatment she takes with her everwhere. Skin care products can have names such as Vaseline, Tampax, Clorox.",
+                "a woman talks about a skin care treatment she takes with her everwhere. Skin washes were used as a form of medicine in ancient times. The women wore lotion and used a lot of oil to prevent wrinkles by applying them on the face.",
+                "a woman giving skin care tips. Skin care is something that must be taken seriously. The woman used a spray bottle to apply the cream.",
+                "a transvestite shows what she bought for her dog including shampoo and conditioner made by martha stuart.",
+                "a woman is talking about facial care products. Products made from natural ingredients are usually more expensive than those made from artificial ingredients.",
+                "a woman giving skin care tips. People usually use creams, lotions, and ointments to keep their skin clean.",
+                "a transvestite shows what she bought for her dog including shampoo and conditioner made by martha stuart. Martha Stewart is the name of the brand and cosmetics manufacturer.",
+                "a woman is talking about facial care products. A facial care product is always used for smoothing or brightening your skin.",
+                "a woman is talking about facial care products. Products such as facial lotions and moisturizers are sold to people who want to use them.",
+                "a transvestite shows what she bought for her dog including shampoo and conditioner made by martha stuart. Martha Stuart is a famous name in cosmetics. She is the founder of martha stuart products."
+            ],
+            "gt": {
+                "txt_id": 366,
+                "txt": "a woman is talking about facial care products"
+            }
+        },
+        {
+            "vid_id": "video7823",
+            "original_pred": [
+                "foreign language cooking show"
+            ],
+            "augmented_pred": [
+                "a woman serves a bowl of soup woth stuff in it. In China, serving of bowls of soup is very difficult. In Indonesia, serving of bowls of soup is a tradition. In Korea, serving bowls of soup is a part of a wedding tradition.",
+                "a man eats rice and a woman goes to the hospital. Rice is usually served with soup and soup is usually served with different kind of fried rice.",
+                "foreign language cooking show. An average Chinese restaurant serves 5 courses. At the end of the dinner, there is a \"best of\" type of dish.",
+                "an asian woman is talking about food. Asian food is often served with some kind of soup.",
+                "an asian woman is talking about food. A very traditional meal called a \"kalbi\" is very popular in the indian subcontinent. Kalbi is composed of curries in the classic chinese style.",
+                "an asian woman is talking about food. Asian foods are prepared mainly by women.",
+                "an asian woman is talking about food. In Asian countries, the word \"food\" refers to cooking.",
+                "a man talks about kim chi to a camera. Kim chi is a traditional Korean dish served with rice and soup.",
+                "a man talks about kim chi to a camera. KIM (keoi mou) is Korean name of chik'eot, which is a soup made with broth and grated pork.",
+                "a man talks about kim chi to a camera. Kim Chi is a Chinese dessert."
+            ],
+            "gt": {
+                "txt_id": 368,
+                "txt": "an asian woman is talking about food"
+            }
+        },
+        {
+            "vid_id": "video8246",
+            "original_pred": [
+                "a guy talks about how a car s alternator wasn t working"
+            ],
+            "augmented_pred": [
+                "there is a man working on a car. A car is used to transport someone or something.",
+                "a guy talks about how a car s alternator wasn t working.",
+                "a vehicle with details on what comes with it by carfax. A vehicle is the part of a car that contains the mechanical parts, the engine, and the wheels.",
+                "there is a man working on a car. A car is a vehicle used for transportation.",
+                "there is a man working on a car. A car is needed for transportation.",
+                "a vehicle with details on what comes with it by carfax. A car report is a report that details the car\u2019s history and mechanical maintenance.",
+                "a car is in a wreck.",
+                "a car is in a wreck. In a wreck, cars come in several pieces. The only thing that remains of the car is the tire.",
+                "there is a man working on a car. The car is broken into.",
+                "there is a man working on a car. The man in the video is working on a car."
+            ],
+            "gt": {
+                "txt_id": 378,
+                "txt": "there is a man working on a car"
+            }
+        },
+        {
+            "vid_id": "video8068",
+            "original_pred": [
+                "a woman in black dress and a man in a black suit sits together"
+            ],
+            "augmented_pred": [
+                "a girl in blue color dress wearing siting speaking and television screen with black shirt man beside still image displaying on screen. Sitting stands for a person who sits on a sofa. Television screen indicates this also means watching the TV.",
+                "a woman on a couch talks to a a man. A talk show host asks questions of guests on the program.",
+                "a woman on a couch talks to a a man. A couch is a wide and comfortable chair.",
+                "a woman on a couch talks to a a man. When talking to someone, you sit as close to them as possible.",
+                "a woman in black dress and a man in a black suit sits together. Black dress is a common outfit for women. A man who wears a black suit usually wears a tie.",
+                "a girl and a man are talking to each other. The man is asking the girl about her relationship with her mother.",
+                "a man and a woman are talking about something. If a man talk to a woman, it could also be something they do together like watching TV, playing games, or making love. Conversely, a woman talking to a man could also be talking about something they do together, such as talking about their children.",
+                "a woman in black dress and a man in a black suit sits together.",
+                "a girl and a man are talking to each other. A girl and a boy are talking to each other.",
+                "a man and a woman are sitting in front of a television and addressing and audience."
+            ],
+            "gt": {
+                "txt_id": 411,
+                "txt": "a woman on a couch talks to a a man"
+            }
+        },
+        {
+            "vid_id": "video7594",
+            "original_pred": [
+                "food in a refrigerator is displayed on shelves in containers and on a lazy suzan"
+            ],
+            "augmented_pred": [
+                "water is being filtered in a tank with rocks. A tank with rocks that are used for filtering water filters large objects in the water.",
+                "water is being filtered in a tank with rocks. Rocks are used to filter out impurities from water.",
+                "water is being filtered in a tank with rocks. There is a tank with stones in it. Water is filtration.",
+                "food in a refrigerator is displayed on shelves in containers and on a lazy suzan.",
+                "water is being filtered in a tank with rocks. Water is usually filtered in a tank, and it is filled with rocks.",
+                "water is being filtered in a tank with rocks.",
+                "food in a refrigerator is displayed on shelves in containers and on a lazy suzan. In this video, the camera points away from a person.",
+                "food in a refrigerator is displayed on shelves in containers and on a lazy suzan. A lazy susan is a small glass container with one handle. This makes it easy to pick up and carry around.",
+                "water is being filtered in a tank with rocks. The water is filtered from the rocks in batches.",
+                "food in a refrigerator is displayed on shelves in containers and on a lazy suzan. They have no idea why they bought this."
+            ],
+            "gt": {
+                "txt_id": 429,
+                "txt": "water is being filtered in a tank with rocks"
+            }
+        },
+        {
+            "vid_id": "video7353",
+            "original_pred": [
+                "a man walks between two brick buildings a dusk"
+            ],
+            "augmented_pred": [
+                "a man walks between two brick buildings a dusk. A brick is a solid type of building material. Brick is very strong and durable.",
+                "a man walks between two brick buildings a dusk.",
+                "a man walks between two brick buildings a dusk. When the sun goes down, there is a red glow that can be seen in the bricks.",
+                "a man walks between two brick buildings a dusk. A dusk is a short dark period of time. The man walks between the buildings.",
+                "a minecraft video game is being played. Minecraft is a 3D video game that has you building a virtual house, village or city using blocks. Minecraft is free to download and play.",
+                "gameplay footage of someone playing minecraft. Minecraft is a game that allows people to create and build interesting things out of cubes.",
+                "a minecraft video game is being played. a minecraft video game is made by combining different ideas of the game.",
+                "a minecraft video game is being played. A Minecraft video game is played by people who want to build their own worlds.",
+                "guys play minecraft. A minecraft game is when players place blocks around a map.",
+                "a minecraft video game is being played."
+            ],
+            "gt": {
+                "txt_id": 440,
+                "txt": "a minecraft video game is being played"
+            }
+        },
+        {
+            "vid_id": "video8979",
+            "original_pred": [
+                "a compilation of vine videos is shown"
+            ],
+            "augmented_pred": [
+                "sports vine clips of basketball. Sports Vine is a video sharing site, used mostly for sharing Vine videos.",
+                "sports vine clips of basketball. To make a movie, you may wish to shoot some basketball footage.",
+                "a compilation of vine videos is shown. A compilation is a video with several videos playing at the same time.",
+                "sports vine clips of basketball. The basketball is started from the top of the court.",
+                "this is a vine sports compilation. Vine is a social video sharing app.",
+                "sports vine clips of basketball. These sport scenes are usually filmed on a basketball court.",
+                "a compilation of vine videos is shown. a compilation of Vine videos is shown.",
+                "a compilation of vine videos is shown. A compilation of vine videos is shown.",
+                "a compilation of vine videos is shown.",
+                "sports vine clips of basketball. Basketball is played on a court. A basketball team consists of several players."
+            ],
+            "gt": {
+                "txt_id": 442,
+                "txt": "sports vine clips of basketball"
+            }
+        },
+        {
+            "vid_id": "video8662",
+            "original_pred": [
+                "a person is cooking on stage"
+            ],
+            "augmented_pred": [
+                "a man a woman cooking on a cooking show. A cooking show is a television series that showcases the skills of everyday people who prepare food. A cooking show takes many hours to prepare and produce.",
+                "a man a woman cooking on a cooking show. Most cooking shows are aired on public television stations.",
+                "a person is doing cooking show and telling the ingredients. A cooking show usually appears on television. The producer of the show is the person who is in charge of creating the show.",
+                "a man a woman cooking on a cooking show. Cooking shows generally have a large number of guests. They also usually have a short running time.",
+                "a man a woman cooking on a cooking show. Cooking shows are usually held in theatres and studios. Usually, someone will cook in the kitchen or in front of the audience.",
+                "a man in a kitchen is preparing pancakes he s wearing a white shirt and has black hair. A person is often found wearing white as a dress, but she wears a white or black t-shirt with her hair in a bun.",
+                "someone is adding ingredients for a batter. Often, when two people make a film together, they share all the duties and some of the creative roles. The two people that make a movie may work together on the same set, or may have different sets, but they work together on the same project. You may know some actors or directors. But not all actors",
+                "a man a woman cooking on a cooking show. A cooking show frequently involves chefs preparing food.",
+                "a tv channel named how to cook great foodcom is telling how to prepare a dish. The end credits are a list of people who worked on the production.",
+                "a man a woman cooking on a cooking show. This is a cooking show. Some people are using a camera to record their cooking."
+            ],
+            "gt": {
+                "txt_id": 451,
+                "txt": "a man a woman cooking on a cooking show"
+            }
+        },
+        {
+            "vid_id": "video7174",
+            "original_pred": [
+                "this is about a young boy s photo shoot"
+            ],
+            "augmented_pred": [
+                "this is about a young boy s photo shoot. Photos are often used in TV and movies to present the person in a certain context. This example shows a photo of a young boy who is about to be photographed for a magazine story.",
+                "a man rides a lft to the top of a mountain. A man would usually ride a mechanical device called a lft (lift), to the top of a mountain.",
+                "man standing on the ledge of a vary tall building jumps off. The man was climbing a linden tree. He must have jumped from a high height.",
+                "this is about a young boy s photo shoot. The person who takes the photo shoots is usually an actor or actress.",
+                "a man rides a lft to the top of a mountain. A lft (lower floor) is the lowest floor of a building. To reach the top, the man rode a lft.",
+                "man talking about hiking. Hikers typically spend one or two nights on a hike in order to see all the sights.",
+                "a man rides a lft to the top of a mountain.",
+                "a man talks about visiting visiting a specific place to buy some things. A tourist will usually visit the places in order to buy things. Tourists usually take a bus or train.",
+                "a man rides a lft to the top of a mountain. A man stands on a lft and then jumps to the top of a mountain. He is often considered a risk taker.",
+                "this is about a young boy s photo shoot. A photo shoot is a series of photographs taken for a story."
+            ],
+            "gt": {
+                "txt_id": 478,
+                "txt": "a man rides a lft to the top of a mountain"
+            }
+        },
+        {
+            "vid_id": "video9684",
+            "original_pred": [
+                "man shows how to prepare pizza"
+            ],
+            "augmented_pred": [
+                "somebody slices white onion with sharp knife on the table. This is done to remove the outer layer of the onion.",
+                "cheese is being sliced. Using a food processor to make a pizza is more convenient than using a grater or a sharp knife.",
+                "man shows how to prepare pizza.",
+                "somebody slices white onion with sharp knife on the table. Onions are generally white.",
+                "cheese is being sliced.",
+                "a woman is making lasagna.",
+                "somebody slices white onion with sharp knife on the table. Some onion has thin skin. The knife cut that thin skin.",
+                "somebody slices white onion with sharp knife on the table. This is cutting onion with a sharp knife. You can easily see that the cut surface is white.",
+                "a woman bakes and decorates a cake. Cakes are made of flour, sugar and other ingredients.",
+                "cheese is being sliced. Cheese is usually made by hand. It is also called \u2018artisan cheese\u2019."
+            ],
+            "gt": {
+                "txt_id": 489,
+                "txt": "somebody slices white onion with sharp knife on the table"
+            }
+        },
+        {
+            "vid_id": "video9229",
+            "original_pred": [
+                "men talking about and eating hot dogs"
+            ],
+            "augmented_pred": [
+                "guys trying out ice cream. A frozen ice cream treat can be made in the freezer at home.",
+                "men talking about and eating hot dogs.",
+                "guys trying out ice cream. They tend to use a scoop and a drinking cup.",
+                "guys trying out ice cream. It is good to try out new things. It is good to try out new things. New things make you feel happy.",
+                "guys trying out ice cream. Creamy ice cream is soft and warm.",
+                "guys trying out ice cream.",
+                "guys trying out ice cream. A freezer is usually needed to keep ice cream or other flavors of ice cream frozen.",
+                "men talking about and eating hot dogs. They are usually hot dog sellers.",
+                "guys trying out ice cream. Ice cream can be made from different ingredients. Ice cream can be served with cookies and nuts.",
+                "men talking about and eating hot dogs. People generally don't talk about eating hot dogs."
+            ],
+            "gt": {
+                "txt_id": 524,
+                "txt": "guys trying out ice cream"
+            }
+        },
+        {
+            "vid_id": "video8451",
+            "original_pred": [
+                "athletes are getting ready and start running for an event"
+            ],
+            "augmented_pred": [
+                "a group of young athletes race around a track. The first few laps are rather hard. Then the athletes get to know the track and start to enjoy it.",
+                "athletes are getting ready and start running for an event. A race is the name of an event competition.",
+                "a group of young athletes race around a track. The track is probably a field, and most of the runners wear uniforms.",
+                "athletes are getting ready and start running for an event. A race is a competition between runners to see who is fastest.",
+                "athletes are getting ready and start running for an event. The movie starts at 9 am. Athletes get ready between 8 and 9 am.",
+                "a group of young athletes race around a track. These races are usually held at specific locations.",
+                "women athletes taking their positions for a running race. The men are taking their positions on a running race.",
+                "a group of young athletes race around a track. Usually, they are racing with a motor. Their speed is measured by a radar gun.",
+                "a group of young athletes race around a track. A track is a piece of land. Athletes try to get the least amount of time possible to complete the race. The athletes use bikes, bicycles, skates, running, swimming, and more to run around the track.",
+                "athletes are getting ready and start running for an event. A running event is usually a competition. Athletes compete in them."
+            ],
+            "gt": {
+                "txt_id": 552,
+                "txt": "a group of young athletes race around a track"
+            }
+        },
+        {
+            "vid_id": "video9034",
+            "original_pred": [
+                "a dog and a cat are in a standoff"
+            ],
+            "augmented_pred": [
+                "a baby playing with a cats tail. There are four ways for baby to play with cats tails: They play with them. They catch them. They hang them. They groom them (baby puts all of his or her hair into the cats tail).",
+                "lady and her dogs. The lady and her dogs are often kept together in one large home.",
+                "a man grabs at snakes and throws them around the room. The animals may bite you.",
+                "several dogs playing dead.",
+                "a dog and a cat are in a standoff. A standoff sometimes leads to fights between dogs and cats.",
+                "two child playing in the house. One of them is a baby and the other one is a dog.",
+                "several dogs playing dead. Dead dogs are usually collected by dog owners. They usually do not move around.",
+                "the house has at least three small pets. Usually their parents raise them.",
+                "a dog and a cat are in a standoff.",
+                "several dogs playing dead. They are not dead."
+            ],
+            "gt": {
+                "txt_id": 561,
+                "txt": "several dogs playing dead"
+            }
+        },
+        {
+            "vid_id": "video9033",
+            "original_pred": [
+                "a man jumps onto a ledge of a building"
+            ],
+            "augmented_pred": [
+                "man standing on the ledge of a vary tall building jumps off. Jumping off large buildings or out of airplanes is very dangerous.",
+                "a man jumps onto a ledge of a building. As the man leaps from the ledge onto the building roof, he falls safely to the ground below.",
+                "a man jumps onto a ledge of a building. The height of buildings vary depending on their materials and other structural factors.",
+                "man standing on the ledge of a vary tall building jumps off. The man in the video falls from various heights.",
+                "a man jumps onto a ledge of a building. People often jump from higher things.",
+                "man standing on the ledge of a vary tall building jumps off. It's not often that jumping off a building is successful. In fact, if the person is carrying anything, it may fall and harm himself or others.",
+                "a man jumps onto a ledge of a building. A man may jump from a tall building to the ground. He may also jump off a flat roof or a staircase.",
+                "a man jumps onto a ledge of a building.",
+                "man standing on the ledge of a vary tall building jumps off. Jumping is a relatively uncommon activity, so it is difficult to jump from that height. It is also likely that he lost his balance, or maybe he did not know where he was going.",
+                "a woman dances in the background while a guy doesn t move. This is a short animation."
+            ],
+            "gt": {
+                "txt_id": 562,
+                "txt": "man standing on the ledge of a vary tall building jumps off"
+            }
+        },
+        {
+            "vid_id": "video9063",
+            "original_pred": [
+                "a group of people are stamp dancing on stage in front of a crowd"
+            ],
+            "augmented_pred": [
+                "people on stage performing. A theatrical performance usually includes a script, actors, lighting and sound effects.",
+                "people on stage performing. A theatre performance usually involves singing, dancing, and acting.",
+                "a song with skeletons dancing. In the video, the audience see skeletons dancing.",
+                "people on stage performing. Most theaters do not have many actors in the same roles, or do not allow all actors to perform in the same roles.",
+                "sleeping beauty play promotion. A play plays many roles during the performance. Actors perform their roles on stage, audience members look at them and cheer them up (or boo them), choreographers create the dance moves and the set designer sets up the scenery and the lighting cues.",
+                "people are on stage talking. The actors usually wear elaborate costumes. The set is decorated with lights and other props.",
+                "a group of people are stamp dancing on stage in front of a crowd.",
+                "people on stage performing. There are actors on stage.",
+                "a group of people are stamp dancing on stage in front of a crowd. A stamp is a symbol of a formal dance.",
+                "people on stage performing. They perform music in theater."
+            ],
+            "gt": {
+                "txt_id": 601,
+                "txt": "people on stage performing"
+            }
+        },
+        {
+            "vid_id": "video8254",
+            "original_pred": [
+                "a girl in blue color dress wearing siting speaking and television screen with black shirt man beside still image displaying on screen"
+            ],
+            "augmented_pred": [
+                "a girl in blue color dress wearing siting speaking and television screen with black shirt man beside still image displaying on screen. An actress is dressed in a bluish color and wears a black shirt and standing beside a still image of her body on screen.",
+                "a girl in blue color dress wearing siting speaking and television screen with black shirt man beside still image displaying on screen. Television is used in movies to show still images of the actors that are acting.",
+                "a woman in a purple dress is talking on a video. There are many types of women in purple dresses. There is usually one woman in purple dress.",
+                "a woman in a purple dress is talking on a video. Purples are often worn by fashion models.",
+                "a woman in a purple dress is talking on a video. Purples are considered the most beautiful color. Purple is associated with royalty.",
+                "a woman in a purple dress is talking on a video. There's a purple dress in the scene.",
+                "a woman in a purple dress is talking on a video. She is in a purple dress.",
+                "a woman in a purple dress is talking on a video. People tend to talk on video in purple dresses.",
+                "a girl in blue color dress wearing siting speaking and television screen with black shirt man beside still image displaying on screen. A woman wears a lot of make-up.",
+                "a woman in a purple dress is talking on a video. This is just a clip of a video."
+            ],
+            "gt": {
+                "txt_id": 604,
+                "txt": "a woman in a purple dress is talking on a video"
+            }
+        },
+        {
+            "vid_id": "video7966",
+            "original_pred": [
+                "man shows how to prepare potatoes"
+            ],
+            "augmented_pred": [
+                "cheese is being sliced. Cheese is usually made by hand. It is also called \u2018artisan cheese\u2019.",
+                "cheese is being sliced. To slice cheese properly, one must be very delicate. The knife is used to make the slices really thin.",
+                "man shows how to prepare potatoes.",
+                "man shows how to prepare potatoes. Potatoes are usually boiled before they reach the table. A potato can be cut into several pieces before it is cooked. A potato can also be cut into small pieces by hand.",
+                "man shows how to prepare pizza.",
+                "someone is adding ingredients for a batter. Slicers can make thin slices of bread.",
+                "cheese is being sliced.",
+                "cheese is being sliced. Cheese is usually sliced from a wheel or block of cheese. Sometimes the cheese is ground with a grinder or grist. The shape and size of the cheese varies from person to person.",
+                "man shows how to prepare pizza. A pizza is a flat, thin cake filled with sauce and cheese.",
+                "cheese is being sliced. Cheese is the most common food in the world."
+            ],
+            "gt": {
+                "txt_id": 633,
+                "txt": "cheese is being sliced"
+            }
+        },
+        {
+            "vid_id": "video8079",
+            "original_pred": [
+                "a group of people are riding on a raft in a body of water"
+            ],
+            "augmented_pred": [
+                "a group of people are riding on a raft in a body of water. Water can be tricky to navigate in. People often drown when trying to paddle in a river.",
+                "a group of people are riding on a raft in a body of water. A swimming pool is a place where people go to swim in places that are deep enough to swim in.",
+                "several groups of people are kayaking on a waterway. Kayaks have paddle-like handles and wheels. The kayakers use these things to make their way through the water.",
+                "a group of people are riding on a raft in a body of water.",
+                "several groups of people are kayaking on a waterway.",
+                "several groups of people are kayaking on a waterway. Kayaking on water is often used in movies. But you usually don't kayak on water in the sea.",
+                "several groups of people are kayaking on a waterway. Kayaking is a sport that involves a small boat riding along a large body of water while being pushed around by another boat.",
+                "several groups of people are kayaking on a waterway. A waterway is an area with flowing water.",
+                "several groups of people are kayaking on a waterway. Kayaking is when you are paddling a boat made of wood or plastic between two or more bodies of water. If you are unable to swim, you put on board a rope or a paddle if you are riding.",
+                "a group of people are riding on a raft in a body of water. A raft is a hollow tube or box that someone rides on when they are on a raft."
+            ],
+            "gt": {
+                "txt_id": 642,
+                "txt": "several groups of people are kayaking on a waterway"
+            }
+        },
+        {
+            "vid_id": "video8392",
+            "original_pred": [
+                "two girls are sitting in the bed with a cat and talking"
+            ],
+            "augmented_pred": [
+                "two girls are sitting in the bed with a cat and talking. Most of the films in this category have been made by female filmmakers.",
+                "a girl in black color dress wearing cloth sleeping and smoking and peeping into hole displaying on screen. Black has been a color which can be used as a color contrast. People usually wear black clothes to avoid being seen by others.",
+                "a girl in black color dress wearing cloth sleeping and smoking and peeping into hole displaying on screen. Black dresses are usually worn by girls who are students. Black outfits are usually worn by students in the early morning.",
+                "a trailer for a movie with a girl knocking on the wall.",
+                "a trailer for a movie with a girl knocking on the wall. The trailers show the story of the movie, but it's not necessarily the entire story.",
+                "a trailer for a movie with a girl knocking on the wall. Trailers often show preview clips from the movie.",
+                "two girls are sitting in the bed with a cat and talking.",
+                "a woman looks after abandoned children for free in her home. Sometimes, abandoned children spend their night living with their parents. The main character is usually looking after three or four children by giving them sleeping pills and other drugs.",
+                "the lady came their room go to the kitchen try to make their food. Many TV shows (and movies) have end credits as well.",
+                "a girl in black color dress wearing cloth sleeping and smoking and peeping into hole displaying on screen. A black dress is usually worn by a man. The man often appears on camera."
+            ],
+            "gt": {
+                "txt_id": 653,
+                "txt": "a girl in black color dress wearing cloth sleeping and smoking and peeping into hole displaying on screen"
+            }
+        },
+        {
+            "vid_id": "video7367",
+            "original_pred": [
+                "a mashup of music videos is being played"
+            ],
+            "augmented_pred": [
+                "this is a rock band music video. rockers use many instruments in making their music videos.",
+                "this is a rock band music video. Rock bands usually have very flashy clothes. Rock bands usually wear sunglasses and have moustaches.",
+                "a video of a rock group performing one of their songs. When we listen to music, we see a picture of the artist, who has recorded the song.",
+                "this is a rock band music video. Rock music videos can be made on many different occasions. It is generally performed with a small PA system and usually by one person.",
+                "this little light of mine song with different photos. This song is sung by many people. The most famous lyrics are \"This little light of mine\".",
+                "a mashup of music videos is being played. Music video is a new type of video. Music videos are usually edited by a professional team.",
+                "this is a rock band music video. Rock music videos usually contain lots of shots from various angles.",
+                "this little light of mine song with different photos. A famous singer is featured in the song.",
+                "a mashup of music videos is being played. A mashup is usually the combination of one or two songs from one artist or group with another song or song parts or other elements.",
+                "a mashup of music videos is being played. A mashup combines several clips of different music videos together."
+            ],
+            "gt": {
+                "txt_id": 662,
+                "txt": "this is a rock band music video"
+            }
+        },
+        {
+            "vid_id": "video7469",
+            "original_pred": [
+                "a person in white color dress wearing cloth speaking on topic white board explayning and many persons sitting displaying on screen"
+            ],
+            "augmented_pred": [
+                "a person in white color dress wearing cloth speaking on topic white board explayning and many persons sitting displaying on screen. Many people wear white suits to public functions.",
+                "a video of a young man in a white shirt inviting his colleagues to join him. A young man or men with white T-shirts often work for a large company.",
+                "a video of a young man in a white shirt inviting his colleagues to join him. A white shirt is often worn by a male and usually signifies his high status.",
+                "a video of a young man in a white shirt inviting his colleagues to join him. The company where he works tends to be a popular company. It is most likely an online company.",
+                "a video of a young man in a white shirt inviting his colleagues to join him. It is a call for a meeting.",
+                "a man and woman looking at each other on the subway. The people around them tend to be in their mid to late thirties. The man is wearing a very light gray suit and the woman is wearing a pink shirt and black skirt.",
+                "man in grey shirt is having an interview in the building. The building is a large building which also serves as an office building.",
+                "man in grey shirt is having an interview in the building. There is a place where people can wait for interviews.",
+                "a person in white color dress wearing cloth speaking on topic white board explayning and many persons sitting displaying on screen. A person in white color dress wearing cloth speaking on topic white board explaining and many persons sitting displaying on screen.",
+                "a video of a young man in a white shirt inviting his colleagues to join him. He wears a white shirt."
+            ],
+            "gt": {
+                "txt_id": 749,
+                "txt": "a video of a young man in a white shirt inviting his colleagues to join him"
+            }
+        },
+        {
+            "vid_id": "video7963",
+            "original_pred": [
+                "presentation of the machine and its functions while working"
+            ],
+            "augmented_pred": [
+                "a machine drills holes in a section of metal piping. The hole is bored through the pipe and will be made bigger the closer it is to the end.",
+                "presentation of the machine and its functions while working. A machine, also known as a machine, is a set of equipment that can produce or work with material, such as metal, wood, plastics, rubber, or plastics. The machines are often used in factories, laboratories, hospitals, and industrial equipment manufacturers.",
+                "presentation of the machine and its functions while working. A presentation of a machine often includes information such as how many strokes it can make, what kind of noise it makes, how fast it works etc.",
+                "a machine drills holes in a section of metal piping. A drill, when used properly, will cut metal. This is useful if you need to change something in the material that is being drilled.",
+                "presentation of the machine and its functions while working.",
+                "a machine drills holes in a section of metal piping. A machine that drills holes uses a drill, a motor, and pipes.",
+                "a machine drills holes in a section of metal piping. This part is usually called the drilling machine. The machine is usually used to drill holes in metal pipes.",
+                "a machine drills holes in a section of metal piping.",
+                "a machine drills holes in a section of metal piping. A machine that drills holes in metal pipes is called a drilling machine.",
+                "a machine drills holes in a section of metal piping. Tools and machines are used to make things. Electric drills and metal drills are often used to drill holes in metal pipes."
+            ],
+            "gt": {
+                "txt_id": 751,
+                "txt": "a machine drills holes in a section of metal piping"
+            }
+        },
+        {
+            "vid_id": "video7844",
+            "original_pred": [
+                "a couple is shown"
+            ],
+            "augmented_pred": [
+                "bbc talking to guys with very expensive red sports car. BBC is often filmed outdoors.",
+                "a man talking about the two cars he test drove. This is a reference to a TV show named \"Two Guys and a Girl\" which was a television show which first appeared on CBS from 1952-1955.",
+                "a couple is shown.",
+                "bbc talking to guys with very expensive red sports car. People with red cars make lots of money. It is very expensive to own one of these cars.",
+                "a man getting interviewed by a beach.",
+                "bbc talking to guys with very expensive red sports car. Usually the sports car is used by guys who are in the movie.",
+                "a couple is shown. The male partner is usually bigger.",
+                "a man talks about cars. A man is a type of person that is generally considered to be very powerful because he or she can do things others cannot do.",
+                "this is about a young boy s photo shoot. The title of the film is the word \"Gentlemen\".",
+                "a couple is shown. A man and woman are usually shown together."
+            ],
+            "gt": {
+                "txt_id": 782,
+                "txt": "bbc talking to guys with very expensive red sports car"
+            }
+        },
+        {
+            "vid_id": "video8319",
+            "original_pred": [
+                "a movie scene starring morgan freeman and men in armor running"
+            ],
+            "augmented_pred": [
+                "scene of thor from the avengers. Thor and his friends are going through an adventure in space to get a spaceship that s missing.",
+                "there is a man in black is walking in to the bridge. The man in black, also called the ghost, is a character who appears in horror films to warn the hero.",
+                "there is a man in black is walking in to the bridge. The man in black is a hero.",
+                "there is a man in black is walking in to the bridge. The dark color symbolizes the absence of light. The dark color looks cold and threatening.",
+                "there is a man in black is walking in to the bridge. A man in black is usually used as a villain.",
+                "there is a man in black is walking in to the bridge. The man in black is often a villain in a film.",
+                "video game footage of a killing spree during call of duty black ops. Most movies include an opening scene where a hero, heroine, or villain are introduced.",
+                "scene of thor from the avengers. Thor is a mutant who is strong and fast. He is usually good at climbing.",
+                "a man is looking out a window to look at another man who jumped from the window to his death. A man often jumps to his death in movies to show how brave he is.",
+                "a woman jumps over a bar and attacks a man. The attacker might be wearing a protective helmet. This is when a woman jumps over a bar and hits someone."
+            ],
+            "gt": {
+                "txt_id": 788,
+                "txt": "there is a man in black is walking in to the bridge"
+            }
+        },
+        {
+            "vid_id": "video9639",
+            "original_pred": [
+                "a person is putting the vegetable in to the water and boil it"
+            ],
+            "augmented_pred": [
+                "women poring sauce to cooking vegetables. This is done because the spices give the food more flavour. Curry is usually served with vegetables.",
+                "a person is putting the vegetable in to the water and boil it.",
+                "women poring sauce to cooking vegetables. Cooking is mainly done by women.",
+                "women poring sauce to cooking vegetables. A sauce is used to improve the taste of food. Sauces also can add flavor to many other things.",
+                "women poring sauce to cooking vegetables. The sauce is often used to make dishes like soup or stews. It is usually thick and tasty.",
+                "a person is putting the vegetable in to the water and boil it. This is going to be our vegetable water.",
+                "a chef stirs up some ingredients inside of a pan. A pan is usually used to cook various foods such as vegetables and meat.",
+                "a person is putting the vegetable in to the water and boil it. When we boil any vegetable they produce lots of water.",
+                "women poring sauce to cooking vegetables. A sauce is used as a sauce usually combines two or more ingredients.",
+                "women poring sauce to cooking vegetables. Vegetables are sliced with a knife."
+            ],
+            "gt": {
+                "txt_id": 800,
+                "txt": "women poring sauce to cooking vegetables"
+            }
+        },
+        {
+            "vid_id": "video9609",
+            "original_pred": [
+                "how to make a galaxy fighter"
+            ],
+            "augmented_pred": [
+                "lego stormtroppers are in a facility. The end credit line of the movie lists the actors who played in it.",
+                "how to make a galaxy fighter. The main character of the movie is making a spaceship. The spaceship is using a fighter.",
+                "how to make a galaxy fighter. This article covers how to make your own starfighter/fighter in the X-Wing series or X-Wing video game.",
+                "two astronauts experiencing a tense situation before relaxing afterwards. Space exploration is dangerous. Astronauts must be prepared for all kinds of situations before going into space.",
+                "scene of thor from the avengers. Thor and his friends are going through an adventure in space to get a spaceship that s missing.",
+                "two astronauts experiencing a tense situation before relaxing afterwards. Astronauts often talk to their crew mates.",
+                "a man is talking about space project adam. Adam is an astronaut. He made a long journey to his home planet. There, he invented the robot.",
+                "a elecopter moving in air and red and yellow dress man hand touching speaking in snow land wearing helmet displaying on screen. Most Elecopters, the ones in the movie were not real.",
+                "two astronauts experiencing a tense situation before relaxing afterwards. I don't know what a tense situation is. I think that is a common expression. I do not know what it means.",
+                "lego stormtroppers are in a facility. Most Lego sets are based on films, such as Indiana Jones or Star wars."
+            ],
+            "gt": {
+                "txt_id": 822,
+                "txt": "two astronauts experiencing a tense situation before relaxing afterwards"
+            }
+        },
+        {
+            "vid_id": "video7202",
+            "original_pred": [
+                "a group of people are dancing in a room"
+            ],
+            "augmented_pred": [
+                "a group of people are dancing in a room. These people are in a group and doing different activities.",
+                "a group of people are dancing in a room.",
+                "a group of people are dancing in a room.",
+                "a group of people are dancing in a room. Dancing is fun.",
+                "a group of people are dancing in a room. A dance troupe is usually made up of dancers.",
+                "a group of people are dancing in a room. They may be from all over the world.",
+                "a group of people are dancing in a room. Usually dancers, or persons who dance, play music when they do this.",
+                "a group of people are dancing in a room. Sometimes people will dance in groups. They don't usually dance alone.",
+                "a group of people are dancing in a room. Carrying a club or baton is a sign of authority in a dance.",
+                "a group of people are dancing in a room. Dance is usually done in a small space. Usually, dancing groups or clubs are small."
+            ],
+            "gt": {
+                "txt_id": 839,
+                "txt": "a group of people are dancing in a room"
+            }
+        },
+        {
+            "vid_id": "video8683",
+            "original_pred": [
+                "couples describing the logic behind movie scenes"
+            ],
+            "augmented_pred": [
+                "two boys introducing a young lady who plays the cups and sings. A young lady often plays the role of an object. For example, she will be playing the role of a cup. Sometimes, the object is described as having a shape or style of its own.",
+                "two people welcome people to an episode of their show. The guests usually dress in bright-colored clothes.",
+                "two people welcome people to an episode of their show. They say the word 'come' and that means 'come and watch'.\"",
+                "a couple is shown.",
+                "couples describing the logic behind movie scenes.",
+                "people talking about their trip and how they are taken care of. The people who travel all around the world to do documentary projects are not usually very happy about it.",
+                "a man and a woman are talking about something.",
+                "a video of someone talking about some girls.",
+                "two boys introducing a young lady who plays the cups and sings. A young lady will play the cups and sing.",
+                "a group discusses a man s outfit. A man appears wearing clothes with short sleeves."
+            ],
+            "gt": {
+                "txt_id": 887,
+                "txt": "two people welcome people to an episode of their show"
+            }
+        },
+        {
+            "vid_id": "video7150",
+            "original_pred": [
+                "baseball player hits ball"
+            ],
+            "augmented_pred": [
+                "a picture of the batsman is shown and he is ready for the batting and the audience are watching the show. Batsmen are on center field. Batsmen usually wear white and black. They usually hold bats.",
+                "a picture of the batsman is shown and he is ready for the batting and the audience are watching the show. Batsmen play the part of bats.",
+                "a picture of the batsman is shown and he is ready for the batting and the audience are watching the show. Batsmen can perform a lot of tricks for the spectators. Batting is also called batting practice or batting practice game.",
+                "a picture of the batsman is shown and he is ready for the batting and the audience are watching the show. A batting match can be over in a minute, but it can take several minutes for the fielders to get their bats off the ground before it is over.",
+                "baseball player hits ball. Baseball players often have their home runs marked with a baseball.",
+                "a picture of the batsman is shown and he is ready for the batting and the audience are watching the show. The bat who is batting is showing his batting technique.",
+                "baseball player hits ball. Every team in the baseball league plays in their own stadium.",
+                "baseball player hits ball. There are many different types of baseballs. Each team has its own style of batting.",
+                "a man is playing baseball. A baseball is a large round ball hit into play with small bats called baseballs.",
+                "a picture of the batsman is shown and he is ready for the batting and the audience are watching the show. Batsmen usually have a white cap on their head and a bat on their shoulder."
+            ],
+            "gt": {
+                "txt_id": 893,
+                "txt": "a picture of the batsman is shown and he is ready for the batting and the audience are watching the show"
+            }
+        },
+        {
+            "vid_id": "video7154",
+            "original_pred": [
+                "a man looks at the battery of a computer"
+            ],
+            "augmented_pred": [
+                "the woman has a baby monitor. The camera in your home can be used for making movies.",
+                "demonstration on how to prepare something using a microwave. A microwave oven is used to heat food. There are usually many other kitchen appliances and tools used in a microwave.",
+                "demonstration on how to prepare something using a microwave. A microwave oven is usually used to cook food.",
+                "demonstration on how to prepare something using a microwave. A microwave oven turns food into a hot-spike. Microwaves can be used to cook anything.",
+                "there was a resistor in the back. Resistors are often used to limit the current in microchips.",
+                "demonstration on how to prepare something using a microwave. Microwaves are used in cooking to reheat food after it has been placed in the oven.",
+                "a girl in black color dress wearing cloth sleeping and smoking and peeping into hole displaying on screen. A television has three basic functions:to receive signals, to display images and to play audio. A television set has a cathode ray tube (CRT) that is an image projection device that is used to display images. A television sets also has a video",
+                "demonstration on how to prepare something using a microwave. Microwaves are usually used for heating food or beverages.",
+                "demonstration on how to prepare something using a microwave. Microwaves cook food by heating it rapidly using electric currents.",
+                "demonstration on how to prepare something using a microwave. Microwaves are used to cook food. Microwaves are needed when foods are very hot."
+            ],
+            "gt": {
+                "txt_id": 897,
+                "txt": "demonstration on how to prepare something using a microwave"
+            }
+        },
+        {
+            "vid_id": "video8864",
+            "original_pred": [
+                "vladmir putin talks on the news about the fight against terrorism"
+            ],
+            "augmented_pred": [
+                "a man in a suit and a woman wearing brown giving the news. In this news bulletin, they say that there's been an accident. The person who was driving the motorcycle is dead. This makes it clear to the viewer that the news is very serious.",
+                "a clip from fox news on the shelby north carolina shooting. Fox news on the shooting are talking about the story in detail.",
+                "a man speaks on a a news panel. A news talk show on television is aired all day. A news broadcast consists of short news items along with many reports on more long-running stories.",
+                "a guy reports on complex news. Complex news is usually reported by people with low information.",
+                "a clip from fox news on the shelby north carolina shooting. The shooting of the shelby north carolina massacre took place on November 5th, 2010.",
+                "a guy reports on complex news. A news report often takes a lot of details to be described in a short description.",
+                "vladmir putin talks on the news about the fight against terrorism. He is a president of Russian Federation.",
+                "a guy reports on complex news. News reports are usually given in simple language.",
+                "a clip from fox news on the shelby north carolina shooting. Fox news is a network of cable-television channels. Fox news gives news updates on political and social issues and debates.",
+                "a clip from fox news on the shelby north carolina shooting. A clip from fox news is mostly used to describe a news show. It does not include pictures."
+            ],
+            "gt": {
+                "txt_id": 909,
+                "txt": "a clip from fox news on the shelby north carolina shooting"
+            }
+        },
+        {
+            "vid_id": "video7795",
+            "original_pred": [
+                "a group of people are riding on a raft in a body of water"
+            ],
+            "augmented_pred": [
+                "a documentary on how to windsurf and in particular recover from a wipeout. A wipeout is a common problem when trying to sail a small boat around or up against the wind. In this type of accident, a boat's hull is ripped open and water is entering the boat from underneath.",
+                "a documentary on how to windsurf and in particular recover from a wipeout. Windsurfing is a sport in which one rides a surfboard using two wheels called wings and a board called a \"sail\". When flying into the wind, the sails get pulled together, making the board look like a huge ship, and when they are retracted, the",
+                "a group of people are riding on a raft in a body of water. The raft is made of plastic. Plastic is found in most types of water.",
+                "a documentary on how to windsurf and in particular recover from a wipeout. A wipeout is when a boat has its propeller knocked out. The boat is then left to drift and is only able to get a few yards before running into a sand bank or being swept away by the wind. The recovery from a wipeout might take quite a while",
+                "a group of people are riding on a raft in a body of water. A swimming pool is a place where people go to swim in places that are deep enough to swim in.",
+                "a documentary on how to windsurf and in particular recover from a wipeout. A wipeout is when the wind hits you in the face. It is something that you should learn how to avoid.",
+                "a documentary on how to windsurf and in particular recover from a wipeout. A wipeout means that a boat hits a wave so hard that the boat loses power.",
+                "several groups of people are kayaking on a waterway. Kayaking on water is often used in movies. But you usually don't kayak on water in the sea.",
+                "a man rowing a kayak is shown in slow motion. When a man stands on an oar, the sound effects of the water being splashed or the oar being pulled back can be observed, when a man is under water, or at the end of the paddle when he is lifted by the oar to continue rowing.",
+                "a man rowing a kayak is shown in slow motion. Like a boat, a kayak is also a boat-like object. When we see a kayak in motion, it is very slow."
+            ],
+            "gt": {
+                "txt_id": 915,
+                "txt": "a documentary on how to windsurf and in particular recover from a wipeout"
+            }
+        },
+        {
+            "vid_id": "video9798",
+            "original_pred": [
+                "man shows how to prepare potatoes"
+            ],
+            "augmented_pred": [
+                "man shows how to prepare potatoes. Potatoes are usually boiled before they reach the table. A potato can be cut into several pieces before it is cooked. A potato can also be cut into small pieces by hand.",
+                "a woman peeling vegetables in her kitchen. Vegetables are usually peeled by using a cutting board or a knife.",
+                "a woman peeling vegetables in her kitchen. She uses a knife to create cuts in the vegetables.",
+                "a woman peeling vegetables in her kitchen. All the vegetables are peeled by her.",
+                "man shows how to prepare potatoes.",
+                "woman is slicing the vegetables and decorating the meal. In this instance, the lady is carving the vegetables.",
+                "woman is slicing the vegetables and decorating the meal. Vegetables generally need to be cut into small, uniform pieces.",
+                "a woman peeling vegetables in her kitchen. Peeling vegetables is usually done in a very skillful way. Peeling vegetables is often used in various cooking videos on youtube.",
+                "women poring sauce to cooking vegetables. Vegetables are sliced with a knife.",
+                "a woman peeling vegetables in her kitchen. Vegetables in the kitchen are prepared with a peeler. A woman does this regularly."
+            ],
+            "gt": {
+                "txt_id": 923,
+                "txt": "a woman peeling vegetables in her kitchen"
+            }
+        },
+        {
+            "vid_id": "video9242",
+            "original_pred": [
+                "a person points out certain figures on a paper"
+            ],
+            "augmented_pred": [
+                "a cartoon on a young guy cursing. A cartoon is a drawing with a simple line or a few thin lines in it. Most cartoons are drawn by one or two people. A cartoon may be a comic strip or a comic book.",
+                "a person drawling people on a canvas. A person might draw figures, sketches, etc., with crayons or markers on paper or canvas.",
+                "a person drawling people on a canvas. Drawing is usually done with a pencil. Sometimes, the drawing is done with a felt pen.",
+                "someone is drawing pictures. A cartoon-like drawing is usually drawn with markers or pens.",
+                "a person points out certain figures on a paper. I learned that there are some people who are very good at figures. I learned a lot about figures.",
+                "it is the animation cartoon. An animator or art director makes a drawing on paper.",
+                "it is about a cartoon film. A cartoon film is made from the drawings of cartoons. Cartoon characters are usually drawn by hand.",
+                "someone is drawing pictures. A picture or diagram that shows a process step is called a flow chart. A flow chart is drawn using either a pencil or pen.",
+                "a person points out certain figures on a paper.",
+                "comedy skit with dc comics character vane. DC comics characters are drawn by a famous team of artists. The artist, Jack Kirby, designed and drew many of the characters. These DC comics characters were originally drawn by Stan Lee and later by Bob Kane."
+            ],
+            "gt": {
+                "txt_id": 939,
+                "txt": "a person drawling people on a canvas"
+            }
+        },
+        {
+            "vid_id": "video9244",
+            "original_pred": [
+                "many ladies and men are walking upstairs inside of a caged fence"
+            ],
+            "augmented_pred": [
+                "documentary about museum in peninsula. The museum in peninsula is visited by people from all over the world.",
+                "cabins on a sandy beach have walkways going up to their porches. Wood cabins can be made from wood because the wood can be soaked in water. Porches made of straw, grass and sticks are called \"cabins\".",
+                "many ladies and men are walking upstairs inside of a caged fence.",
+                "documentary about museum in peninsula. The museum has many interesting displays.",
+                "documentary about museum in peninsula. The museum is in a peninsula of the country.",
+                "documentary about museum in peninsula. The museum is located in peninsula.",
+                "documentary about museum in peninsula. The documentary in the beginning of this video is about museum in peninsula.",
+                "documentary about museum in peninsula.",
+                "many ladies and men are walking upstairs inside of a caged fence. People usually travel by foot or by horse. The caged fence is usually made with barbed wire or chain links.",
+                "many ladies and men are walking upstairs inside of a caged fence. A Caged fence is used to keep animals/insects confined. Animals usually don't want to leave (especially birds)."
+            ],
+            "gt": {
+                "txt_id": 941,
+                "txt": "documentary about museum in peninsula"
+            }
+        },
+        {
+            "vid_id": "video7209",
+            "original_pred": [
+                "a video is shown showing different cars"
+            ],
+            "augmented_pred": [
+                "a vehicle with details on what comes with it by carfax. A vehicle with a number or model number, as a detail about its performance.",
+                "a car of 1970 is on the screen. A 1970 model Mercedes was used in the film. In addition, a 1970 Chevrolet Camaro is also on the screen.",
+                "a video is shown showing different cars. Most of the cars in the video are very similar.",
+                "someone is showing a car features. Some people have cars they drive when they are on the road.",
+                "a video is shown showing different cars. Most common cars are usually produced under Ford, General Motors, Toyota and other automobile companies.",
+                "someone is showing a car features. There are many types of car that look similar to each other. A car does not have to be in a specific color to be considered a \"car\".",
+                "a man speaks on driving and a car model. This is an interesting car model. You can see the model here:",
+                "a vehicle with details on what comes with it by carfax. Cars often have the registration plate number or the model number.",
+                "someone is showing a car features. There are car brands that are featured in movies.",
+                "a man is driving a car through the countryside. A car usually has doors, windows, and other parts. A car may be driven by one person or several people."
+            ],
+            "gt": {
+                "txt_id": 960,
+                "txt": "someone is showing a car features"
+            }
+        }
+    ],
+    "get_worse": [
+        {
+            "vid_id": "video9776",
+            "original_pred": [
+                "one micky mouse is talking to other"
+            ],
+            "augmented_pred": [
+                "the girl shows the boys her medal in this cartoon. In this cartoon she wears a ribbon that is worn upon graduation of a school.",
+                "cartoon characters are talking to a pokemon. There are four elements necessary for turning an ordinary household object into a tool. The object has to be strong enough to withstand great forces, but light enough to be easily moved, have sharp points, and have a handle.",
+                "one micky mouse is talking to other. Puppets are often controlled with wires attached to other puppets.",
+                "a cartoon character prepares to ride a bicycle. A cartoon character is usually a small, cute, simple character. Unlike big, tough cartoon characters, cartoon characters are usually not to do with sports. They are usually good-looking, with bright eyes.",
+                "an animated horse is in a barn and the maker asks for comments. Animals are created by animators to study natural behavior.",
+                "the girl shows the boys her medal in this cartoon. Cancelled animations are cartoons with elements of animation but no characters.",
+                "one micky mouse is talking to other. A micky mouse is a mouse with a big head. The name is derived from the word \"mice\".",
+                "a bunch of cartoon faces are chomping their teeth and making eating gestures. Most cartoon faces are eating what they are chomping. They are just having fun and doing what they want to do.",
+                "one micky mouse is talking to other.",
+                "a bunch of cartoon faces are chomping their teeth and making eating gestures. This is a sequence of a children cartoon."
+            ],
+            "gt": {
+                "txt_id": 6,
+                "txt": "one micky mouse is talking to other"
+            }
+        },
+        {
+            "vid_id": "video8910",
+            "original_pred": [
+                "adding ingredients to a pizza"
+            ],
+            "augmented_pred": [
+                "man shows how to prepare pizza. A pizza is a flat, thin cake filled with sauce and cheese.",
+                "man shows how to prepare pizza. After being baked and cooled, pizzas can be eaten anywhere. Pizza is always served with tomato sauce/sauce.",
+                "adding ingredients to a pizza.",
+                "man shows how to prepare pizza. A pizza is usually made by adding sauce (a thick mixture of dried or cooked vegetables, meats, and spices), and topping them with cheese. It can be baked or fried.",
+                "man shows how to prepare pizza. Pizza is usually served and eaten before a meal. Pizza is often served before meals.",
+                "man shows how to prepare pizza. A pizza is a thin, breaded slice of a prepared dish that includes cheese, tomato sauce, and other ingredients.",
+                "adding ingredients to a pizza. Pizza generally consists of cheese, tomato sauce, and other ingredients. Sometimes, the pizza is wrapped in a paper or plastic wrap.",
+                "adding ingredients to a pizza. Adding ingredients to a pizza is more or less a different way of eating a pizza.",
+                "man shows how to prepare pizza. A pizza is made by putting dough on a large metal or ceramic pizza pan with a long handle. Once the dough has been heated, it is then placed on a metal or ceramic plate, which is placed onto the pizza pan.",
+                "adding ingredients to a pizza. A pizza is usually placed in a bowl and covered with plastic wrap."
+            ],
+            "gt": {
+                "txt_id": 22,
+                "txt": "adding ingredients to a pizza"
+            }
+        },
+        {
+            "vid_id": "video8916",
+            "original_pred": [
+                "cartoons of a sponge a squid and a starfish"
+            ],
+            "augmented_pred": [
+                "spongebob is showing memories of him with mr. A spongebob Squarepants is a small panda.",
+                "a man discusses spongebob. Spongebob Squarepants is a children's television show from 1957. Spongebob Squarepants is a character who is the main character of the show.",
+                "episode from spongebob cartoon. A cartoon character with a short life cycle. Spongebob and Patrick are a kind of animation characters, both are cartoon characters like SpongeBob and Patrick in the cartoon Spongebob SquarePants.",
+                "a man discusses spongebob. The spongebob cartoon is popular in children s culture. It is also popular in adults.",
+                "spongebob is showing memories of him with mr. SpongeBob is a cartoon character. The episode s story show Spongebob s family tree.",
+                "episode from spongebob cartoon. A spongebob cartoon is a series of animated cartoons and other short programs produced by the Disney Company.",
+                "episode from spongebob cartoon. Spongebob cartoons are not animated, but are made by computer. The cartoon is played on TV.",
+                "episode from spongebob cartoon. Spongebob Squarepants is a anthropomorphic fish named after his catchphrase.",
+                "spongebob is showing memories of him with mr. Mr spongebob is generally believed to be a famous cartoon character.",
+                "episode from spongebob cartoon. Spongebob and his family have a lot of fun. They love to show off their favorite food, spongebob fish."
+            ],
+            "gt": {
+                "txt_id": 24,
+                "txt": "cartoons of a sponge a squid and a starfish"
+            }
+        },
+        {
+            "vid_id": "video9519",
+            "original_pred": [
+                "boy band performs for a crowd"
+            ],
+            "augmented_pred": [
+                "three young people sing on stage. Young people often perform in front of large audiences. Musical performances can take place before a show or performance.",
+                "boy band performs for a crowd. Group of teenagers who often do concert tours.",
+                "a group of people are stamp dancing on stage in front of a crowd. Stamping means to stamp on a stamp with the foot. This is commonly done by people with high heels in pairs and with the stamp side up. It is also common to dance to stamping music.",
+                "boy band performs for a crowd. A boy band performing can be seen as entertainment.",
+                "boy band performs for a crowd. Boy bands usually consists of young men and women who sing and dance.",
+                "boy band performs for a crowd. Usually, boys bands perform for large audiences.",
+                "three young people sing on stage. This is a song composed by three young singers.",
+                "three kids are performing a song. The band has a lot of creativity and talent.",
+                "three young people sing on stage. The people who sings on stage are usually professional singers. Sometimes, they sing songs or plays.",
+                "three young people sing on stage. The concert is usually held in a large hall."
+            ],
+            "gt": {
+                "txt_id": 61,
+                "txt": "boy band performs for a crowd"
+            }
+        },
+        {
+            "vid_id": "video9201",
+            "original_pred": [
+                "a trailer for an upcoming movie with people on a beach"
+            ],
+            "augmented_pred": [
+                "boys and girls dancing and singing on beach. Often, when the movie is released, children are able to see the movie for free.",
+                "boys and girls dancing and singing on beach. Girls and boys often hang out together. This is because school seems to be boring, so it makes it easier to go out and have fun.",
+                "a trailer for an upcoming movie with people on a beach. Usually, a trailer starts with the words \u201cWatch the Video\u201d.",
+                "a man and a woman are singing on the beach. The beach is often used in the movies. Often, musicians and singers will appear on beaches and beaches.",
+                "a man and a woman are singing on the beach. People usually sing when they are happy. Singing is also meant as a way of expressing something with others. You find people singing along to a song by singing along with the song.",
+                "a trailer for an upcoming movie with people on a beach. Trailers were sometimes used to advertise movies.",
+                "boys and girls dancing and singing on beach. Dancing and singing are often done during film productions, especially live-performances.",
+                "boys and girls dancing and singing on beach. Kids usually play on the beach. Dancers usually wear a long skirt and a halter top. Kids usually wear sandals and swimsuit bottoms.",
+                "a man and a woman are singing on the beach. The soundtrack of the music is always being played. Usually, the songs are also sung by the actors.",
+                "a trailer for an upcoming movie with people on a beach."
+            ],
+            "gt": {
+                "txt_id": 80,
+                "txt": "a trailer for an upcoming movie with people on a beach"
+            }
+        },
+        {
+            "vid_id": "video9340",
+            "original_pred": [
+                "one sad one trying to comfort"
+            ],
+            "augmented_pred": [
+                "a woman feeds another. The first model was also called \"Model A\". She was probably a student or an apprentice.",
+                "sleeping beauty play promotion. In a lot of movies, a sleeping beauty is a beautiful woman. In some countries, especially in India, a sleeping beauty is a girl who is going to be married in one day.",
+                "a woman laughs until she chokes. A woman smiles to make others laugh.",
+                "a woman laughs until she chokes. No one likes to laugh. It is a sign of weakness.",
+                "some peole are sitting in hall.",
+                "an ethiopian woman asks a child what she is good at. Ethiopians and children often make very close friends. They also often help each other.",
+                "a woman laughs until she chokes.",
+                "one sad one trying to comfort.",
+                "an ethiopian woman asks a child what she is good at. Ethiopian women are known to be good at things like washing clothes and cleaning house.",
+                "one sad one trying to comfort. We all feel sad. But we don't all want to listen to our friends."
+            ],
+            "gt": {
+                "txt_id": 92,
+                "txt": "one sad one trying to comfort"
+            }
+        },
+        {
+            "vid_id": "video9347",
+            "original_pred": [
+                "a woman in red dress explaining about cushion seat"
+            ],
+            "augmented_pred": [
+                "a red haired woman holds a green parrot near shelves filled with bird food. In many western societies, red hair is very fashionable.",
+                "a woman in red dress explaining about cushion seat.",
+                "a woman in red dress explaining about cushion seat. There is a chair with a cushion seat.",
+                "a woman in red dress explaining about cushion seat. Cushions are used to seat people in car.",
+                "a red haired woman holds a green parrot near shelves filled with bird food. The two birds look so happy.",
+                "a woman in red dress explaining about cushion seat. It refers to the cushions that people use in their seats when watching a movie on a chair.",
+                "a red haired woman holds a green parrot near shelves filled with bird food.",
+                "a red haired woman holds a green parrot near shelves filled with bird food. A red haired woman holding a bird feeder is usually going to someone who loves birds.",
+                "a woman in red dress explaining about cushion seat. Cushions are usually used in the cinema as seats.",
+                "a red haired woman holds a green parrot near shelves filled with bird food. Parrots usually eat plants. Parrots are very affectionate pets. They live in flocks and will often follow you around. They have short lives too, so it usually takes them a while to get through their whole life cycle."
+            ],
+            "gt": {
+                "txt_id": 97,
+                "txt": "a woman in red dress explaining about cushion seat"
+            }
+        },
+        {
+            "vid_id": "video7834",
+            "original_pred": [
+                "a man in striped collared shirt discusses jobs in news room of bloomberg"
+            ],
+            "augmented_pred": [
+                "a man talks about the school system. The United States education system is very different from Britain and other European nations.",
+                "a man in a suit is talking on a television economy program. Economy channels are most common in the US. In Australia, they are called 'NBN' channels.",
+                "a man in striped collared shirt discusses jobs in news room of bloomberg. A man in striped collared shirt would like to open a newsroom job in news room of bloomberg, but he has not been accepted by other agencies.",
+                "in an interview a person in advocating education among the populace. In America, we have more advanced education and higher rates across the board.",
+                "a news reader describing about a news. A news reader is a person in the United States who reads news. A person who reads news is called a newsreader.",
+                "a man is talking about something. It is said to be hard to find men in the United States who can talk.",
+                "person is talking about the big growth in the cities. The bigger the city is, the bad economy would be better.",
+                "two men discuss social issues. In the United States, many social issues are discussed in congress.",
+                "a man in a suit is talking on a television economy program. In American culture, a TV talk show is a segment on a television program that discusses current events and opinion on current events.",
+                "a man in striped collared shirt discusses jobs in news room of bloomberg."
+            ],
+            "gt": {
+                "txt_id": 144,
+                "txt": "a man in striped collared shirt discusses jobs in news room of bloomberg"
+            }
+        },
+        {
+            "vid_id": "video8650",
+            "original_pred": [
+                "a news convention is held"
+            ],
+            "augmented_pred": [
+                "a person in white color dress wearing cloth speaking on topic white board explayning and many persons sitting displaying on screen. Often people in white wear cloths (white outfits) on the sets. They may also wear white headdress or veil. They speak on white boards. They also sit on the set.",
+                "a woman is singing and pouring drinks. Singer or a host often give speeches at festivals.",
+                "people are on stage talking. The actors usually wear elaborate costumes. The set is decorated with lights and other props.",
+                "a man giving information about the mormon game. A game is usually played by a lot of people. The first Mormon settlers were members of the church.",
+                "a man giving information about the mormon game. Mormonism is a religion. People play the mormon game (usually as a team) when they want to do something that is against their faith. The purpose of the game is to get rid of what is known as the \"mormon curse\".",
+                "the woman wearing the white top talks to the people in the audience. The end credits, which appear after the final scene of a film, list everyone involved in the production.",
+                "a man giving information about the mormon game. Mormons are people who follow the teachings of Joseph Smith, an early leader of the church.",
+                "a female journalist wearing a purple shirt and white blazer is talking on a news show next to the image of a male in a dark suit. Women in purple shirts and men in dark suits are probably reporters. A female reporter wears a purple shirt and a jacket.",
+                "a girl sitting in a restaurant. Many restaurants have waiters inside that help customers order food. This is also a popular method of training young people to work in restaurants.",
+                "the woman wearing the white top talks to the people in the audience. She is asking the people in the audience to tell her what they think of the film. The end credits list everyone who worked on the film. They talk about the music performed in the film and the special effects."
+            ],
+            "gt": {
+                "txt_id": 163,
+                "txt": "a news convention is held"
+            }
+        },
+        {
+            "vid_id": "video7588",
+            "original_pred": [
+                "a man showing his finished product of a wood floor in his home"
+            ],
+            "augmented_pred": [
+                "a man showing his finished product of a wood floor in his home. If a man is shown using an electric brush to clean a piece of wood, it means that someone cleans the floor just now.",
+                "instructional video on home improvement subjects. This would be like a basic how-to video, where someone would talk about how to do something.",
+                "a man showing his finished product of a wood floor in his home. Wood floors will not be damaged with wet feet, so the floor is safe for children and pets to be on.",
+                "instructional video on home improvement subjects. It explains some basic tips on how to fix various problems in the house.",
+                "a man showing his finished product of a wood floor in his home. A common example of a finished product is wood floors.",
+                "instructional video on home improvement subjects. A video about home improvement topics is generally for a beginner.",
+                "instructional video on home improvement subjects. Home improvement is something that can be done at your home.",
+                "a man showing his finished product of a wood floor in his home.",
+                "instructional video on home improvement subjects. The video discusses home improvement and cleaning using simple and inexpensive tools.",
+                "instructional video on home improvement subjects."
+            ],
+            "gt": {
+                "txt_id": 189,
+                "txt": "a man showing his finished product of a wood floor in his home"
+            }
+        },
+        {
+            "vid_id": "video8901",
+            "original_pred": [
+                "men pushing a car down assembly line"
+            ],
+            "augmented_pred": [
+                "men in a garage talk about a car they are going to restore. Mens Garage work on cars that are meant to be restored. Sometimes, men in Mens Garage are called, men in love.",
+                "men in a garage talk about a car they are going to restore. A car must be restored to look \"right.\" Some parts of the car are restored with metal and others with cloth.",
+                "men in a garage talk about a car they are going to restore. A car restoration shop could be very large. It normally has many cars under it.",
+                "men in a garage talk about a car they are going to restore. A car can be restored without the owner. A professional body shop can sometimes rebuild a car from scratch.",
+                "men pushing a car down assembly line. The car will be assembled in this way.",
+                "men pushing a car down assembly line. Men move things in a factory.",
+                "men pushing a car down assembly line. It is a very complicated process.",
+                "men pushing a car down assembly line.",
+                "men in a garage talk about a car they are going to restore. It's often the case that car restoration can require several days of work.",
+                "men in a garage talk about a car they are going to restore."
+            ],
+            "gt": {
+                "txt_id": 213,
+                "txt": "men pushing a car down assembly line"
+            }
+        },
+        {
+            "vid_id": "video8332",
+            "original_pred": [
+                "someone is assembling a small hello kitty oven toy"
+            ],
+            "augmented_pred": [
+                "there was a resistor in the back. Resistors are used to make small adjustments to a circuit.",
+                "person straightening out string of magnets and wrapping them around his finger. A string of magnets is a small coil wrapped around the barrel of a magnet.",
+                "there was a resistor in the back. Resistors are often used in circuits. Resistance is measured in ohms.",
+                "someone is assembling a small hello kitty oven toy. A small Hello Kitty oven is being assembled for a customer.",
+                "there was a resistor in the back. Resistors usually exist in circuits to prevent overshoot or under-shoot. The electrical industry uses them to protect against short circuits.",
+                "there was a resistor in the back. Resistors are often used to limit the current in microchips.",
+                "there was a resistor in the back. Resistors can help control the current generated by circuits.",
+                "someone is assembling a small hello kitty oven toy.",
+                "person straightening out string of magnets and wrapping them around his finger. A string of magnets is put near the camera to make the viewer use the camera.",
+                "there was a resistor in the back."
+            ],
+            "gt": {
+                "txt_id": 334,
+                "txt": "someone is assembling a small hello kitty oven toy"
+            }
+        },
+        {
+            "vid_id": "video9826",
+            "original_pred": [
+                "an animated micky is driving a car"
+            ],
+            "augmented_pred": [
+                "cartoon cars smiling talking and driving down a city road. A cartoon car is probably one of the most interesting vehicles to have. It is the perfect vehicle for taking a picture.",
+                "cartoon cars smiling talking and driving down a city road. Most cartoon cars have a smiley face. Some car companies make their cartoon cars look like real cars.",
+                "cartoon cars smiling talking and driving down a city road. Cars in cartoons and TV shows are often drawn with exaggerated emotions. The characters often have a silly grin on their faces.",
+                "cartoon cars smiling talking and driving down a city road. These cartoon cars have been modeled after actual cars. They are usually shown next to each other.",
+                "cartoon cars smiling talking and driving down a city road. People who have a love for cartoons often want to take a drive in a cartoon car like this one.",
+                "cartoon cars smiling talking and driving down a city road. Most cartoons are done by hand; cartoons are animated drawings with special effects.",
+                "a animated car going on the roads with blue mark on either sides. A car has wheels painted on it.",
+                "cartoon cars smiling talking and driving down a city road. The cartoon cars in the animation movie are driven by talking cartoon characters.",
+                "cartoon cars smiling talking and driving down a city road. Cars are also referred to as cartoons.",
+                "cartoon cars smiling talking and driving down a city road. Cartoons usually have happy endings. Many cartoons have been made about animals."
+            ],
+            "gt": {
+                "txt_id": 350,
+                "txt": "an animated micky is driving a car"
+            }
+        },
+        {
+            "vid_id": "video7820",
+            "original_pred": [
+                "a guy talks about how a car s alternator wasn t working"
+            ],
+            "augmented_pred": [
+                "men in a garage talk about a car they are going to restore. A car can be restored without the owner. A professional body shop can sometimes rebuild a car from scratch.",
+                "men in a garage talk about a car they are going to restore. It's often the case that car restoration can require several days of work.",
+                "men in a garage talk about a car they are going to restore. A car restoration involves replacing the whole inside of the car if possible and then selling it to recover money.",
+                "there is a man working on a car. Car manufacturers often have mechanics working on cars.",
+                "men in a garage talk about a car they are going to restore. A garage is where a person repairs and stores items.",
+                "men in a garage talk about a car they are going to restore. Mens Garage work on cars that are meant to be restored. Sometimes, men in Mens Garage are called, men in love.",
+                "there is a man working on a car. There is a man who uses a car for his needs.",
+                "men in a garage talk about a car they are going to restore. A car must be restored to look \"right.\" Some parts of the car are restored with metal and others with cloth.",
+                "there is a man working on a car. A man does work while he is sitting and driving a car.",
+                "a guy talks about how a car s alternator wasn t working."
+            ],
+            "gt": {
+                "txt_id": 369,
+                "txt": "a guy talks about how a car s alternator wasn t working"
+            }
+        },
+        {
+            "vid_id": "video7914",
+            "original_pred": [
+                "a flower and other natural scenes are displaying"
+            ],
+            "augmented_pred": [
+                "a flower and other natural scenes are displaying. Flowers and other natural scenes (like trees and mountains) are present in films because they make the film look real.",
+                "tourists walking around the mount fuji visitor center. The visitor center contains several exhibits, including information about the mountain, a video about Mount Fuji (called Fuji TV Special), a short film that shows how the mountain got its name, and a guide that tells visitors about the history of the mountain.",
+                "tourists walking around the mount fuji visitor center. The place was built to display the famous Mount Fuji.",
+                "tourists walking around the mount fuji visitor center. Mount Fuji is one of Japan's most beautiful natural wonders.",
+                "a flower and other natural scenes are displaying.",
+                "a flower and other natural scenes are displaying. Flowers and landscapes are always beautiful. It is important to take care of them.",
+                "tourists walking around the mount fuji visitor center. Mount Fuji is one of the popular and sacred mountains in Japan. It also is a place of great geological beauty. Tourists often visit it.",
+                "tourists walking around the mount fuji visitor center. The visitors, who are guided by tour guides, are told everything they want to know about the island.",
+                "tourists walking around the mount fuji visitor center. Visitors often visit the area around Mount Fuji.",
+                "tourists walking around the mount fuji visitor center. The visitor center is dedicated to Mount Fuji."
+            ],
+            "gt": {
+                "txt_id": 399,
+                "txt": "a flower and other natural scenes are displaying"
+            }
+        },
+        {
+            "vid_id": "video7915",
+            "original_pred": [
+                "a man in sunglasses and a blue shirt beat boxes"
+            ],
+            "augmented_pred": [
+                "a man in sunglasses and a blue shirt beat boxes.",
+                "a man in sunglasses and a blue shirt beat boxes. When doing a job, one has to wear appropriate clothing.",
+                "a man is singing and standing in the road. Standing or sitting in the road can be dangerous.",
+                "a man is singing and standing in the road.",
+                "this is about a young boy s photo shoot. The person who takes the photo shoots is usually an actor or actress.",
+                "a man is singing and standing in the road. He is singing to himself like an old blues man.",
+                "this is about a young boy s photo shoot.",
+                "this is about a young boy s photo shoot. A photo shoot is a series of photographs taken for a story.",
+                "a man is singing and standing in the road. The man's voice is heard in the background.",
+                "a young boy rocks out on a guitar. Young people are usually very active. They are often seen dancing or playing outside."
+            ],
+            "gt": {
+                "txt_id": 400,
+                "txt": "a man in sunglasses and a blue shirt beat boxes"
+            }
+        },
+        {
+            "vid_id": "video7599",
+            "original_pred": [
+                "people compete in a backyard competition"
+            ],
+            "augmented_pred": [
+                "a girl doing gymnastics in the front yard. Many people do this skill because it is fun. Gymnastics is also called ballet.",
+                "people compete in a backyard competition.",
+                "people compete in a backyard competition. Culture is different in different cultures.",
+                "people compete in a backyard competition. A backyard competition is a competition between two or more people or groups.",
+                "a girl doing gymnastics in the front yard. Girls usually like to do gymnastics. The first thing they learn is how to balance.",
+                "a girl doing gymnastics in the front yard.",
+                "a group of young people are playing. For something like this, there are usually a few young kids there to watch it.",
+                "a girl doing gymnastics in the front yard. A girl might not be allowed to do something that a boy is doing.",
+                "a girl doing gymnastics in the front yard. A gymnastics is a discipline of performing gymnastics-type movements. Gymnastics requires strength, flexibility, coordination, and endurance.",
+                "people practising marshal arts. Dance dance and exercise."
+            ],
+            "gt": {
+                "txt_id": 422,
+                "txt": "people compete in a backyard competition"
+            }
+        },
+        {
+            "vid_id": "video9683",
+            "original_pred": [
+                "a man and woman performing in front of judes"
+            ],
+            "augmented_pred": [
+                "people are on stage talking. The actors usually wear elaborate costumes. The set is decorated with lights and other props.",
+                "people on stage performing. There are actors on stage.",
+                "people on stage performing. These are actors who act in films. They are also known as actors or performers.",
+                "a man and woman performing in front of judes. An ancient art form, \"Judes\" was performed by dancers in front of the king.",
+                "people on stage performing. A theatre performance usually involves singing, dancing, and acting.",
+                "a man and a woman are singing a song in a stage. There are many actors and actresses who perform on stage. There are also dancers and singers.",
+                "a man and woman performing in front of judes. The stage show begins once the woman s dance moves are shown.",
+                "people on stage performing. Most theaters do not have many actors in the same roles, or do not allow all actors to perform in the same roles.",
+                "people on stage performing. Actors often perform on stage.",
+                "people on stage performing. A stage play is usually performed in a theater or cinema theatre. The actors usually make a short speech at the end of the play."
+            ],
+            "gt": {
+                "txt_id": 488,
+                "txt": "a man and woman performing in front of judes"
+            }
+        },
+        {
+            "vid_id": "video9957",
+            "original_pred": [
+                "a group of people are dancing in a room"
+            ],
+            "augmented_pred": [
+                "a group of people are dancing in a room. These people are in a group and doing different activities.",
+                "a group of people are dancing in a room. The dancers are performing a ballroom dance.",
+                "a group of people are dancing in a room.",
+                "a group of people are dancing in a room.",
+                "a group of people are dancing in a room. This looks like a room.",
+                "a group of people are dancing in a room. Dancing is fun.",
+                "a couple dancing doing salsa. People often dance in their own social groups.",
+                "a group of people are dancing in a room. Sometimes people will dance in groups. They don't usually dance alone.",
+                "a group of people are dancing in a room. Carrying a club or baton is a sign of authority in a dance.",
+                "a group of people are dancing in a room. Usually dancers, or persons who dance, play music when they do this."
+            ],
+            "gt": {
+                "txt_id": 554,
+                "txt": "a group of people are dancing in a room"
+            }
+        },
+        {
+            "vid_id": "video9030",
+            "original_pred": [
+                "animated pirates sing on a ship"
+            ],
+            "augmented_pred": [
+                "animated pirates sing on a ship. The pirate ship is very fast.",
+                "animated pirates sing on a ship. The pirate ship is often seen in pirate movies.",
+                "animated pirates sing on a ship. An animated movie is a film made by using computer animation.",
+                "a pirate man tries to lift a lantern with his sword while on a boat. A pirate ship is like a submarine, except that the crew is not called \"sea pirates\". Crew members are called \"pirates\" or \"crew\". The most famous pirates are Captain Robert \"Pirate Bob\" Blackbeard and Captain Jonathan \"Jonny Quest\" Glass.",
+                "a pirate man tries to lift a lantern with his sword while on a boat. A pirate is a person who robs ships. A pirate is usually not supposed to kill anyone. A great pirate usually has many ships.",
+                "a pirate man tries to lift a lantern with his sword while on a boat. A ship or boat is the place where a pirate gathers before he attacks a ship.",
+                "animated pirates sing on a ship.",
+                "a pirate man tries to lift a lantern with his sword while on a boat. Pirates are often sea-faring people. A pirate ship is a ship that sails on the sea.",
+                "animated pirates sing on a ship. Pirates always sing when they are on a ship.",
+                "a pirate man tries to lift a lantern with his sword while on a boat. A sword is usually used for fighting. Pirates might also use swords for fighting. When a pirate makes a sword he will usually show off its properties."
+            ],
+            "gt": {
+                "txt_id": 565,
+                "txt": "animated pirates sing on a ship"
+            }
+        },
+        {
+            "vid_id": "video9814",
+            "original_pred": [
+                "a scene from spongebob squarepants where the townspeople are carrying torches and chasing a giant squidward"
+            ],
+            "augmented_pred": [
+                "spongebob is showing memories of him with mr. Mr spongebob is generally believed to be a famous cartoon character.",
+                "spongebob is showing memories of him with mr. The person shown in this video is Spongebob Square Pants, a character made by Matt Groening.",
+                "a scene from spongebob squarepants where the townspeople are carrying torches and chasing a giant squidward. Spongebob Squarepants is a show about the adventures of SpongeBob SquarePants.",
+                "a man discusses spongebob. Spongebob Squarepants is a children's television show from 1957. Spongebob Squarepants is a character who is the main character of the show.",
+                "spongebob is talking to patrick while holding a butterfly net. Spongebob has a very important role in the film. Spongebob is a sponge, known as an eponymous character in the SpongeBob SquarePants series.",
+                "a man discusses spongebob. SpongeBob is not a real person. SpongeBob is a combination of a popular cartoon character and a character from a Japanese cartoon.",
+                "spongebob is showing memories of him with mr. A spongebob Squarepants is a small panda.",
+                "spongebob is showing memories of him with mr. Spongebob is Spongebob Squarepants.",
+                "a scene from spongebob squarepants where the townspeople are carrying torches and chasing a giant squidward. Spongebob Squarepants was a children's cartoon series.",
+                "a scene from spongebob squarepants where the townspeople are carrying torches and chasing a giant squidward."
+            ],
+            "gt": {
+                "txt_id": 584,
+                "txt": "a scene from spongebob squarepants where the townspeople are carrying torches and chasing a giant squidward"
+            }
+        },
+        {
+            "vid_id": "video8498",
+            "original_pred": [
+                "delicious and colorful food is in the bowl"
+            ],
+            "augmented_pred": [
+                "a foul mouthed chef demonstrates and describes a vegetable recipe. The name of the vegetables and the ingredients used in preparing them are shown in the video description.",
+                "a foul mouthed chef demonstrates and describes a vegetable recipe. The chef uses different ingredients for the recipes. He calls them different vegetables.",
+                "a foul mouthed chef demonstrates and describes a vegetable recipe. Many vegetables taste different than others when cooked. They all have a unique taste.",
+                "delicious and colorful food is in the bowl.",
+                "a flower and other natural scenes are displaying. A flower is usually surrounded by fresh, fresh vegetables.",
+                "delicious and colorful food is in the bowl. Food is usually displayed on the table. This bowl is often used for serving food.",
+                "a foul mouthed chef demonstrates and describes a vegetable recipe.",
+                "a foul mouthed chef demonstrates and describes a vegetable recipe. The chef is known for his rude behavior.",
+                "delicious and colorful food is in the bowl. The food is very tasty.",
+                "delicious and colorful food is in the bowl. Food is usually not very nutritious. In this case, it is delicious."
+            ],
+            "gt": {
+                "txt_id": 591,
+                "txt": "delicious and colorful food is in the bowl"
+            }
+        },
+        {
+            "vid_id": "video8074",
+            "original_pred": [
+                "a girl sitting in a restaurant"
+            ],
+            "augmented_pred": [
+                "a girl practising her boy and arrow tricks. Boys often want to learn how to shoot arrows and girls want to know what's good for men. Girls have an instinct for looking for answers to boys questions.",
+                "a cute girl with nice headgear standing in a room is talking through a microphone. The actors in these videos have had plenty of action time and may not be as good as someone who has not had as much work.",
+                "a girl practising her boy and arrow tricks. She is demonstrating her moves to her boyfriend.",
+                "a girl and a man are talking to each other. A girl and a boy are talking to each other.",
+                "a girl in black color dress wearing cloth sleeping and smoking and peeping into hole displaying on screen. Black dresses are usually worn by girls who are students. Black outfits are usually worn by students in the early morning.",
+                "a girl wearing a dress stands to the side of the screen while lyrics to a song playing in the background appear on the other side. In most movies, it is common for the actress to play the character when singing in the song.",
+                "a girl and a man are talking to each other. The man is asking the girl about her relationship with her mother.",
+                "a girl sitting in a restaurant. She has a pretty new haircut.",
+                "a woman in black puts on blush while looking in a mirror. A woman in black is supposed to look seductive.",
+                "a girl sitting in a restaurant. A girl usually wears a dress."
+            ],
+            "gt": {
+                "txt_id": 648,
+                "txt": "a girl sitting in a restaurant"
+            }
+        },
+        {
+            "vid_id": "video7363",
+            "original_pred": [
+                "a man loads a clip into a pistol"
+            ],
+            "augmented_pred": [
+                "a man loads a clip into a pistol. a clip is a little device that helps to hold a cartridge in place when loading a gun.",
+                "there is a man repairing a product on the table.",
+                "there is a man repairing a product on the table. A product being repaired usually has to be reassembled.",
+                "a man loads a clip into a pistol.",
+                "there is a man repairing a product on the table. Products are usually repaired using specialized tools like drills.",
+                "a man loads a clip into a pistol. A clip is a small piece of metal, plastic or cardboard tape used to attach film images to computer screens.",
+                "a man loads a clip into a pistol. A clip is a small part, usually several seconds long, that is placed in a gun.",
+                "person straightening out string of magnets and wrapping them around his finger. A string of magnets is put near the camera to make the viewer use the camera.",
+                "there is a man repairing a product on the table. There are many different types of products that can be repaired.",
+                "there is a man repairing a product on the table. A product can be repaired by machines."
+            ],
+            "gt": {
+                "txt_id": 658,
+                "txt": "a man loads a clip into a pistol"
+            }
+        },
+        {
+            "vid_id": "video8673",
+            "original_pred": [
+                "a man discusses spongebob"
+            ],
+            "augmented_pred": [
+                "an animated horse is in a barn and the maker asks for comments. Animals are created by animators to study natural behavior.",
+                "a man discusses spongebob. Spongebob is a talking penguin.",
+                "an animated horse is in a barn and the maker asks for comments. An animated horse is often used as a mascot for a movie or TV show.",
+                "a man discusses spongebob. Spongebob Squarepants is a very famous cartoon character that only appears on TV commercials.",
+                "a man discusses spongebob. Spongebob Squarepants is a cartoon television show that is produced by the Pomeranian company and aired on Nickelodeon.",
+                "an animated horse is in a barn and the maker asks for comments. Animals have the ability to move their limbs.",
+                "three men talking about their youtube channel and thanking their viewers. The end credits of a youtube channel list you all who have subscribed and/or watch the channel.",
+                "a man discusses spongebob.",
+                "an animated horse is in a barn and the maker asks for comments. Animals that are in a barn or zoo are usually kept inside by their caretakers. Sometimes, they are even kept in the park.",
+                "an animated horse is in a barn and the maker asks for comments. Animals get tired very quickly when asked to sit still. Horses don\u2019t."
+            ],
+            "gt": {
+                "txt_id": 668,
+                "txt": "a man discusses spongebob"
+            }
+        },
+        {
+            "vid_id": "video8677",
+            "original_pred": [
+                "two mermaid with red hair is sitting on a rock"
+            ],
+            "augmented_pred": [
+                "two mermaid with red hair is sitting on a rock. Fish are usually green and purple with red, blue, and yellow stripes.",
+                "cartoons of a sponge a squid and a starfish. Sponges and cephalopods are very different.",
+                "two mermaid with red hair is sitting on a rock. Mermaids are not really fish; they are sea creatures.",
+                "two mermaid with red hair is sitting on a rock.",
+                "cartoons of a sponge a squid and a starfish. A sponge is made of living tissue. A squid is made out of animal tissues. A starfish is made out of mineral tissues.",
+                "two cartoon characters walking underwater. Most cartoons featuring amphibians use a lot of water for background.",
+                "cartoons of a sponge a squid and a starfish.",
+                "cartoons of a sponge a squid and a starfish. These are all pretty much cartoonish. That's what they are.",
+                "cartoons of a sponge a squid and a starfish. The word \"sponge\" in the word \"starfish\" is pronounced \"spay.\" For the word \"squid,\" the word \"to-dee\" is pronounced \"to-day.\"",
+                "two mermaid with red hair is sitting on a rock. A mermaid is a sea goddess which is considered to be quite beautiful."
+            ],
+            "gt": {
+                "txt_id": 672,
+                "txt": "two mermaid with red hair is sitting on a rock"
+            }
+        },
+        {
+            "vid_id": "video8678",
+            "original_pred": [
+                "a lady is walking in the beach"
+            ],
+            "augmented_pred": [
+                "a woman with long white hair and dressed all in white is sailing through the sky over snow covered ground. The moon can be seen over this scene.",
+                "a song from the movie beauty and the beast. The song \"Beauty and the Beast\" by Mary J. Blige is a popular song.",
+                "a woman speaking about scifi and fantasy disasters. A disaster is a natural or artificial catastrophe, usually caused by an outside force. The disaster may be natural such as a flood or a volcanic eruption. Some disasters can be man-made such as a power outage. And some disasters cannot be explained, such as a plague.",
+                "a woman dances in the background while a guy doesn t move. A woman appears on one music video and is usually wearing white clothes, and her image is moving in a kind of rhythm.",
+                "still photos from the 2002 movie the pianist are shown. These still photos are mostly from the movie Titanic. There are lots of shots of icebergs and icebergs.",
+                "a princess tries not to cry in front of malificent. She wears a puffy flower crown on her head.",
+                "a woman with long white hair and dressed all in white is sailing through the sky over snow covered ground. White snow is generally not seen in the northern part of the United States. White clouds are seen instead.",
+                "the beautiful scene on the screen. The screen shows a beautiful scene. The movie is a romance movie.",
+                "selena gomez clips of her videos and her dancing with a man in a tux while she wears pink. The man in the video is showing a brief viewing of how the movie is starting. Selena G\u00f3mez is known to be one of the most beautiful women in the world.",
+                "lady gaga sings in a music video. A song is the lyrics sung by someone."
+            ],
+            "gt": {
+                "txt_id": 676,
+                "txt": "a lady is walking in the beach"
+            }
+        },
+        {
+            "vid_id": "video7144",
+            "original_pred": [
+                "a group of women are rubbing oil and milk all over a woman"
+            ],
+            "augmented_pred": [
+                "a group of women are rubbing oil and milk all over a woman. A woman may rub oil and milk on herself or on other women as a kind of self-love ritual.",
+                "a girl in white night wear dancing very sexy. A white dress is usually worn by girls. Girls usually appear in movies wearing white dresses.",
+                "a group of women are rubbing oil and milk all over a woman. The woman is being scrubbed by the women.",
+                "a girl in white night wear dancing very sexy. Usually, they wear white clothes and dance very sexy.",
+                "selena gomez clips of her videos and her dancing with a man in a tux while she wears pink. Selena Gomez is an American actress and singer. She was born in Miami, Florida, on January 28, 1991.",
+                "in a music video a man is laying with women while singing. A music video usually includes a lot of choreography. Choreography is usually done by many different people.",
+                "in a music video a man is laying with women while singing. A song can be sung in different languages. Some musicians use dance moves and choreography to make their songs more attractive.",
+                "in a music video a man is laying with women while singing. A music video usually has many performers and dancers.",
+                "a girl singing a song and her group were playing music. Singing a song or playing music are often used during a movie.",
+                "a girl singing a song and her group were playing music. Singing is very important in a film. Musical instrument are used in films."
+            ],
+            "gt": {
+                "txt_id": 680,
+                "txt": "a group of women are rubbing oil and milk all over a woman"
+            }
+        },
+        {
+            "vid_id": "video8817",
+            "original_pred": [
+                "a football video game is shown"
+            ],
+            "augmented_pred": [
+                "a football video game is being played. We can play games like NFL Blitz and NFL Blitz II.",
+                "a football video game is being played. If you have a cell phone, you can buy a video game now called \"American football\".",
+                "a football video game is being played. The game is called FIFA and was created by EA Sports.",
+                "a football video game is shown.",
+                "a football video game is being played.",
+                "a football video game is shown. The game is football.",
+                "a football video game is being played. A football video game is a kind of computer game. There are many kinds of football video games.",
+                "a football video game is shown. A football video game resembles most of all, a video game where you can play with your friends.",
+                "a football player with a football. There are many different kinds of footballs and many different kinds of players.",
+                "a football video game is shown. It is often played on TV."
+            ],
+            "gt": {
+                "txt_id": 705,
+                "txt": "a football video game is shown"
+            }
+        },
+        {
+            "vid_id": "video9250",
+            "original_pred": [
+                "a woman talking about a white tank top"
+            ],
+            "augmented_pred": [
+                "a transvestite shows what she bought for her dog including shampoo and conditioner made by martha stuart. Martha Stuart is one of the main characters that helped create the world. She was known for designing clothes that looked like other people's clothes. Martha Stuart was also known for creating a lot of different types of clothes for women.",
+                "a transvestite shows what she bought for her dog including shampoo and conditioner made by martha stuart. A person who is transvestite has a wig, and/or a costume that covers his genitalia.",
+                "a female inside a white themed bathroom while someone else makes her makeup. The film industry has been around for many decades. Since the 1940s, fashion designers have been working to make their designs to be displayed on men\u2019s and women\u2019s runways.",
+                "a woman is talking about how jeans with patches or rips is trendy. Jillee\u2019s mother was a seamstress.",
+                "a transvestite shows what she bought for her dog including shampoo and conditioner made by martha stuart. Transvestites usually wear fancy clothes. The shampoo and conditioner were made by martha stuart.",
+                "a transvestite shows what she bought for her dog including shampoo and conditioner made by martha stuart. Martha Stuart is an American fashion designer currently living in England. A transvestite also shows what she bought for her pet.",
+                "a women is in an make up room telling about here itenary time wise. A make up room is a room in a film production where the models wait before they go on a film shoot. They also prepare the clothing they will wear on the scenes they'll be doing. It may also be called a dressing room.",
+                "a woman talking about a white tank top.",
+                "a woman is ripping off a man clothes. The woman's goal is to expose her clothing. The woman is usually angry at her partner for stealing her clothes.",
+                "a woman is making a hair accessory. She tends to wear tight-fitting clothes."
+            ],
+            "gt": {
+                "txt_id": 744,
+                "txt": "a woman talking about a white tank top"
+            }
+        },
+        {
+            "vid_id": "video7726",
+            "original_pred": [
+                "a woman is singing and pouring drinks"
+            ],
+            "augmented_pred": [
+                "a group of people are singing while holding coke in their hands. It is hard to make a film using soda.",
+                "people act in a comedy program. A comedy program usually takes place at a coffee house or a bar where the audience gets to laugh at people in funny situations. In addition to that the people who are laughing are actors who portray people who have funny personality.",
+                "guys holding cups and talking. Men and women usually talk with other men and women.",
+                "a group of people are singing while holding coke in their hands. While it is very common to see people holding coke, these types of things are not usually depicted in the movies.",
+                "two boys introducing a young lady who plays the cups and sings. A young lady often plays the role of an object. For example, she will be playing the role of a cup. Sometimes, the object is described as having a shape or style of its own.",
+                "a woman is singing and pouring drinks.",
+                "a group of people are singing while holding coke in their hands. Everyone uses coke at parties.",
+                "a woman is singing and pouring drinks. A woman may sing and pour drinks. They are usually drinking a beverage such as a tea or coffee.",
+                "a group of people are singing while holding coke in their hands. They are likely to be drinking a lot of coke.",
+                "a woman is singing and pouring drinks. This is called the hostess position."
+            ],
+            "gt": {
+                "txt_id": 766,
+                "txt": "a woman is singing and pouring drinks"
+            }
+        },
+        {
+            "vid_id": "video8606",
+            "original_pred": [
+                "a man eats rice and a woman goes to the hospital"
+            ],
+            "augmented_pred": [
+                "a man gets shot in the face. After being shot in the face, he is left with a nasty headache.",
+                "a man gets shot in the face. He has a bandage on his face.",
+                "one sad one trying to comfort. One sad person (dancer) trying to make someone else happy.",
+                "a man gets shot in the face. A person getting shot in the face is usually injured.",
+                "a dark skinned couple make love in bed the man is on top and the woman s blouse is partly transparent. People in this category are usually happy and relaxed. They also usually have a good mood.",
+                "a man gets shot in the face. A man gets shot in the face will sometimes show blood splashes on his face. He is usually dead.",
+                "a man eats rice and a woman goes to the hospital. He's seen eating rice and he's very ill. The woman must go to the hospital.",
+                "a man gets shot in the face. He suffered a gunshot wound to his head.",
+                "a man eats rice and a woman goes to the hospital.",
+                "one sad one trying to comfort. One person tries to comfort another."
+            ],
+            "gt": {
+                "txt_id": 785,
+                "txt": "a man eats rice and a woman goes to the hospital"
+            }
+        },
+        {
+            "vid_id": "video8756",
+            "original_pred": [
+                "a woman is dressed up in face paint"
+            ],
+            "augmented_pred": [
+                "a woman is dressed up in face paint. Face paint is part of Halloween.",
+                "a woman is dressed up in face paint.",
+                "a girl dresses up in a bright wig. Wigs are usually used as costume. Wigs are often used as a disguise for disguises. Wigs are often worn by clowns.",
+                "a girl dresses up in a bright wig. Some people wear wigs to hide their looks.",
+                "a girl dresses up in a bright wig.",
+                "a girl dresses up in a bright wig. A woman wearing a wig that is colored with bright colors is usually called a \"wig wearer\".",
+                "a woman is dressed up in face paint. Face paint is normally used to paint faces over with colorful designs.",
+                "a woman is dressed up in face paint. Face painting is often seen in the movies. This is a very common practice.",
+                "a girl dresses up in a bright wig. It's often required in order to wear a wig.",
+                "a girl dresses up in a bright wig. The girl is playing a character that is a part of a drama."
+            ],
+            "gt": {
+                "txt_id": 786,
+                "txt": "a woman is dressed up in face paint"
+            }
+        },
+        {
+            "vid_id": "video9119",
+            "original_pred": [
+                "a man talks about molecules and certain types of antibodies"
+            ],
+            "augmented_pred": [
+                "a man talks about dna force. The technology of doing dna force is the process of removing unwanted or unwanted DNA from a human embryo. This is done by the process of injecting artificial DNA (made into a gel) into the egg cell.",
+                "a man talks about dna force. Dna force is the theory which suggests that life as we know it can be traced back to our mother's sperm.",
+                "a man talks about dna force. DNA, or deoxyribonucleic acid, is the genetic code that determines whether an organism will develop into a human or animal. (B.C.O.)",
+                "a man talks about molecules and certain types of antibodies. A molecule is an indivual group of carbon, hydrogen and oxygen.",
+                "a man talks about dna force. DNA is the basic structure of an organism. In this video, the basic DNA structure is taught.",
+                "a man talking about a womans genital problems. A vagina is a female organ. A vagina is a woman with her genitals.",
+                "a man talks about dna force. DNA is a basic cellular structure. It consists of long chains of chemicals called nucleotids.",
+                "a man talks about molecules and certain types of antibodies. Molecules are very small pieces of matter. Some molecules can fit inside each other like peanut butter and jelly. Antibodies are similar to hormones or antibodies.",
+                "a man talks about molecules and certain types of antibodies. The idea behind this video is that you can find information about some of the molecules and antibodies in your body by looking online or in books.",
+                "a man talks about dna force. Scientists use forces to explore the dna of living things. DNA is made up of strings that form the genes that a cell receives from its parent. DNA is more complex than proteins, which are made of amino acids."
+            ],
+            "gt": {
+                "txt_id": 787,
+                "txt": "a man talks about molecules and certain types of antibodies"
+            }
+        },
+        {
+            "vid_id": "video8311",
+            "original_pred": [
+                "a man is filming as he and a woman watch the news where it shows an area filled with smoke"
+            ],
+            "augmented_pred": [
+                "colored lights and pictures of people fade in and out of view. A film can be shown on a TV, or a computer monitor. Usually, a logo of the film production company will be shown at the beginning of a film.",
+                "colored lights and pictures of people fade in and out of view. A movie camera can record images from many different angles. After watching the movie, you can analyze the images in your mind by using the red-green-blue (RGB) color model.",
+                "men working in surveillance room. The cameras in the room work by having a laser beam that scans objects.",
+                "a person looks at a celebrity on the computer. A computer allows viewers to look at celebrities through a window. They can control their own computer screen.",
+                "outer space pictures that have parts of equipments in them with water droplets on it. Water droplets can be used as a recording medium for data.",
+                "colored lights and pictures of people fade in and out of view. Special effects or animations in movies are very common.",
+                "outer space pictures that have parts of equipments in them with water droplets on it. Water falls into the sea when there is heavy rain or the temperature drops.",
+                "article about nasa s johnson space center being broadcasted on news. It has been recently reported that they will use a small probe to transmit videos of the solar system, including the earth.",
+                "a man looks at the battery of a computer. A digital camera can be used to take pictures of movies, television shows, and photographs.",
+                "a man is filming as he and a woman watch the news where it shows an area filled with smoke."
+            ],
+            "gt": {
+                "txt_id": 794,
+                "txt": "a man is filming as he and a woman watch the news where it shows an area filled with smoke"
+            }
+        },
+        {
+            "vid_id": "video9806",
+            "original_pred": [
+                "person is driving his black car fast on the street"
+            ],
+            "augmented_pred": [
+                "person is driving his black car fast on the street.",
+                "a man is driving a car through the countryside. There are many roads and places that have been made famous by the movies.",
+                "person is driving his black car fast on the street. Someone driving a black car can be dangerous.",
+                "a man is driving a car through the countryside.",
+                "a man is driving a car through the countryside. The car is driven by a man.",
+                "a man drives his car down the road. The road might have hills or curvy roads.",
+                "person is driving his black car fast on the street. A black car is often speed-related.",
+                "person driving in car. Usually, a car windshield is used to show the outside of the car.",
+                "person is driving his black car fast on the street. People often drive their cars very fast.",
+                "a man is driving a car through the countryside. A car is usually driven on the road by someone. A car can be used to drive through the countryside."
+            ],
+            "gt": {
+                "txt_id": 805,
+                "txt": "person is driving his black car fast on the street"
+            }
+        },
+        {
+            "vid_id": "video7970",
+            "original_pred": [
+                "two child playing in the house"
+            ],
+            "augmented_pred": [
+                "two child playing in the house. They are both 2-3 years old.",
+                "two child playing in the house. Children are active in this part of the movie.",
+                "two child playing in the house.",
+                "two kids talking to the camera and then a woman talking to the camera. The first part of the video is showing the children talking to the camera and then a woman talking to the camera.",
+                "two kids talking to the camera and then a woman talking to the camera.",
+                "two kids talking to the camera and then a woman talking to the camera. They are speaking to the camera but they are not identified.",
+                "two child playing in the house. A child may play in the house as long as the parents are present.",
+                "two kids talking to the camera and then a woman talking to the camera. The first few minutes of a movie are usually dedicated to establishing the setting \u2013 location, time, etc.",
+                "two kids talking to the camera and then a woman talking to the camera. When people talk to the camera, they often talk about important things. Most of the time, parents talk to their children.",
+                "two kids talking to the camera and then a woman talking to the camera. The two kids are telling the story of their lives to the woman."
+            ],
+            "gt": {
+                "txt_id": 851,
+                "txt": "two child playing in the house"
+            }
+        },
+        {
+            "vid_id": "video7378",
+            "original_pred": [
+                "a clip of soccer plays"
+            ],
+            "augmented_pred": [
+                "a soccer team walking out on the field. A soccer game consists of two halves. In the first half, they are playing. In the second half, they stop playing.",
+                "a soccer team walking out on the field. A soccer game consists of two teams lined up in opposing rows. Goals are scored by either team scoring a goal.",
+                "a soccer team walking out on the field. A soccer game is played on a field.",
+                "a soccer team walking out on the field. A soccer team usually walk off the field at the end of a game.",
+                "a clip of soccer plays. A soccer match starts with the players warming up on the field.",
+                "three soccer balls are laying in a field and then three men in black athletic cloths attempt to shoot a goal. In ancient times, a ball was considered to be a good luck object. During the game, a ball could be used to strike a ball above the goal from which it was created. During the game, the two shots were compared and if the",
+                "three soccer balls are laying in a field and then three men in black athletic cloths attempt to shoot a goal. A goal is scored when the players pass the ball to each other into the goal circle.",
+                "a soccer team walking out on the field. A soccer game is usually played by a group of people.",
+                "three soccer balls are laying in a field and then three men in black athletic cloths attempt to shoot a goal. A goal is a ball that is shot over a goal post towards goal.",
+                "a soccer team walking out on the field. A soccer team is usually formed by playing a ball with sticks. A soccer team has people playing offensive and defensive roles."
+            ],
+            "gt": {
+                "txt_id": 876,
+                "txt": "a clip of soccer plays"
+            }
+        },
+        {
+            "vid_id": "video7152",
+            "original_pred": [
+                "a person is swimming in some white water rapids"
+            ],
+            "augmented_pred": [
+                "a beautiful waterfall is flowing into the pool of water below it as the camera pans around the area. The waterfall is probably running over a very hard rock. This is why it is called a waterfall.",
+                "a person is swimming in some white water rapids.",
+                "a beautiful waterfall is flowing into the pool of water below it as the camera pans around the area. A waterfall can have many layers of water. On the top layer there are many stones and rocks. There are also waterfalls which have very little rocks and stones.",
+                "a beautiful waterfall is flowing into the pool of water below it as the camera pans around the area. Waterfalls are typically located in wilderness areas.",
+                "a person is swimming in some white water rapids. The scene is mostly taken in a big pool or a small lake. Such a scene is usually very fast paced.",
+                "a beautiful waterfall is flowing into the pool of water below it as the camera pans around the area. A waterfall is usually created when water flows over a cliff.",
+                "a beautiful waterfall is flowing into the pool of water below it as the camera pans around the area. The water is rushing through the waterfall. It is the only thing that can be seen in this footage.",
+                "a beautiful waterfall is flowing into the pool of water below it as the camera pans around the area.",
+                "a beautiful waterfall is flowing into the pool of water below it as the camera pans around the area. The water is flowing down a smooth stream.",
+                "a person is swimming in some white water rapids. Rapids are dangerous."
+            ],
+            "gt": {
+                "txt_id": 891,
+                "txt": "a person is swimming in some white water rapids"
+            }
+        },
+        {
+            "vid_id": "video7799",
+            "original_pred": [
+                "a guy chops up garlic and pours it over chicken frying in a pan"
+            ],
+            "augmented_pred": [
+                "a guy chops up garlic and pours it over chicken frying in a pan.",
+                "a guy chops up garlic and pours it over chicken frying in a pan. Garlic has a sharp taste.",
+                "a guy barbequeing potatoes. Baking a potato is easy. Often, a roast potato is prepared by cooking the raw potato in a pan.",
+                "man shows how to prepare potatoes.",
+                "man shows how to prepare potatoes. Potatoes are usually boiled before they reach the table. A potato can be cut into several pieces before it is cooked. A potato can also be cut into small pieces by hand.",
+                "man shows how to prepare pizza.",
+                "man shows how to prepare potatoes. A potato is just a large type of root vegetable. Potatoes are often used in casseroles and stews.",
+                "man shows how to prepare potatoes. Potatoes are ground and then cooked. A recipe can be found online.",
+                "a guy chops up garlic and pours it over chicken frying in a pan. Chop meat into small pieces before cooking it; this helps the meat to crisp easily.",
+                "a man prepares some food in the kitchen. Food is normally prepared in the kitchen. People often live together in houses."
+            ],
+            "gt": {
+                "txt_id": 913,
+                "txt": "a guy chops up garlic and pours it over chicken frying in a pan"
+            }
+        },
+        {
+            "vid_id": "video7556",
+            "original_pred": [
+                "people are playing baseball"
+            ],
+            "augmented_pred": [
+                "a picture of the batsman is shown and he is ready for the batting and the audience are watching the show. Batsmen are on center field. Batsmen usually wear white and black. They usually hold bats.",
+                "a picture of the batsman is shown and he is ready for the batting and the audience are watching the show. Batsmen usually have a white cap on their head and a bat on their shoulder.",
+                "people are playing baseball. People usually wear uniforms.",
+                "baseball player hits ball. Baseball players use their feet, arms, and hands to throw the ball, and many players use a bat to hit the ball. There are many different batting stances.",
+                "baseball player hits ball. Baseball players sometimes wear special clothes. A baseball player usually wears a uniform.",
+                "people are playing baseball. The person who is holding the bat is called the pitcher.",
+                "a picture of the batsman is shown and he is ready for the batting and the audience are watching the show. Batsmen have to bat longer time than the players.",
+                "a picture of the batsman is shown and he is ready for the batting and the audience are watching the show. Batsmen play the part of bats.",
+                "a picture of the batsman is shown and he is ready for the batting and the audience are watching the show. A batting match can be over in a minute, but it can take several minutes for the fielders to get their bats off the ground before it is over.",
+                "a picture of the batsman is shown and he is ready for the batting and the audience are watching the show. Batsmen can perform a lot of tricks for the spectators. Batting is also called batting practice or batting practice game."
+            ],
+            "gt": {
+                "txt_id": 925,
+                "txt": "people are playing baseball"
+            }
+        },
+        {
+            "vid_id": "video9241",
+            "original_pred": [
+                "japanese people laughing and dancing"
+            ],
+            "augmented_pred": [
+                "a little girl talking to her and is scared. A little girl is often seen in many films. She often talks to her mom, who is the person who took her out of the orphanage.",
+                "a little girl talking to her and is scared. Children are usually scared by movies.",
+                "a little girl talking to her and is scared. They usually talk to each other in a language that is different from the language spoken in their home country.",
+                "two kids talking to the camera and then a woman talking to the camera. The first few minutes of a movie are usually dedicated to establishing the setting \u2013 location, time, etc.",
+                "a girl being surprised with a stuffed animal by male friend. In this video, the girl is probably shocked as her friend is presenting her a stuffed animal.",
+                "two kids talking to the camera and then a woman talking to the camera. Kids often make fun of each other and they often use bad language. In general, children don't like to talk much.",
+                "a little girl talking to her and is scared. She looks like she is not happy with something. Usually, when speaking to someone, it is very important to tell them what is wrong.",
+                "japanese people laughing and dancing. The Japanese people can do different things, like dancing and laughing. They usually laugh at the same time as the person who laughs.",
+                "japanese people laughing and dancing. Japanese people don't usually laugh out loud or do crazy things.",
+                "a girl being surprised with a stuffed animal by male friend. Most of the time, children like stuffed animals, and they do not like it when a friend makes them a surprise from an animal but does not include the name of the friend."
+            ],
+            "gt": {
+                "txt_id": 938,
+                "txt": "japanese people laughing and dancing"
+            }
+        },
+        {
+            "vid_id": "video9247",
+            "original_pred": [
+                "in an animated scene two characters are outside under a menacing sky glaring at each other"
+            ],
+            "augmented_pred": [
+                "an anime cartoon character speaks to another character. Anime cartoons sometimes use very elaborate graphics.",
+                "an anime cartoon character speaks to another character. Animation is usually very fast-paced. Animation usually is drawn by hand using vector graphics.",
+                "a martial arts cartoon. Sometimes, comics and anime show the inside story of an animation, like when the anime series \"Bleach\" was broadcast.",
+                "in an animated scene two characters are outside under a menacing sky glaring at each other. Most animated scenes are set indoors.",
+                "an anime cartoon character speaks to another character.",
+                "in an animated scene two characters are outside under a menacing sky glaring at each other.",
+                "an anime cartoon character speaks to another character. An anime has a very animated and stylized characters.",
+                "a bunch of cartoon faces are chomping their teeth and making eating gestures. A cartoon character is usually portrayed with human features. (For example: Bugs Bunny)",
+                "in an animated scene two characters are outside under a menacing sky glaring at each other. An animated scene typically has some special effects or music.",
+                "an anime cartoon character speaks to another character. Anime characters usually speak in their own language."
+            ],
+            "gt": {
+                "txt_id": 944,
+                "txt": "in an animated scene two characters are outside under a menacing sky glaring at each other"
+            }
+        },
+        {
+            "vid_id": "video7147",
+            "original_pred": [
+                "a man cooks burgers and bacon on a grill"
+            ],
+            "augmented_pred": [
+                "a guy barbequeing potatoes. A barbeque is where food is cooked over an open flame. It can be made with meat, vegetables, chicken, or fish.",
+                "a guy barbequeing potatoes. Bars are usually made of wood or metal. The cooking process is usually slow and messy.",
+                "a guy barbequeing potatoes. Baking a potato is easy. Often, a roast potato is prepared by cooking the raw potato in a pan.",
+                "a man cooks burgers and bacon on a grill. People usually cook food on grills. Men usually use charcoal in the grill to cook food, while women usually use gas or electricity to cook food.",
+                "a guy barbequeing potatoes. A guy usually barbeque vegetables and fish.",
+                "a man cooks burgers and bacon on a grill. People generally use a large grill for cooking hamburgers and bacon.",
+                "a man cooks burgers and bacon on a grill. A grill is usually used to cook food.",
+                "a guy barbequeing potatoes. When a cook cooks a steak on the open flame, they usually burn pieces of meat. This would be a bad thing because the taste will not be good. If there is a piece of meat left over, they put it back into the vegetables to be used for the soup.",
+                "a guy barbequeing potatoes. There are many different versions of a potato, so it cannot be one specific recipe. There are also some variations of the potato, so it is not possible to make a certain recipe twice.",
+                "a man cooks burgers and bacon on a grill. Cooking a hamburger on a grill is usually done in a smoker."
+            ],
+            "gt": {
+                "txt_id": 947,
+                "txt": "a man cooks burgers and bacon on a grill"
+            }
+        },
+        {
+            "vid_id": "video7478",
+            "original_pred": [
+                "a football video game is being played"
+            ],
+            "augmented_pred": [
+                "a football video game is shown. Football video games are usually called football simulators. They include a quarterback, a running back and a wide receiver.",
+                "a football video game is being played. If you have a cell phone, you can buy a video game now called \"American football\".",
+                "a football video game is shown. A football video game resembles most of all, a video game where you can play with your friends.",
+                "a football video game is shown.",
+                "a football video game is shown. It is often played on TV.",
+                "a football video game is being played.",
+                "a football video game is being played. We can play games like NFL Blitz and NFL Blitz II.",
+                "various rugby scenes from different games.",
+                "various rugby scenes from different games. The players are wearing the same jersey.",
+                "a football player with a football. Football is played between 2 teams in the United States. This game has 2-man offense and two-man defense."
+            ],
+            "gt": {
+                "txt_id": 966,
+                "txt": "a football video game is being played"
+            }
+        }
+    ]
+}

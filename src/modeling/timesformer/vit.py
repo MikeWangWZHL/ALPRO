@@ -321,8 +321,11 @@ class VisionTransformer(nn.Module):
     def forward_features(self, x, return_all_tokens=False):
         B = x.shape[0]
         x, T, W = self.patch_embed(x)
+        # print(x.size(), T, W)
         cls_tokens = self.cls_token.expand(x.size(0), -1, -1)
+        # print(cls_tokens.size())
         x = torch.cat((cls_tokens, x), dim=1)
+        # print(x.size())
 
         # resizing the positional embeddings in case they don't match the input at inference
         if x.size(1) != self.pos_embed.size(1):
@@ -341,6 +344,8 @@ class VisionTransformer(nn.Module):
         else:
             x = x + self.pos_embed
         x = self.pos_drop(x)
+        # print(x.size())
+        
 
         # Time Embeddings
         if self.attention_type != 'space_only':
@@ -356,9 +361,11 @@ class VisionTransformer(nn.Module):
                 x = x + new_time_embed
             else:
                 x = x + self.time_embed
+            # print(x.size())
             x = self.time_drop(x)
             x = rearrange(x, '(b n) t m -> b (n t) m', b=B, t=T)
             x = torch.cat((cls_tokens, x), dim=1)
+            # print(x.size())
 
         # Attention blocks
         for blk in self.blocks:
@@ -368,6 +375,8 @@ class VisionTransformer(nn.Module):
         if self.attention_type == 'space_only':
             x = rearrange(x, '(b t) n m -> b t n m', b=B, t=T)
             x = torch.mean(x, 1)  # averaging predictions for every frame
+        
+        # print(x.size())
 
         x = self.norm(x)
 

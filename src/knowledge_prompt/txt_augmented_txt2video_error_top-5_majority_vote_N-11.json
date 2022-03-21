@@ -1,0 +1,4886 @@
+[
+    {
+        "txt_id": 0,
+        "txt": "a person is connecting something to system",
+        "preds": [
+            "video8924",
+            "video7910",
+            "video7369",
+            "video7154",
+            "video9258"
+        ],
+        "gt": "video9770"
+    },
+    {
+        "txt_id": 10,
+        "txt": "a man is singing and standing in the road",
+        "preds": [
+            "video7236",
+            "video7915",
+            "video9330",
+            "video8251",
+            "video9323"
+        ],
+        "gt": "video7028"
+    },
+    {
+        "txt_id": 11,
+        "txt": "cartoon show for kids",
+        "preds": [
+            "video8827",
+            "video9524",
+            "video8863",
+            "video9014",
+            "video9300"
+        ],
+        "gt": "video7029"
+    },
+    {
+        "txt_id": 15,
+        "txt": "the man in the video is showing a brief viewing of how the movie is starting",
+        "preds": [
+            "video8475",
+            "video9804",
+            "video7754",
+            "video8311",
+            "video7355"
+        ],
+        "gt": "video7027"
+    },
+    {
+        "txt_id": 18,
+        "txt": "a student explains to his teacher about the sheep of another student",
+        "preds": [
+            "video8331",
+            "video9579",
+            "video9339",
+            "video9908",
+            "video8257"
+        ],
+        "gt": "video9777"
+    },
+    {
+        "txt_id": 19,
+        "txt": "a video about different sports",
+        "preds": [
+            "video7358",
+            "video9605",
+            "video9029",
+            "video8979",
+            "video9647"
+        ],
+        "gt": "video8913"
+    },
+    {
+        "txt_id": 20,
+        "txt": "a family is having coversation",
+        "preds": [
+            "video8681",
+            "video7825",
+            "video8348",
+            "video9241",
+            "video9027"
+        ],
+        "gt": "video8912"
+    },
+    {
+        "txt_id": 23,
+        "txt": "two men discuss social issues",
+        "preds": [
+            "video8828",
+            "video7491",
+            "video7501",
+            "video7833",
+            "video7685"
+        ],
+        "gt": "video8917"
+    },
+    {
+        "txt_id": 24,
+        "txt": "cartoons of a sponge a squid and a starfish",
+        "preds": [
+            "video7111",
+            "video8677",
+            "video8446",
+            "video7235",
+            "video9808"
+        ],
+        "gt": "video8916"
+    },
+    {
+        "txt_id": 25,
+        "txt": "person cooking up somefood",
+        "preds": [
+            "video9625",
+            "video8300",
+            "video8751",
+            "video8247",
+            "video7376"
+        ],
+        "gt": "video8915"
+    },
+    {
+        "txt_id": 26,
+        "txt": "models are walking down a short runway",
+        "preds": [
+            "video9277",
+            "video8923",
+            "video9308",
+            "video9348",
+            "video7730"
+        ],
+        "gt": "video8914"
+    },
+    {
+        "txt_id": 27,
+        "txt": "a man is talking on stage",
+        "preds": [
+            "video9352",
+            "video7828",
+            "video8072",
+            "video9522",
+            "video9203"
+        ],
+        "gt": "video8919"
+    },
+    {
+        "txt_id": 29,
+        "txt": "some one talking about top ten movies of the year",
+        "preds": [
+            "video9804",
+            "video8475",
+            "video9791",
+            "video7754",
+            "video7371"
+        ],
+        "gt": "video9545"
+    },
+    {
+        "txt_id": 31,
+        "txt": "a young girl in a horror movie is haunted",
+        "preds": [
+            "video7782",
+            "video9237",
+            "video9878",
+            "video9780",
+            "video9816"
+        ],
+        "gt": "video7118"
+    },
+    {
+        "txt_id": 32,
+        "txt": "news reporters talk about a strange sight in part of san diego",
+        "preds": [
+            "video9010",
+            "video8330",
+            "video7967",
+            "video8061",
+            "video8491"
+        ],
+        "gt": "video7119"
+    },
+    {
+        "txt_id": 33,
+        "txt": "a group of people are walking a woman is talking about their culture",
+        "preds": [
+            "video7364",
+            "video8014",
+            "video8022",
+            "video9131",
+            "video9521"
+        ],
+        "gt": "video7116"
+    },
+    {
+        "txt_id": 35,
+        "txt": "a girl and a man are talking to each other",
+        "preds": [
+            "video8974",
+            "video8074",
+            "video9241",
+            "video8879",
+            "video8068"
+        ],
+        "gt": "video7114"
+    },
+    {
+        "txt_id": 39,
+        "txt": "there is a man shooting other people in a corridor",
+        "preds": [
+            "video8249",
+            "video7114",
+            "video7576",
+            "video9815",
+            "video9784"
+        ],
+        "gt": "video7110"
+    },
+    {
+        "txt_id": 41,
+        "txt": "the demonstration of mobile rack",
+        "preds": [
+            "video7154",
+            "video8121",
+            "video8924",
+            "video8332",
+            "video8495"
+        ],
+        "gt": "video9679"
+    },
+    {
+        "txt_id": 43,
+        "txt": "the ground rules of the republican presidential debate are introduced",
+        "preds": [
+            "video7158",
+            "video9692",
+            "video7619",
+            "video8824",
+            "video9223"
+        ],
+        "gt": "video8464"
+    },
+    {
+        "txt_id": 45,
+        "txt": "the articles of a shop is being shown",
+        "preds": [
+            "video8806",
+            "video7431",
+            "video8129",
+            "video8831",
+            "video7116"
+        ],
+        "gt": "video7438"
+    },
+    {
+        "txt_id": 46,
+        "txt": "some people cross a street in a busy road",
+        "preds": [
+            "video8934",
+            "video9404",
+            "video8022",
+            "video7364",
+            "video8831"
+        ],
+        "gt": "video8899"
+    },
+    {
+        "txt_id": 48,
+        "txt": "a man talks about the publication of a nasa technical report",
+        "preds": [
+            "video8727",
+            "video9807",
+            "video9249",
+            "video7562",
+            "video8311"
+        ],
+        "gt": "video7431"
+    },
+    {
+        "txt_id": 50,
+        "txt": "two men talk about stealing land and the bible",
+        "preds": [
+            "video8828",
+            "video7833",
+            "video8917",
+            "video9548",
+            "video7491"
+        ],
+        "gt": "video8829"
+    },
+    {
+        "txt_id": 51,
+        "txt": "tv show presenters speak about will smith and other actors and their respective characters",
+        "preds": [
+            "video8813",
+            "video7753",
+            "video9037",
+            "video9204",
+            "video8930"
+        ],
+        "gt": "video8828"
+    },
+    {
+        "txt_id": 52,
+        "txt": "cartoon girl is talking",
+        "preds": [
+            "video7222",
+            "video7157",
+            "video7179",
+            "video9776",
+            "video7414"
+        ],
+        "gt": "video8827"
+    },
+    {
+        "txt_id": 53,
+        "txt": "lady speaking on her show",
+        "preds": [
+            "video9512",
+            "video7724",
+            "video8927",
+            "video7341",
+            "video9575"
+        ],
+        "gt": "video8826"
+    },
+    {
+        "txt_id": 57,
+        "txt": "newscasters speak about a school shooting on the news program info wars",
+        "preds": [
+            "video8491",
+            "video9819",
+            "video7731",
+            "video9804",
+            "video8650"
+        ],
+        "gt": "video8822"
+    },
+    {
+        "txt_id": 60,
+        "txt": "people perform on the voice",
+        "preds": [
+            "video9202",
+            "video8447",
+            "video7220",
+            "video7733",
+            "video9222"
+        ],
+        "gt": "video9518"
+    },
+    {
+        "txt_id": 62,
+        "txt": "a person on the computer looking at data",
+        "preds": [
+            "video7347",
+            "video7166",
+            "video8328",
+            "video9549",
+            "video7369"
+        ],
+        "gt": "video7432"
+    },
+    {
+        "txt_id": 65,
+        "txt": "two women rare sitting speaking on sites in los angeles",
+        "preds": [
+            "video9791",
+            "video9835",
+            "video9205",
+            "video9824",
+            "video9353"
+        ],
+        "gt": "video7751"
+    },
+    {
+        "txt_id": 66,
+        "txt": "a man speaks on driving and a car model",
+        "preds": [
+            "video7765",
+            "video7026",
+            "video9358",
+            "video7597",
+            "video9677"
+        ],
+        "gt": "video7752"
+    },
+    {
+        "txt_id": 67,
+        "txt": "a woman is smiling",
+        "preds": [
+            "video8074",
+            "video7684",
+            "video7547",
+            "video7216",
+            "video7231"
+        ],
+        "gt": "video9513"
+    },
+    {
+        "txt_id": 69,
+        "txt": "a boy is singing",
+        "preds": [
+            "video9202",
+            "video9303",
+            "video7828",
+            "video8265",
+            "video7755"
+        ],
+        "gt": "video9515"
+    },
+    {
+        "txt_id": 71,
+        "txt": "a news program about overweight people",
+        "preds": [
+            "video9204",
+            "video9882",
+            "video9791",
+            "video8119",
+            "video7967"
+        ],
+        "gt": "video9517"
+    },
+    {
+        "txt_id": 73,
+        "txt": "a man gets shot in the face",
+        "preds": [
+            "video8606",
+            "video9520",
+            "video9686",
+            "video7163",
+            "video8249"
+        ],
+        "gt": "video7436"
+    },
+    {
+        "txt_id": 75,
+        "txt": "a news reporter talks about a shooting",
+        "preds": [
+            "video9323",
+            "video8864",
+            "video7790",
+            "video8491",
+            "video8494"
+        ],
+        "gt": "video9204"
+    },
+    {
+        "txt_id": 76,
+        "txt": "a woman interviewing about her part in a protest happening in brazil",
+        "preds": [
+            "video9028",
+            "video8789",
+            "video8416",
+            "video7364",
+            "video8022"
+        ],
+        "gt": "video9205"
+    },
+    {
+        "txt_id": 81,
+        "txt": "a girl singing song on stage",
+        "preds": [
+            "video7569",
+            "video7220",
+            "video9222",
+            "video9879",
+            "video8818"
+        ],
+        "gt": "video9202"
+    },
+    {
+        "txt_id": 83,
+        "txt": "a blonde woman is speaking and then a radio button to subscribe to her webcasts appears",
+        "preds": [
+            "video7229",
+            "video7549",
+            "video9204",
+            "video9512",
+            "video8618"
+        ],
+        "gt": "video8690"
+    },
+    {
+        "txt_id": 84,
+        "txt": "a man is showing the foot well under the door jam area of the car",
+        "preds": [
+            "video7340",
+            "video7597",
+            "video8246",
+            "video7356",
+            "video7445"
+        ],
+        "gt": "video9208"
+    },
+    {
+        "txt_id": 86,
+        "txt": "a man is giving his commentary on a current event television show",
+        "preds": [
+            "video9692",
+            "video7754",
+            "video8072",
+            "video9819",
+            "video9350"
+        ],
+        "gt": "video7753"
+    },
+    {
+        "txt_id": 90,
+        "txt": "women walking on the stage with different styles of dressing in a fashion show",
+        "preds": [
+            "video9308",
+            "video7669",
+            "video7730",
+            "video8923",
+            "video9277"
+        ],
+        "gt": "video9348"
+    },
+    {
+        "txt_id": 91,
+        "txt": "the press would rather interview the most ignorant person they can find than beautiful women",
+        "preds": [
+            "video9882",
+            "video9225",
+            "video7967",
+            "video9204",
+            "video8494"
+        ],
+        "gt": "video9341"
+    },
+    {
+        "txt_id": 92,
+        "txt": "one sad one trying to comfort",
+        "preds": [
+            "video9686",
+            "video7163",
+            "video7590",
+            "video9240",
+            "video8829"
+        ],
+        "gt": "video9340"
+    },
+    {
+        "txt_id": 93,
+        "txt": "woman is slicing the vegetables and decorating the meal",
+        "preds": [
+            "video9798",
+            "video8915",
+            "video7554",
+            "video7020",
+            "video7845"
+        ],
+        "gt": "video9343"
+    },
+    {
+        "txt_id": 96,
+        "txt": "gameplay footage of someone playing a game",
+        "preds": [
+            "video8313",
+            "video8116",
+            "video8689",
+            "video9813",
+            "video7757"
+        ],
+        "gt": "video9344"
+    },
+    {
+        "txt_id": 101,
+        "txt": "a news reader is reading the news and asking question to some people",
+        "preds": [
+            "video7967",
+            "video9819",
+            "video8491",
+            "video8864",
+            "video8650"
+        ],
+        "gt": "video9882"
+    },
+    {
+        "txt_id": 102,
+        "txt": "a man is commentating while playing minecraft",
+        "preds": [
+            "video8797",
+            "video7366",
+            "video7792",
+            "video7972",
+            "video8077"
+        ],
+        "gt": "video8578"
+    },
+    {
+        "txt_id": 106,
+        "txt": "man in black shirt is holding a baby upside down and talking about universal studios",
+        "preds": [
+            "video7375",
+            "video9010",
+            "video8478",
+            "video7567",
+            "video8119"
+        ],
+        "gt": "video7034"
+    },
+    {
+        "txt_id": 107,
+        "txt": "the animals are having nice time together and eating food",
+        "preds": [
+            "video8866",
+            "video9339",
+            "video7342",
+            "video8469",
+            "video9657"
+        ],
+        "gt": "video9580"
+    },
+    {
+        "txt_id": 108,
+        "txt": "a video of a rock group performing one of their songs",
+        "preds": [
+            "video8466",
+            "video9243",
+            "video8978",
+            "video8925",
+            "video8926"
+        ],
+        "gt": "video8573"
+    },
+    {
+        "txt_id": 111,
+        "txt": "a video of someone talking about some girls",
+        "preds": [
+            "video7751",
+            "video9791",
+            "video9472",
+            "video8481",
+            "video9835"
+        ],
+        "gt": "video8347"
+    },
+    {
+        "txt_id": 112,
+        "txt": "a man is driving a car through the countryside",
+        "preds": [
+            "video7445",
+            "video8263",
+            "video9806",
+            "video9677",
+            "video9511"
+        ],
+        "gt": "video8344"
+    },
+    {
+        "txt_id": 113,
+        "txt": "a woman feeds another",
+        "preds": [
+            "video8604",
+            "video9682",
+            "video8048",
+            "video7361",
+            "video7823"
+        ],
+        "gt": "video8345"
+    },
+    {
+        "txt_id": 117,
+        "txt": "cartoon characters are talking to a pokemon",
+        "preds": [
+            "video8446",
+            "video9808",
+            "video8916",
+            "video8827",
+            "video7835"
+        ],
+        "gt": "video8341"
+    },
+    {
+        "txt_id": 118,
+        "txt": "sitting and converstion 2 lady and 2 gents",
+        "preds": [
+            "video8821",
+            "video9824",
+            "video7680",
+            "video8068",
+            "video9357"
+        ],
+        "gt": "video7825"
+    },
+    {
+        "txt_id": 126,
+        "txt": "airport security figure explains requirements for transporting medicines",
+        "preds": [
+            "video7469",
+            "video8664",
+            "video9829",
+            "video9781",
+            "video8899"
+        ],
+        "gt": "video9833"
+    },
+    {
+        "txt_id": 127,
+        "txt": "a video game character rides around on a motorcycle",
+        "preds": [
+            "video8070",
+            "video9813",
+            "video7207",
+            "video8788",
+            "video7723"
+        ],
+        "gt": "video9832"
+    },
+    {
+        "txt_id": 131,
+        "txt": "a cartoon clip of pokemon dancing",
+        "preds": [
+            "video8916",
+            "video7747",
+            "video9524",
+            "video8827",
+            "video9776"
+        ],
+        "gt": "video9838"
+    },
+    {
+        "txt_id": 133,
+        "txt": "a police officer drives his white car onto a grassy field and then back on to the street",
+        "preds": [
+            "video9800",
+            "video7765",
+            "video9511",
+            "video7209",
+            "video9358"
+        ],
+        "gt": "video8089"
+    },
+    {
+        "txt_id": 135,
+        "txt": "a fearful animation scene",
+        "preds": [
+            "video8674",
+            "video7352",
+            "video7467",
+            "video8486",
+            "video7576"
+        ],
+        "gt": "video8122"
+    },
+    {
+        "txt_id": 137,
+        "txt": "a guest is speaking with a television show host",
+        "preds": [
+            "video8813",
+            "video7159",
+            "video7349",
+            "video8932",
+            "video8917"
+        ],
+        "gt": "video8120"
+    },
+    {
+        "txt_id": 138,
+        "txt": "there was a resistor in the back",
+        "preds": [
+            "video7154",
+            "video8924",
+            "video7910",
+            "video8332",
+            "video7963"
+        ],
+        "gt": "video8121"
+    },
+    {
+        "txt_id": 139,
+        "txt": "this is a vine sports compilation",
+        "preds": [
+            "video9605",
+            "video7358",
+            "video9029",
+            "video9018",
+            "video8979"
+        ],
+        "gt": "video7839"
+    },
+    {
+        "txt_id": 140,
+        "txt": "a guy is talking over loud music at the end of a youtube video",
+        "preds": [
+            "video8682",
+            "video8301",
+            "video8492",
+            "video7755",
+            "video9781"
+        ],
+        "gt": "video7838"
+    },
+    {
+        "txt_id": 143,
+        "txt": "two cartoon characters walking underwater",
+        "preds": [
+            "video8677",
+            "video7111",
+            "video8794",
+            "video7157",
+            "video8916"
+        ],
+        "gt": "video7835"
+    },
+    {
+        "txt_id": 146,
+        "txt": "a girl with a hat on and dancing",
+        "preds": [
+            "video9226",
+            "video7960",
+            "video8605",
+            "video7755",
+            "video8241"
+        ],
+        "gt": "video7836"
+    },
+    {
+        "txt_id": 147,
+        "txt": "a young girl is abusing a young man",
+        "preds": [
+            "video9824",
+            "video9237",
+            "video8811",
+            "video8800",
+            "video8347"
+        ],
+        "gt": "video7831"
+    },
+    {
+        "txt_id": 149,
+        "txt": "a man is talking about business",
+        "preds": [
+            "video7375",
+            "video9690",
+            "video8269",
+            "video9406",
+            "video9819"
+        ],
+        "gt": "video7833"
+    },
+    {
+        "txt_id": 152,
+        "txt": "will smith has starred in a lot of movies including the movie ali",
+        "preds": [
+            "video7215",
+            "video9520",
+            "video8475",
+            "video7368",
+            "video7466"
+        ],
+        "gt": "video7501"
+    },
+    {
+        "txt_id": 153,
+        "txt": "a female inside a white themed bathroom while someone else makes her makeup",
+        "preds": [
+            "video8904",
+            "video7372",
+            "video9207",
+            "video9822",
+            "video9250"
+        ],
+        "gt": "video8423"
+    },
+    {
+        "txt_id": 155,
+        "txt": "views of two persons working on the super computer with the head phones on",
+        "preds": [
+            "video8626",
+            "video7369",
+            "video7027",
+            "video9811",
+            "video8311"
+        ],
+        "gt": "video7233"
+    },
+    {
+        "txt_id": 156,
+        "txt": "the sky roads game on the computer",
+        "preds": [
+            "video7972",
+            "video9224",
+            "video9510",
+            "video7552",
+            "video7035"
+        ],
+        "gt": "video7232"
+    },
+    {
+        "txt_id": 159,
+        "txt": "there is a man repairing a product on the table",
+        "preds": [
+            "video7363",
+            "video9368",
+            "video9349",
+            "video7369",
+            "video8620"
+        ],
+        "gt": "video7237"
+    },
+    {
+        "txt_id": 160,
+        "txt": "person walking around building",
+        "preds": [
+            "video7632",
+            "video8426",
+            "video8306",
+            "video9010",
+            "video8741"
+        ],
+        "gt": "video7236"
+    },
+    {
+        "txt_id": 164,
+        "txt": "a man talks about cars",
+        "preds": [
+            "video7026",
+            "video7597",
+            "video7752",
+            "video7115",
+            "video9677"
+        ],
+        "gt": "video8651"
+    },
+    {
+        "txt_id": 165,
+        "txt": "a man runs into the crowd when trying to catch a basketball",
+        "preds": [
+            "video8668",
+            "video7112",
+            "video7710",
+            "video7763",
+            "video7358"
+        ],
+        "gt": "video8652"
+    },
+    {
+        "txt_id": 166,
+        "txt": "a narrator explains where to find a rare vehicle in grand theft auto",
+        "preds": [
+            "video8473",
+            "video9691",
+            "video9832",
+            "video7765",
+            "video9773"
+        ],
+        "gt": "video7502"
+    },
+    {
+        "txt_id": 168,
+        "txt": "an animal is throwing a piece of junk",
+        "preds": [
+            "video8866",
+            "video8929",
+            "video7342",
+            "video8572",
+            "video9580"
+        ],
+        "gt": "video8655"
+    },
+    {
+        "txt_id": 169,
+        "txt": "she used an electric blender",
+        "preds": [
+            "video8067",
+            "video7565",
+            "video9731",
+            "video9689",
+            "video8483"
+        ],
+        "gt": "video8656"
+    },
+    {
+        "txt_id": 173,
+        "txt": "mario and friends play in a video game together",
+        "preds": [
+            "video9200",
+            "video8116",
+            "video7723",
+            "video8313",
+            "video9510"
+        ],
+        "gt": "video8459"
+    },
+    {
+        "txt_id": 175,
+        "txt": "a woman holding a ribbon",
+        "preds": [
+            "video8317",
+            "video8261",
+            "video7170",
+            "video9209",
+            "video8784"
+        ],
+        "gt": "video7909"
+    },
+    {
+        "txt_id": 176,
+        "txt": "a man talks to someone and also the camera",
+        "preds": [
+            "video8301",
+            "video8721",
+            "video7375",
+            "video9885",
+            "video7215"
+        ],
+        "gt": "video8456"
+    },
+    {
+        "txt_id": 181,
+        "txt": "a group of people are singing while holding coke in their hands",
+        "preds": [
+            "video7725",
+            "video7411",
+            "video7726",
+            "video9589",
+            "video7362"
+        ],
+        "gt": "video8014"
+    },
+    {
+        "txt_id": 184,
+        "txt": "a video showing footage from sporting events",
+        "preds": [
+            "video7358",
+            "video9647",
+            "video9542",
+            "video8913",
+            "video9605"
+        ],
+        "gt": "video8013"
+    },
+    {
+        "txt_id": 185,
+        "txt": "lego stormtroppers are in a facility",
+        "preds": [
+            "video8121",
+            "video9252",
+            "video9609",
+            "video7207",
+            "video8862"
+        ],
+        "gt": "video8010"
+    },
+    {
+        "txt_id": 186,
+        "txt": "a girl talks about photos and her life",
+        "preds": [
+            "video8806",
+            "video7547",
+            "video9509",
+            "video9419",
+            "video9698"
+        ],
+        "gt": "video8011"
+    },
+    {
+        "txt_id": 187,
+        "txt": "person is talking about the big growth in the cities",
+        "preds": [
+            "video9010",
+            "video8477",
+            "video7834",
+            "video8022",
+            "video9405"
+        ],
+        "gt": "video7890"
+    },
+    {
+        "txt_id": 190,
+        "txt": "a man is wearing a cap",
+        "preds": [
+            "video7755",
+            "video8308",
+            "video7830",
+            "video7589",
+            "video7157"
+        ],
+        "gt": "video9745"
+    },
+    {
+        "txt_id": 191,
+        "txt": "this is a live tv show",
+        "preds": [
+            "video8912",
+            "video9037",
+            "video7754",
+            "video7119",
+            "video8464"
+        ],
+        "gt": "video9744"
+    },
+    {
+        "txt_id": 192,
+        "txt": "two men in a wrestling competition",
+        "preds": [
+            "video8470",
+            "video9803",
+            "video8823",
+            "video8443",
+            "video8309"
+        ],
+        "gt": "video7587"
+    },
+    {
+        "txt_id": 194,
+        "txt": "lyrics are written for the song",
+        "preds": [
+            "video9472",
+            "video9695",
+            "video9026",
+            "video9024",
+            "video7562"
+        ],
+        "gt": "video7581"
+    },
+    {
+        "txt_id": 195,
+        "txt": "a woman speaking about scifi and fantasy disasters",
+        "preds": [
+            "video7577",
+            "video9512",
+            "video8311",
+            "video8254",
+            "video9780"
+        ],
+        "gt": "video7580"
+    },
+    {
+        "txt_id": 197,
+        "txt": "the actor playing thor talking about the new movie",
+        "preds": [
+            "video8907",
+            "video8752",
+            "video8319",
+            "video8680",
+            "video7962"
+        ],
+        "gt": "video9742"
+    },
+    {
+        "txt_id": 199,
+        "txt": "a grey haired man interviews someone else",
+        "preds": [
+            "video8905",
+            "video7491",
+            "video7753",
+            "video9690",
+            "video7967"
+        ],
+        "gt": "video7349"
+    },
+    {
+        "txt_id": 200,
+        "txt": "a girl is talking about relationships",
+        "preds": [
+            "video7580",
+            "video9698",
+            "video9575",
+            "video7577",
+            "video8074"
+        ],
+        "gt": "video7348"
+    },
+    {
+        "txt_id": 203,
+        "txt": "a man is talking about making it easier for kids to learn while scenes of a school are shown",
+        "preds": [
+            "video9908",
+            "video9775",
+            "video7843",
+            "video8331",
+            "video9326"
+        ],
+        "gt": "video7345"
+    },
+    {
+        "txt_id": 207,
+        "txt": "in an interview a person in advocating education among the populace",
+        "preds": [
+            "video7491",
+            "video8908",
+            "video8331",
+            "video7333",
+            "video7680"
+        ],
+        "gt": "video7341"
+    },
+    {
+        "txt_id": 217,
+        "txt": "two man s are talking to each other",
+        "preds": [
+            "video9811",
+            "video8828",
+            "video7413",
+            "video8922",
+            "video8315"
+        ],
+        "gt": "video8905"
+    },
+    {
+        "txt_id": 221,
+        "txt": "list of people s involved in making the documentary",
+        "preds": [
+            "video7346",
+            "video9804",
+            "video8475",
+            "video8806",
+            "video9882"
+        ],
+        "gt": "video8909"
+    },
+    {
+        "txt_id": 224,
+        "txt": "two women are walking in a parking lot",
+        "preds": [
+            "video9039",
+            "video8022",
+            "video8899",
+            "video7116",
+            "video7364"
+        ],
+        "gt": "video7698"
+    },
+    {
+        "txt_id": 226,
+        "txt": "he is playing with ball",
+        "preds": [
+            "video9324",
+            "video7112",
+            "video7688",
+            "video9338",
+            "video7021"
+        ],
+        "gt": "video7168"
+    },
+    {
+        "txt_id": 227,
+        "txt": "a young man is touching a young girls back",
+        "preds": [
+            "video7590",
+            "video8800",
+            "video9801",
+            "video7682",
+            "video8974"
+        ],
+        "gt": "video7163"
+    },
+    {
+        "txt_id": 228,
+        "txt": "woman talking to a man in an interview",
+        "preds": [
+            "video9205",
+            "video8821",
+            "video8068",
+            "video7341",
+            "video8789"
+        ],
+        "gt": "video7162"
+    },
+    {
+        "txt_id": 231,
+        "txt": "a man is stirring something in a pot",
+        "preds": [
+            "video9625",
+            "video7376",
+            "video8654",
+            "video9836",
+            "video9639"
+        ],
+        "gt": "video7695"
+    },
+    {
+        "txt_id": 232,
+        "txt": "a person is explaining something",
+        "preds": [
+            "video7755",
+            "video8321",
+            "video8257",
+            "video8301",
+            "video8727"
+        ],
+        "gt": "video7166"
+    },
+    {
+        "txt_id": 234,
+        "txt": "a computer animation using the source engine",
+        "preds": [
+            "video9620",
+            "video7203",
+            "video9549",
+            "video9812",
+            "video8311"
+        ],
+        "gt": "video7164"
+    },
+    {
+        "txt_id": 236,
+        "txt": "a women is talking about the books she likes and the second favourite one is the amc the walking dead",
+        "preds": [
+            "video8806",
+            "video7431",
+            "video8783",
+            "video8650",
+            "video7149"
+        ],
+        "gt": "video9698"
+    },
+    {
+        "txt_id": 237,
+        "txt": "the chef adds fish sauce and fish paste to a large stainless steel cooking pot",
+        "preds": [
+            "video9689",
+            "video8835",
+            "video7415",
+            "video9639",
+            "video8489"
+        ],
+        "gt": "video9693"
+    },
+    {
+        "txt_id": 241,
+        "txt": "the woman has a baby monitor",
+        "preds": [
+            "video7154",
+            "video7223",
+            "video9820",
+            "video7347",
+            "video8328"
+        ],
+        "gt": "video9697"
+    },
+    {
+        "txt_id": 243,
+        "txt": "text explains about a pokemon expisode that caused seizures",
+        "preds": [
+            "video8618",
+            "video9024",
+            "video7562",
+            "video9510",
+            "video7203"
+        ],
+        "gt": "video9695"
+    },
+    {
+        "txt_id": 247,
+        "txt": "a slideshow with captions",
+        "preds": [
+            "video9024",
+            "video8618",
+            "video8490",
+            "video7333",
+            "video7581"
+        ],
+        "gt": "video7767"
+    },
+    {
+        "txt_id": 248,
+        "txt": "a video gamer is seen as he plays a video game",
+        "preds": [
+            "video9813",
+            "video8010",
+            "video7207",
+            "video8860",
+            "video7723"
+        ],
+        "gt": "video7766"
+    },
+    {
+        "txt_id": 249,
+        "txt": "a person is passing by a jolly group of men",
+        "preds": [
+            "video8573",
+            "video8416",
+            "video9245",
+            "video7548",
+            "video9404"
+        ],
+        "gt": "video9521"
+    },
+    {
+        "txt_id": 251,
+        "txt": "people are playing basketball",
+        "preds": [
+            "video8668",
+            "video8124",
+            "video9018",
+            "video8979",
+            "video7112"
+        ],
+        "gt": "video7763"
+    },
+    {
+        "txt_id": 252,
+        "txt": "a man is giving a presentation on stage",
+        "preds": [
+            "video9203",
+            "video7828",
+            "video8830",
+            "video9352",
+            "video8072"
+        ],
+        "gt": "video9522"
+    },
+    {
+        "txt_id": 255,
+        "txt": "a woman is cooking food and a man is setting a table",
+        "preds": [
+            "video7415",
+            "video7360",
+            "video8686",
+            "video7825",
+            "video8915"
+        ],
+        "gt": "video8836"
+    },
+    {
+        "txt_id": 257,
+        "txt": "this is a video of a confrence",
+        "preds": [
+            "video8650",
+            "video7754",
+            "video7171",
+            "video7410",
+            "video9233"
+        ],
+        "gt": "video8830"
+    },
+    {
+        "txt_id": 261,
+        "txt": "a man checks out detail on a car",
+        "preds": [
+            "video7340",
+            "video7820",
+            "video7356",
+            "video8246",
+            "video7597"
+        ],
+        "gt": "video7567"
+    },
+    {
+        "txt_id": 262,
+        "txt": "a man explain why he uses edible blooms for gifts",
+        "preds": [
+            "video7020",
+            "video8906",
+            "video8498",
+            "video9607",
+            "video7213"
+        ],
+        "gt": "video7566"
+    },
+    {
+        "txt_id": 271,
+        "txt": "a lady talks into a megaphone",
+        "preds": [
+            "video8650",
+            "video9225",
+            "video7171",
+            "video8453",
+            "video8496"
+        ],
+        "gt": "video9404"
+    },
+    {
+        "txt_id": 273,
+        "txt": "a news program with a woman interviewing a man about merchant market currencies",
+        "preds": [
+            "video8813",
+            "video7613",
+            "video8927",
+            "video9692",
+            "video8824"
+        ],
+        "gt": "video7947"
+    },
+    {
+        "txt_id": 276,
+        "txt": "two people wear and touch their masks made to resemble a camera cube with centered black lens one of which is covered in colorful flowers",
+        "preds": [
+            "video9781",
+            "video8061",
+            "video8622",
+            "video8683",
+            "video8869"
+        ],
+        "gt": "video9131"
+    },
+    {
+        "txt_id": 279,
+        "txt": "a man talks to a little boy about not letting people convince him that anything he wants to do in life isn t possible",
+        "preds": [
+            "video8461",
+            "video9240",
+            "video9775",
+            "video7346",
+            "video8480"
+        ],
+        "gt": "video9230"
+    },
+    {
+        "txt_id": 283,
+        "txt": "two men walking and talking about the road",
+        "preds": [
+            "video7116",
+            "video9404",
+            "video7236",
+            "video9010",
+            "video9521"
+        ],
+        "gt": "video9234"
+    },
+    {
+        "txt_id": 285,
+        "txt": "a man examining the length of a person s arm when opening a glove compartment",
+        "preds": [
+            "video9770",
+            "video9032",
+            "video9744",
+            "video8119",
+            "video7340"
+        ],
+        "gt": "video9236"
+    },
+    {
+        "txt_id": 288,
+        "txt": "there is a man is talking with a commando",
+        "preds": [
+            "video8805",
+            "video9235",
+            "video9784",
+            "video9548",
+            "video7373"
+        ],
+        "gt": "video8948"
+    },
+    {
+        "txt_id": 294,
+        "txt": "someone is arranging utensilslarge saucepan and spoons as a preparation to cook something",
+        "preds": [
+            "video9625",
+            "video8654",
+            "video8835",
+            "video7973",
+            "video9335"
+        ],
+        "gt": "video9356"
+    },
+    {
+        "txt_id": 295,
+        "txt": "a woman laughs until she chokes",
+        "preds": [
+            "video9698",
+            "video8471",
+            "video8669",
+            "video7162",
+            "video9340"
+        ],
+        "gt": "video9357"
+    },
+    {
+        "txt_id": 297,
+        "txt": "a person describing a recording of a video game",
+        "preds": [
+            "video8313",
+            "video7766",
+            "video7757",
+            "video7035",
+            "video9224"
+        ],
+        "gt": "video9355"
+    },
+    {
+        "txt_id": 298,
+        "txt": "a man is talking to a crowd",
+        "preds": [
+            "video7828",
+            "video9233",
+            "video7619",
+            "video9203",
+            "video7410"
+        ],
+        "gt": "video9352"
+    },
+    {
+        "txt_id": 300,
+        "txt": "screen showing some people talking",
+        "preds": [
+            "video9024",
+            "video9607",
+            "video9882",
+            "video7346",
+            "video9791"
+        ],
+        "gt": "video9350"
+    },
+    {
+        "txt_id": 302,
+        "txt": "people are using a computer software tool",
+        "preds": [
+            "video9549",
+            "video9812",
+            "video8921",
+            "video7347",
+            "video7913"
+        ],
+        "gt": "video8111"
+    },
+    {
+        "txt_id": 305,
+        "txt": "a cartoon woman cries at a bench while a woman in blue appears",
+        "preds": [
+            "video7831",
+            "video7222",
+            "video8341",
+            "video9790",
+            "video7160"
+        ],
+        "gt": "video8110"
+    },
+    {
+        "txt_id": 309,
+        "txt": "a woman is making a hair accessory",
+        "preds": [
+            "video8261",
+            "video9250",
+            "video8317",
+            "video8320",
+            "video8825"
+        ],
+        "gt": "video8620"
+    },
+    {
+        "txt_id": 310,
+        "txt": "a man jumps onto a ledge of a building",
+        "preds": [
+            "video9033",
+            "video7155",
+            "video8945",
+            "video9232",
+            "video9815"
+        ],
+        "gt": "video7468"
+    },
+    {
+        "txt_id": 314,
+        "txt": "this is a scene from a disney cartoon set in ancient times",
+        "preds": [
+            "video7467",
+            "video8781",
+            "video7172",
+            "video8903",
+            "video7218"
+        ],
+        "gt": "video7747"
+    },
+    {
+        "txt_id": 315,
+        "txt": "a talk show with dr",
+        "preds": [
+            "video8813",
+            "video7159",
+            "video7349",
+            "video7753",
+            "video8932"
+        ],
+        "gt": "video8824"
+    },
+    {
+        "txt_id": 316,
+        "txt": "numbers are displayed on the screen",
+        "preds": [
+            "video7431",
+            "video9680",
+            "video8618",
+            "video9620",
+            "video7166"
+        ],
+        "gt": "video8626"
+    },
+    {
+        "txt_id": 323,
+        "txt": "a man playing video games",
+        "preds": [
+            "video9813",
+            "video8116",
+            "video7723",
+            "video8689",
+            "video9332"
+        ],
+        "gt": "video7461"
+    },
+    {
+        "txt_id": 331,
+        "txt": "its a cooking recipe show with chicken vegetables",
+        "preds": [
+            "video9409",
+            "video8751",
+            "video9309",
+            "video7898",
+            "video9639"
+        ],
+        "gt": "video9625"
+    },
+    {
+        "txt_id": 332,
+        "txt": "a man picking out a vehicle from the trailer",
+        "preds": [
+            "video8078",
+            "video8420",
+            "video9508",
+            "video9975",
+            "video9252"
+        ],
+        "gt": "video7614"
+    },
+    {
+        "txt_id": 333,
+        "txt": "a woman is talking in the tv channel",
+        "preds": [
+            "video9205",
+            "video7229",
+            "video9512",
+            "video7145",
+            "video9575"
+        ],
+        "gt": "video8333"
+    },
+    {
+        "txt_id": 337,
+        "txt": "people act in a comedy program",
+        "preds": [
+            "video9683",
+            "video7351",
+            "video9241",
+            "video8304",
+            "video8919"
+        ],
+        "gt": "video8337"
+    },
+    {
+        "txt_id": 343,
+        "txt": "cartoons are talking to each otehr",
+        "preds": [
+            "video9808",
+            "video8916",
+            "video9300",
+            "video8128",
+            "video9524"
+        ],
+        "gt": "video7619"
+    },
+    {
+        "txt_id": 344,
+        "txt": "a person explaining a concept in a show",
+        "preds": [
+            "video8301",
+            "video8909",
+            "video9119",
+            "video8072",
+            "video9620"
+        ],
+        "gt": "video7491"
+    },
+    {
+        "txt_id": 345,
+        "txt": "a person playing a video game",
+        "preds": [
+            "video8116",
+            "video8689",
+            "video8860",
+            "video8010",
+            "video9813"
+        ],
+        "gt": "video9458"
+    },
+    {
+        "txt_id": 346,
+        "txt": "a chef stirs up some ingredients inside of a pan",
+        "preds": [
+            "video9335",
+            "video8654",
+            "video9639",
+            "video9625",
+            "video7165"
+        ],
+        "gt": "video7744"
+    },
+    {
+        "txt_id": 350,
+        "txt": "an animated micky is driving a car",
+        "preds": [
+            "video8839",
+            "video7912",
+            "video8973",
+            "video8128",
+            "video9832"
+        ],
+        "gt": "video9826"
+    },
+    {
+        "txt_id": 352,
+        "txt": "a girl playing the game the sims",
+        "preds": [
+            "video9031",
+            "video8862",
+            "video7414",
+            "video9332",
+            "video8628"
+        ],
+        "gt": "video9820"
+    },
+    {
+        "txt_id": 353,
+        "txt": "a man giving a presentation and showing the planet earth",
+        "preds": [
+            "video8727",
+            "video9807",
+            "video9680",
+            "video7027",
+            "video7333"
+        ],
+        "gt": "video9821"
+    },
+    {
+        "txt_id": 354,
+        "txt": "a woman is talking",
+        "preds": [
+            "video9575",
+            "video9512",
+            "video9698",
+            "video7580",
+            "video7348"
+        ],
+        "gt": "video9822"
+    },
+    {
+        "txt_id": 358,
+        "txt": "rusty houser talks about how hitler is loved from his results",
+        "preds": [
+            "video8573",
+            "video9450",
+            "video7833",
+            "video7333",
+            "video7410"
+        ],
+        "gt": "video9829"
+    },
+    {
+        "txt_id": 359,
+        "txt": "someone speaking about a violent act regarding the police",
+        "preds": [
+            "video9323",
+            "video8416",
+            "video7732",
+            "video9829",
+            "video8805"
+        ],
+        "gt": "video7755"
+    },
+    {
+        "txt_id": 360,
+        "txt": "a fat guy with a tie is looking at a man",
+        "preds": [
+            "video9690",
+            "video8922",
+            "video8864",
+            "video8076",
+            "video7753"
+        ],
+        "gt": "video9520"
+    },
+    {
+        "txt_id": 361,
+        "txt": "a group of women are singing",
+        "preds": [
+            "video9589",
+            "video7528",
+            "video7586",
+            "video9793",
+            "video7411"
+        ],
+        "gt": "video7756"
+    },
+    {
+        "txt_id": 364,
+        "txt": "someone is putting a skeleton slide on a projector",
+        "preds": [
+            "video8903",
+            "video7154",
+            "video8311",
+            "video7467",
+            "video9772"
+        ],
+        "gt": "video7829"
+    },
+    {
+        "txt_id": 365,
+        "txt": "a tv channel named how to cook great foodcom is telling how to prepare a dish",
+        "preds": [
+            "video8662",
+            "video7572",
+            "video7563",
+            "video9356",
+            "video9409"
+        ],
+        "gt": "video8489"
+    },
+    {
+        "txt_id": 367,
+        "txt": "foreign language music video",
+        "preds": [
+            "video8241",
+            "video8118",
+            "video9513",
+            "video8330",
+            "video8974"
+        ],
+        "gt": "video8485"
+    },
+    {
+        "txt_id": 371,
+        "txt": "a woman is reporting on keds commercials",
+        "preds": [
+            "video8333",
+            "video8494",
+            "video7229",
+            "video9204",
+            "video8912"
+        ],
+        "gt": "video8481"
+    },
+    {
+        "txt_id": 374,
+        "txt": "late night sneak peek preview",
+        "preds": [
+            "video8340",
+            "video8811",
+            "video7149",
+            "video8075",
+            "video8807"
+        ],
+        "gt": "video8482"
+    },
+    {
+        "txt_id": 379,
+        "txt": "a warrior is fighting a battle",
+        "preds": [
+            "video8680",
+            "video7962",
+            "video8938",
+            "video9400",
+            "video8319"
+        ],
+        "gt": "video8245"
+    },
+    {
+        "txt_id": 381,
+        "txt": "man in black suit is having meeting with group of people",
+        "preds": [
+            "video9692",
+            "video7410",
+            "video8808",
+            "video8650",
+            "video7171"
+        ],
+        "gt": "video8243"
+    },
+    {
+        "txt_id": 383,
+        "txt": "several women in pink outfits and various other styles are standing and smiling",
+        "preds": [
+            "video8342",
+            "video7669",
+            "video8333",
+            "video9308",
+            "video9791"
+        ],
+        "gt": "video8241"
+    },
+    {
+        "txt_id": 384,
+        "txt": "a middle aged woman giving another woman a message",
+        "preds": [
+            "video9575",
+            "video9512",
+            "video7680",
+            "video7724",
+            "video7341"
+        ],
+        "gt": "video8240"
+    },
+    {
+        "txt_id": 385,
+        "txt": "threee kids sing together on the voice",
+        "preds": [
+            "video9202",
+            "video9879",
+            "video9303",
+            "video8447",
+            "video7791"
+        ],
+        "gt": "video7220"
+    },
+    {
+        "txt_id": 390,
+        "txt": "guys play minecraft",
+        "preds": [
+            "video8797",
+            "video8077",
+            "video7792",
+            "video8787",
+            "video8628"
+        ],
+        "gt": "video8462"
+    },
+    {
+        "txt_id": 392,
+        "txt": "a man is singing",
+        "preds": [
+            "video7961",
+            "video9351",
+            "video7575",
+            "video8251",
+            "video7419"
+        ],
+        "gt": "video7227"
+    },
+    {
+        "txt_id": 393,
+        "txt": "a man is sitting and playing guitar",
+        "preds": [
+            "video7545",
+            "video7976",
+            "video9872",
+            "video7227",
+            "video8861"
+        ],
+        "gt": "video7228"
+    },
+    {
+        "txt_id": 394,
+        "txt": "a woman is talking about movies",
+        "preds": [
+            "video7577",
+            "video9512",
+            "video9791",
+            "video8650",
+            "video8254"
+        ],
+        "gt": "video7229"
+    },
+    {
+        "txt_id": 397,
+        "txt": "girl is checking twitter",
+        "preds": [
+            "video7687",
+            "video9346",
+            "video8618",
+            "video7547",
+            "video9509"
+        ],
+        "gt": "video7916"
+    },
+    {
+        "txt_id": 400,
+        "txt": "a man in sunglasses and a blue shirt beat boxes",
+        "preds": [
+            "video8262",
+            "video7211",
+            "video9685",
+            "video7979",
+            "video8310"
+        ],
+        "gt": "video7915"
+    },
+    {
+        "txt_id": 401,
+        "txt": "peter is driving in the car",
+        "preds": [
+            "video7445",
+            "video7965",
+            "video9331",
+            "video8263",
+            "video7354"
+        ],
+        "gt": "video7912"
+    },
+    {
+        "txt_id": 402,
+        "txt": "a man describing how to do something in windows",
+        "preds": [
+            "video8311",
+            "video9820",
+            "video9549",
+            "video7027",
+            "video7154"
+        ],
+        "gt": "video7913"
+    },
+    {
+        "txt_id": 404,
+        "txt": "a woman is making a recipe in a sauce pan",
+        "preds": [
+            "video9639",
+            "video9335",
+            "video8654",
+            "video9689",
+            "video8300"
+        ],
+        "gt": "video7911"
+    },
+    {
+        "txt_id": 406,
+        "txt": "a man is talking with his friends on a video game",
+        "preds": [
+            "video8116",
+            "video7723",
+            "video9813",
+            "video8689",
+            "video8313"
+        ],
+        "gt": "video8628"
+    },
+    {
+        "txt_id": 407,
+        "txt": "a character is jumping and floating in the air in a video game",
+        "preds": [
+            "video9224",
+            "video7552",
+            "video8462",
+            "video9014",
+            "video8313"
+        ],
+        "gt": "video7919"
+    },
+    {
+        "txt_id": 409,
+        "txt": "the lighting work is going on the building",
+        "preds": [
+            "video8441",
+            "video7732",
+            "video8311",
+            "video8129",
+            "video9236"
+        ],
+        "gt": "video8798"
+    },
+    {
+        "txt_id": 412,
+        "txt": "a man walks towards a woman and the woman breaks a bottle to defend her belongings",
+        "preds": [
+            "video9322",
+            "video9816",
+            "video9237",
+            "video8899",
+            "video9027"
+        ],
+        "gt": "video9919"
+    },
+    {
+        "txt_id": 415,
+        "txt": "comedy skit with dc comics character vane",
+        "preds": [
+            "video8673",
+            "video9242",
+            "video9300",
+            "video8128",
+            "video9814"
+        ],
+        "gt": "video8061"
+    },
+    {
+        "txt_id": 417,
+        "txt": "guys holding cups and talking",
+        "preds": [
+            "video9229",
+            "video8685",
+            "video7375",
+            "video7726",
+            "video8343"
+        ],
+        "gt": "video8067"
+    },
+    {
+        "txt_id": 420,
+        "txt": "man talking about hiking",
+        "preds": [
+            "video9548",
+            "video7174",
+            "video7412",
+            "video7854",
+            "video7914"
+        ],
+        "gt": "video8796"
+    },
+    {
+        "txt_id": 423,
+        "txt": "a man is talking and more peoples are in the round",
+        "preds": [
+            "video8909",
+            "video9352",
+            "video8441",
+            "video7754",
+            "video9233"
+        ],
+        "gt": "video9752"
+    },
+    {
+        "txt_id": 424,
+        "txt": "a group of friends are in a room talking with each other",
+        "preds": [
+            "video8472",
+            "video9824",
+            "video9833",
+            "video8318",
+            "video9835"
+        ],
+        "gt": "video7593"
+    },
+    {
+        "txt_id": 431,
+        "txt": "it is a vine compilation",
+        "preds": [
+            "video9356",
+            "video8498",
+            "video9620",
+            "video8475",
+            "video9804"
+        ],
+        "gt": "video7358"
+    },
+    {
+        "txt_id": 432,
+        "txt": "two people are preparing for sports",
+        "preds": [
+            "video7776",
+            "video8316",
+            "video7168",
+            "video7131",
+            "video8267"
+        ],
+        "gt": "video7359"
+    },
+    {
+        "txt_id": 438,
+        "txt": "a man is acting out a scene",
+        "preds": [
+            "video8492",
+            "video7755",
+            "video9603",
+            "video7838",
+            "video7215"
+        ],
+        "gt": "video7351"
+    },
+    {
+        "txt_id": 440,
+        "txt": "a minecraft video game is being played",
+        "preds": [
+            "video8663",
+            "video7792",
+            "video8797",
+            "video8578",
+            "video8077"
+        ],
+        "gt": "video7353"
+    },
+    {
+        "txt_id": 441,
+        "txt": "a video game is played",
+        "preds": [
+            "video8313",
+            "video8116",
+            "video8689",
+            "video7374",
+            "video9813"
+        ],
+        "gt": "video8027"
+    },
+    {
+        "txt_id": 443,
+        "txt": "the opeing credit to gullah grub authentic cooking",
+        "preds": [
+            "video9227",
+            "video7591",
+            "video7563",
+            "video8662",
+            "video9694"
+        ],
+        "gt": "video8025"
+    },
+    {
+        "txt_id": 446,
+        "txt": "music is playing and advertisements was showing",
+        "preds": [
+            "video9695",
+            "video8490",
+            "video8811",
+            "video8475",
+            "video9607"
+        ],
+        "gt": "video8667"
+    },
+    {
+        "txt_id": 453,
+        "txt": "anchor talking about a shows",
+        "preds": [
+            "video9204",
+            "video8175",
+            "video9223",
+            "video8491",
+            "video9037"
+        ],
+        "gt": "video8669"
+    },
+    {
+        "txt_id": 459,
+        "txt": "couples describing the logic behind movie scenes",
+        "preds": [
+            "video8829",
+            "video8821",
+            "video8811",
+            "video9833",
+            "video8340"
+        ],
+        "gt": "video7685"
+    },
+    {
+        "txt_id": 462,
+        "txt": "an ethiopian woman asks a child what she is good at",
+        "preds": [
+            "video7364",
+            "video8304",
+            "video7348",
+            "video8348",
+            "video8937"
+        ],
+        "gt": "video7680"
+    },
+    {
+        "txt_id": 466,
+        "txt": "this little light of mine song with different photos",
+        "preds": [
+            "video8806",
+            "video8481",
+            "video7767",
+            "video7830",
+            "video7142"
+        ],
+        "gt": "video8937"
+    },
+    {
+        "txt_id": 468,
+        "txt": "a man playing a video game character that is carrying a sword and killing animals with it",
+        "preds": [
+            "video9795",
+            "video9035",
+            "video9200",
+            "video8313",
+            "video8256"
+        ],
+        "gt": "video8931"
+    },
+    {
+        "txt_id": 469,
+        "txt": "a man speaks on a a news panel",
+        "preds": [
+            "video9692",
+            "video8864",
+            "video8491",
+            "video9819",
+            "video7967"
+        ],
+        "gt": "video8930"
+    },
+    {
+        "txt_id": 471,
+        "txt": "a man is giving an interview in a tv show",
+        "preds": [
+            "video7753",
+            "video9819",
+            "video8491",
+            "video8930",
+            "video8120"
+        ],
+        "gt": "video8932"
+    },
+    {
+        "txt_id": 472,
+        "txt": "an animated video game song",
+        "preds": [
+            "video9224",
+            "video9200",
+            "video7786",
+            "video7232",
+            "video8116"
+        ],
+        "gt": "video7178"
+    },
+    {
+        "txt_id": 475,
+        "txt": "the woman wearing the white top talks to the people in the audience",
+        "preds": [
+            "video8669",
+            "video8650",
+            "video7341",
+            "video7577",
+            "video8904"
+        ],
+        "gt": "video7171"
+    },
+    {
+        "txt_id": 477,
+        "txt": "a woman is mixing nailpolish and putting an egg into it",
+        "preds": [
+            "video8656",
+            "video9022",
+            "video9731",
+            "video7826",
+            "video8791"
+        ],
+        "gt": "video7173"
+    },
+    {
+        "txt_id": 479,
+        "txt": "the band member takes a seat",
+        "preds": [
+            "video9254",
+            "video9793",
+            "video7205",
+            "video8978",
+            "video9243"
+        ],
+        "gt": "video7175"
+    },
+    {
+        "txt_id": 484,
+        "txt": "a man points a gun at another persons face",
+        "preds": [
+            "video9784",
+            "video8249",
+            "video7576",
+            "video7436",
+            "video8805"
+        ],
+        "gt": "video8453"
+    },
+    {
+        "txt_id": 487,
+        "txt": "a girl being surprised with a stuffed animal by male friend",
+        "preds": [
+            "video9241",
+            "video7201",
+            "video7579",
+            "video8604",
+            "video8868"
+        ],
+        "gt": "video9682"
+    },
+    {
+        "txt_id": 488,
+        "txt": "a man and woman performing in front of judes",
+        "preds": [
+            "video9251",
+            "video7164",
+            "video7444",
+            "video8650",
+            "video8786"
+        ],
+        "gt": "video9683"
+    },
+    {
+        "txt_id": 493,
+        "txt": "a woman is showing nail polish",
+        "preds": [
+            "video9025",
+            "video7909",
+            "video8791",
+            "video9822",
+            "video9220"
+        ],
+        "gt": "video8712"
+    },
+    {
+        "txt_id": 498,
+        "txt": "jeremy is describing a car",
+        "preds": [
+            "video7026",
+            "video7765",
+            "video9259",
+            "video7356",
+            "video9514"
+        ],
+        "gt": "video9530"
+    },
+    {
+        "txt_id": 502,
+        "txt": "some men play a game of kickball",
+        "preds": [
+            "video7358",
+            "video7776",
+            "video8979",
+            "video7112",
+            "video8660"
+        ],
+        "gt": "video9534"
+    },
+    {
+        "txt_id": 505,
+        "txt": "people are talking to each other",
+        "preds": [
+            "video8821",
+            "video7680",
+            "video8304",
+            "video9835",
+            "video9824"
+        ],
+        "gt": "video8800"
+    },
+    {
+        "txt_id": 506,
+        "txt": "a man is sweeping dust off the floor",
+        "preds": [
+            "video8836",
+            "video8250",
+            "video7351",
+            "video7155",
+            "video9307"
+        ],
+        "gt": "video8803"
+    },
+    {
+        "txt_id": 510,
+        "txt": "a couple dancing doing salsa",
+        "preds": [
+            "video9957",
+            "video8305",
+            "video9251",
+            "video7351",
+            "video9513"
+        ],
+        "gt": "video8807"
+    },
+    {
+        "txt_id": 511,
+        "txt": "someone looking at a japanese book",
+        "preds": [
+            "video7431",
+            "video8684",
+            "video7547",
+            "video8679",
+            "video7166"
+        ],
+        "gt": "video8806"
+    },
+    {
+        "txt_id": 515,
+        "txt": "a girl explains about some studies showing some hands actions",
+        "preds": [
+            "video9242",
+            "video9699",
+            "video7154",
+            "video8666",
+            "video7580"
+        ],
+        "gt": "video7577"
+    },
+    {
+        "txt_id": 520,
+        "txt": "people are on stage talking",
+        "preds": [
+            "video7754",
+            "video8464",
+            "video8650",
+            "video9683",
+            "video9304"
+        ],
+        "gt": "video7578"
+    },
+    {
+        "txt_id": 523,
+        "txt": "guy in purple tshirt playing guitar as they drive through",
+        "preds": [
+            "video9330",
+            "video7969",
+            "video7586",
+            "video7445",
+            "video7419"
+        ],
+        "gt": "video9228"
+    },
+    {
+        "txt_id": 527,
+        "txt": "someone is playing a game",
+        "preds": [
+            "video7374",
+            "video8860",
+            "video8116",
+            "video9510",
+            "video9813"
+        ],
+        "gt": "video9224"
+    },
+    {
+        "txt_id": 529,
+        "txt": "a boy is trying out for a part on the voice kids",
+        "preds": [
+            "video9202",
+            "video7733",
+            "video9303",
+            "video8792",
+            "video9879"
+        ],
+        "gt": "video9222"
+    },
+    {
+        "txt_id": 530,
+        "txt": "a man and a woman are sitting in front of a television and addressing and audience",
+        "preds": [
+            "video9205",
+            "video7234",
+            "video8464",
+            "video8068",
+            "video8789"
+        ],
+        "gt": "video9223"
+    },
+    {
+        "txt_id": 532,
+        "txt": "a cartoon clip is being played",
+        "preds": [
+            "video7111",
+            "video8676",
+            "video9524",
+            "video8827",
+            "video9776"
+        ],
+        "gt": "video9221"
+    },
+    {
+        "txt_id": 535,
+        "txt": "it is the video of military men",
+        "preds": [
+            "video7373",
+            "video8805",
+            "video9450",
+            "video9255",
+            "video9235"
+        ],
+        "gt": "video9323"
+    },
+    {
+        "txt_id": 536,
+        "txt": "a woman gets trapped in a burning trailer",
+        "preds": [
+            "video9780",
+            "video8790",
+            "video9354",
+            "video8902",
+            "video9252"
+        ],
+        "gt": "video9322"
+    },
+    {
+        "txt_id": 541,
+        "txt": "a man is driving a black car",
+        "preds": [
+            "video7965",
+            "video9358",
+            "video7354",
+            "video7765",
+            "video8263"
+        ],
+        "gt": "video9325"
+    },
+    {
+        "txt_id": 542,
+        "txt": "animated video showing a bottle rolling across an empty hallway",
+        "preds": [
+            "video8911",
+            "video8076",
+            "video8128",
+            "video7414",
+            "video8663"
+        ],
+        "gt": "video9324"
+    },
+    {
+        "txt_id": 543,
+        "txt": "a couple is shown",
+        "preds": [
+            "video7682",
+            "video8653",
+            "video8974",
+            "video8683",
+            "video7590"
+        ],
+        "gt": "video9329"
+    },
+    {
+        "txt_id": 548,
+        "txt": "a man talks about visiting visiting a specific place to buy some things",
+        "preds": [
+            "video8796",
+            "video8831",
+            "video9337",
+            "video9010",
+            "video7364"
+        ],
+        "gt": "video7412"
+    },
+    {
+        "txt_id": 549,
+        "txt": "jolly good music troop delivering a program and the lady is in good spirit",
+        "preds": [
+            "video8650",
+            "video9026",
+            "video8314",
+            "video8914",
+            "video9695"
+        ],
+        "gt": "video7411"
+    },
+    {
+        "txt_id": 557,
+        "txt": "a person is preparing some food",
+        "preds": [
+            "video9625",
+            "video8865",
+            "video8656",
+            "video9335",
+            "video7165"
+        ],
+        "gt": "video9038"
+    },
+    {
+        "txt_id": 558,
+        "txt": "a women is sitting with her baby and two people talking about that",
+        "preds": [
+            "video9320",
+            "video8821",
+            "video9835",
+            "video8478",
+            "video8604"
+        ],
+        "gt": "video9037"
+    },
+    {
+        "txt_id": 567,
+        "txt": "a girl talking with long hair",
+        "preds": [
+            "video9512",
+            "video8261",
+            "video9698",
+            "video7580",
+            "video7549"
+        ],
+        "gt": "video9419"
+    },
+    {
+        "txt_id": 572,
+        "txt": "a rock band performs on stage",
+        "preds": [
+            "video9243",
+            "video8925",
+            "video7135",
+            "video8466",
+            "video7461"
+        ],
+        "gt": "video8324"
+    },
+    {
+        "txt_id": 573,
+        "txt": "a man cooks some food in a kitchen",
+        "preds": [
+            "video9625",
+            "video8834",
+            "video8865",
+            "video7799",
+            "video7376"
+        ],
+        "gt": "video8325"
+    },
+    {
+        "txt_id": 576,
+        "txt": "a man discusses and shows traits of some computer functions",
+        "preds": [
+            "video8921",
+            "video9549",
+            "video7166",
+            "video7347",
+            "video8682"
+        ],
+        "gt": "video8328"
+    },
+    {
+        "txt_id": 577,
+        "txt": "a woman talks about horse racing",
+        "preds": [
+            "video9248",
+            "video7615",
+            "video9512",
+            "video7580",
+            "video9416"
+        ],
+        "gt": "video8329"
+    },
+    {
+        "txt_id": 578,
+        "txt": "a man in black suit is talking about deforestation and about climate change",
+        "preds": [
+            "video8908",
+            "video7790",
+            "video9406",
+            "video9807",
+            "video9692"
+        ],
+        "gt": "video9418"
+    },
+    {
+        "txt_id": 583,
+        "txt": "a mashup of music videos is being played",
+        "preds": [
+            "video7767",
+            "video9201",
+            "video9695",
+            "video7367",
+            "video8481"
+        ],
+        "gt": "video9815"
+    },
+    {
+        "txt_id": 585,
+        "txt": "vines of sports are being played",
+        "preds": [
+            "video7358",
+            "video9605",
+            "video9647",
+            "video7610",
+            "video7789"
+        ],
+        "gt": "video9817"
+    },
+    {
+        "txt_id": 587,
+        "txt": "a reporter talks about a police incident",
+        "preds": [
+            "video9323",
+            "video9829",
+            "video7790",
+            "video8491",
+            "video8864"
+        ],
+        "gt": "video9819"
+    },
+    {
+        "txt_id": 589,
+        "txt": "a special songs for the game",
+        "preds": [
+            "video9224",
+            "video7374",
+            "video8817",
+            "video9805",
+            "video9452"
+        ],
+        "gt": "video9605"
+    },
+    {
+        "txt_id": 590,
+        "txt": "a group of people are stamp dancing on stage in front of a crowd",
+        "preds": [
+            "video7141",
+            "video9519",
+            "video7960",
+            "video9063",
+            "video9131"
+        ],
+        "gt": "video8556"
+    },
+    {
+        "txt_id": 595,
+        "txt": "the song hero by skillet with lyrics",
+        "preds": [
+            "video9695",
+            "video7767",
+            "video8618",
+            "video8485",
+            "video7355"
+        ],
+        "gt": "video8490"
+    },
+    {
+        "txt_id": 596,
+        "txt": "a police officer pulls a gun at a swimming pool",
+        "preds": [
+            "video9578",
+            "video7797",
+            "video7732",
+            "video9323",
+            "video7822"
+        ],
+        "gt": "video8491"
+    },
+    {
+        "txt_id": 599,
+        "txt": "a girl is talking about a celebrity",
+        "preds": [
+            "video9782",
+            "video9225",
+            "video7216",
+            "video8453",
+            "video8783"
+        ],
+        "gt": "video8494"
+    },
+    {
+        "txt_id": 603,
+        "txt": "an interview is conducted",
+        "preds": [
+            "video8821",
+            "video7491",
+            "video8822",
+            "video8068",
+            "video9885"
+        ],
+        "gt": "video8259"
+    },
+    {
+        "txt_id": 611,
+        "txt": "vest of sports vines",
+        "preds": [
+            "video9302",
+            "video7610",
+            "video8498",
+            "video7168",
+            "video8945"
+        ],
+        "gt": "video8253"
+    },
+    {
+        "txt_id": 617,
+        "txt": "episode from spongebob cartoon",
+        "preds": [
+            "video7111",
+            "video8446",
+            "video8916",
+            "video8839",
+            "video9808"
+        ],
+        "gt": "video7218"
+    },
+    {
+        "txt_id": 620,
+        "txt": "person playing a game",
+        "preds": [
+            "video8860",
+            "video8116",
+            "video7374",
+            "video8689",
+            "video8313"
+        ],
+        "gt": "video7215"
+    },
+    {
+        "txt_id": 623,
+        "txt": "a woman giving skin care tips",
+        "preds": [
+            "video8488",
+            "video7684",
+            "video7372",
+            "video8712",
+            "video9698"
+        ],
+        "gt": "video7216"
+    },
+    {
+        "txt_id": 625,
+        "txt": "a woman demonstrates how to cook chitlins",
+        "preds": [
+            "video8915",
+            "video8057",
+            "video7973",
+            "video8489",
+            "video8056"
+        ],
+        "gt": "video8479"
+    },
+    {
+        "txt_id": 626,
+        "txt": "a woman is making lasagna",
+        "preds": [
+            "video8910",
+            "video8915",
+            "video8056",
+            "video7591",
+            "video9873"
+        ],
+        "gt": "video7213"
+    },
+    {
+        "txt_id": 628,
+        "txt": "a group of people talking about stuff",
+        "preds": [
+            "video8821",
+            "video8472",
+            "video7546",
+            "video7413",
+            "video9835"
+        ],
+        "gt": "video8786"
+    },
+    {
+        "txt_id": 629,
+        "txt": "minecraft gamer puts on iron armor",
+        "preds": [
+            "video7792",
+            "video7552",
+            "video7574",
+            "video8797",
+            "video9334"
+        ],
+        "gt": "video8787"
+    },
+    {
+        "txt_id": 630,
+        "txt": "a band of singers and guitarists are performing on stage",
+        "preds": [
+            "video8466",
+            "video7596",
+            "video8926",
+            "video8925",
+            "video7205"
+        ],
+        "gt": "video7961"
+    },
+    {
+        "txt_id": 631,
+        "txt": "a man is running around and playing a guitar",
+        "preds": [
+            "video7227",
+            "video9330",
+            "video7976",
+            "video9307",
+            "video7228"
+        ],
+        "gt": "video7960"
+    },
+    {
+        "txt_id": 637,
+        "txt": "person driving in car",
+        "preds": [
+            "video7965",
+            "video7445",
+            "video8263",
+            "video9806",
+            "video8497"
+        ],
+        "gt": "video7969"
+    },
+    {
+        "txt_id": 638,
+        "txt": "a foul mouthed chef demonstrates and describes a vegetable recipe",
+        "preds": [
+            "video8751",
+            "video8498",
+            "video8247",
+            "video9409",
+            "video7898"
+        ],
+        "gt": "video7968"
+    },
+    {
+        "txt_id": 639,
+        "txt": "a man plays a video game where the player has a first person perspective and shoots other characters",
+        "preds": [
+            "video8256",
+            "video9813",
+            "video7757",
+            "video7207",
+            "video9837"
+        ],
+        "gt": "video8788"
+    },
+    {
+        "txt_id": 643,
+        "txt": "a tamil movie scene is being shown they travel through a auto riksha and speak about the importance of work",
+        "preds": [
+            "video8243",
+            "video9228",
+            "video9331",
+            "video8851",
+            "video7965"
+        ],
+        "gt": "video8879"
+    },
+    {
+        "txt_id": 645,
+        "txt": "a man is talking about the making of the movie avatar",
+        "preds": [
+            "video7215",
+            "video9236",
+            "video7368",
+            "video7838",
+            "video7436"
+        ],
+        "gt": "video8071"
+    },
+    {
+        "txt_id": 646,
+        "txt": "a man talking about human relationships",
+        "preds": [
+            "video7491",
+            "video8119",
+            "video9728",
+            "video7333",
+            "video7546"
+        ],
+        "gt": "video8072"
+    },
+    {
+        "txt_id": 649,
+        "txt": "scenes of romantic film",
+        "preds": [
+            "video9801",
+            "video7964",
+            "video7682",
+            "video8811",
+            "video7164"
+        ],
+        "gt": "video8075"
+    },
+    {
+        "txt_id": 650,
+        "txt": "a web animation of a businessman",
+        "preds": [
+            "video9781",
+            "video8921",
+            "video9221",
+            "video9820",
+            "video7203"
+        ],
+        "gt": "video8076"
+    },
+    {
+        "txt_id": 651,
+        "txt": "a man playing a video game",
+        "preds": [
+            "video9813",
+            "video7207",
+            "video7035",
+            "video8860",
+            "video8116"
+        ],
+        "gt": "video8077"
+    },
+    {
+        "txt_id": 655,
+        "txt": "a martial arts cartoon",
+        "preds": [
+            "video8245",
+            "video7172",
+            "video7747",
+            "video8303",
+            "video8128"
+        ],
+        "gt": "video7368"
+    },
+    {
+        "txt_id": 657,
+        "txt": "a woman is showing shrimp and bunch of different other ingredients in order to cook a dish",
+        "preds": [
+            "video8489",
+            "video8751",
+            "video9409",
+            "video9309",
+            "video9687"
+        ],
+        "gt": "video7360"
+    },
+    {
+        "txt_id": 659,
+        "txt": "a person is cooking on stage",
+        "preds": [
+            "video8662",
+            "video7572",
+            "video9625",
+            "video9335",
+            "video9038"
+        ],
+        "gt": "video7362"
+    },
+    {
+        "txt_id": 663,
+        "txt": "someone giving demo for some game and talking about that",
+        "preds": [
+            "video7207",
+            "video9813",
+            "video7757",
+            "video8010",
+            "video7766"
+        ],
+        "gt": "video7366"
+    },
+    {
+        "txt_id": 665,
+        "txt": "a man in a music video screams shut up a bunch of times",
+        "preds": [
+            "video7755",
+            "video8671",
+            "video7767",
+            "video8492",
+            "video7351"
+        ],
+        "gt": "video7135"
+    },
+    {
+        "txt_id": 666,
+        "txt": "someone is playing a game",
+        "preds": [
+            "video8116",
+            "video8860",
+            "video9813",
+            "video7374",
+            "video7207"
+        ],
+        "gt": "video9400"
+    },
+    {
+        "txt_id": 668,
+        "txt": "a man discusses spongebob",
+        "preds": [
+            "video7111",
+            "video8446",
+            "video8916",
+            "video9808",
+            "video8677"
+        ],
+        "gt": "video8673"
+    },
+    {
+        "txt_id": 670,
+        "txt": "bill murray is covered in frosting",
+        "preds": [
+            "video7362",
+            "video9752",
+            "video9744",
+            "video9516",
+            "video7159"
+        ],
+        "gt": "video7137"
+    },
+    {
+        "txt_id": 671,
+        "txt": "a girl walking down a path",
+        "preds": [
+            "video7364",
+            "video7837",
+            "video9308",
+            "video9816",
+            "video9277"
+        ],
+        "gt": "video8676"
+    },
+    {
+        "txt_id": 674,
+        "txt": "a man kicks a ball",
+        "preds": [
+            "video7358",
+            "video7021",
+            "video9324",
+            "video7112",
+            "video8913"
+        ],
+        "gt": "video8675"
+    },
+    {
+        "txt_id": 675,
+        "txt": "a person giving his opinion on how crowded the world is",
+        "preds": [
+            "video7333",
+            "video7364",
+            "video7890",
+            "video9028",
+            "video7834"
+        ],
+        "gt": "video9406"
+    },
+    {
+        "txt_id": 676,
+        "txt": "a lady is walking in the beach",
+        "preds": [
+            "video8999",
+            "video7589",
+            "video9359",
+            "video8241",
+            "video7681"
+        ],
+        "gt": "video8678"
+    },
+    {
+        "txt_id": 677,
+        "txt": "a man discussed a few products",
+        "preds": [
+            "video8301",
+            "video7064",
+            "video9781",
+            "video8796",
+            "video8257"
+        ],
+        "gt": "video8679"
+    },
+    {
+        "txt_id": 679,
+        "txt": "a critic about wine speaks about the french wines",
+        "preds": [
+            "video9901",
+            "video8260",
+            "video7946",
+            "video9356",
+            "video7491"
+        ],
+        "gt": "video7145"
+    },
+    {
+        "txt_id": 685,
+        "txt": "someone giving demo for some game",
+        "preds": [
+            "video9813",
+            "video7207",
+            "video8860",
+            "video7766",
+            "video7972"
+        ],
+        "gt": "video7143"
+    },
+    {
+        "txt_id": 686,
+        "txt": "an oriental femal is dressed in a pink wig with girlish clothing and is carrying a stuffed animal",
+        "preds": [
+            "video7579",
+            "video8317",
+            "video7361",
+            "video7438",
+            "video9343"
+        ],
+        "gt": "video7142"
+    },
+    {
+        "txt_id": 691,
+        "txt": "a man is playing a guitar with a band in a live concert",
+        "preds": [
+            "video9243",
+            "video8925",
+            "video8466",
+            "video7961",
+            "video7596"
+        ],
+        "gt": "video8926"
+    },
+    {
+        "txt_id": 692,
+        "txt": "a cheif is preparing a treat",
+        "preds": [
+            "video7973",
+            "video8056",
+            "video8900",
+            "video8910",
+            "video7561"
+        ],
+        "gt": "video7148"
+    },
+    {
+        "txt_id": 700,
+        "txt": "a man talking about the two cars he test drove",
+        "preds": [
+            "video9677",
+            "video7026",
+            "video7765",
+            "video7597",
+            "video9535"
+        ],
+        "gt": "video7138"
+    },
+    {
+        "txt_id": 701,
+        "txt": "a pretty young girl talks to a man with a mustache",
+        "preds": [
+            "video7162",
+            "video7583",
+            "video8669",
+            "video8074",
+            "video9353"
+        ],
+        "gt": "video8974"
+    },
+    {
+        "txt_id": 704,
+        "txt": "animated cartoon character is catching the ball",
+        "preds": [
+            "video8128",
+            "video8655",
+            "video8676",
+            "video9776",
+            "video9224"
+        ],
+        "gt": "video8816"
+    },
+    {
+        "txt_id": 706,
+        "txt": "the judges make a decision",
+        "preds": [
+            "video9778",
+            "video7733",
+            "video8464",
+            "video8792",
+            "video7119"
+        ],
+        "gt": "video8814"
+    },
+    {
+        "txt_id": 708,
+        "txt": "shows a globe and a bunch of people",
+        "preds": [
+            "video9821",
+            "video8022",
+            "video8346",
+            "video7027",
+            "video7333"
+        ],
+        "gt": "video8812"
+    },
+    {
+        "txt_id": 709,
+        "txt": "a woman is interviewed on a tv talk show",
+        "preds": [
+            "video8927",
+            "video9204",
+            "video9512",
+            "video9223",
+            "video7724"
+        ],
+        "gt": "video8813"
+    },
+    {
+        "txt_id": 710,
+        "txt": "a woman plays guitar and sings for a televised competition",
+        "preds": [
+            "video9222",
+            "video9793",
+            "video8265",
+            "video7461",
+            "video7569"
+        ],
+        "gt": "video8810"
+    },
+    {
+        "txt_id": 711,
+        "txt": "the boy in karate dresswho is remembering the memorable hours with his father",
+        "preds": [
+            "video7346",
+            "video9240",
+            "video8260",
+            "video8721",
+            "video9324"
+        ],
+        "gt": "video8811"
+    },
+    {
+        "txt_id": 712,
+        "txt": "people share their thoughts on a boxing match",
+        "preds": [
+            "video7501",
+            "video7754",
+            "video9518",
+            "video8262",
+            "video9020"
+        ],
+        "gt": "video7211"
+    },
+    {
+        "txt_id": 717,
+        "txt": "a compilation of vine videos is shown",
+        "preds": [
+            "video8979",
+            "video9605",
+            "video9029",
+            "video9781",
+            "video7358"
+        ],
+        "gt": "video7789"
+    },
+    {
+        "txt_id": 718,
+        "txt": "two guys are wrestling in a competition",
+        "preds": [
+            "video8470",
+            "video8443",
+            "video8823",
+            "video9803",
+            "video8310"
+        ],
+        "gt": "video7788"
+    },
+    {
+        "txt_id": 719,
+        "txt": "various sports clips with music are shown",
+        "preds": [
+            "video7358",
+            "video9605",
+            "video9647",
+            "video9029",
+            "video9542"
+        ],
+        "gt": "video7787"
+    },
+    {
+        "txt_id": 721,
+        "txt": "person lighting a kettle",
+        "preds": [
+            "video9356",
+            "video7169",
+            "video8618",
+            "video9770",
+            "video7148"
+        ],
+        "gt": "video7785"
+    },
+    {
+        "txt_id": 724,
+        "txt": "a girl talking to her dead mom",
+        "preds": [
+            "video9237",
+            "video9780",
+            "video8790",
+            "video9686",
+            "video9816"
+        ],
+        "gt": "video7782"
+    },
+    {
+        "txt_id": 726,
+        "txt": "a man giving information about the mormon game",
+        "preds": [
+            "video9909",
+            "video8650",
+            "video8652",
+            "video7686",
+            "video7333"
+        ],
+        "gt": "video7780"
+    },
+    {
+        "txt_id": 727,
+        "txt": "a women is explaining about the information of responders and the non responders for precision medicine",
+        "preds": [
+            "video8666",
+            "video7223",
+            "video9032",
+            "video7166",
+            "video9829"
+        ],
+        "gt": "video9781"
+    },
+    {
+        "txt_id": 730,
+        "txt": "a man talking about a womans genital problems",
+        "preds": [
+            "video8119",
+            "video7491",
+            "video7546",
+            "video9728",
+            "video9032"
+        ],
+        "gt": "video9782"
+    },
+    {
+        "txt_id": 731,
+        "txt": "a person is playing a violin",
+        "preds": [
+            "video8618",
+            "video7373",
+            "video8260",
+            "video7947",
+            "video7355"
+        ],
+        "gt": "video7545"
+    },
+    {
+        "txt_id": 732,
+        "txt": "sygornie weaver pointing a gun and then running",
+        "preds": [
+            "video8256",
+            "video8061",
+            "video9750",
+            "video8929",
+            "video9324"
+        ],
+        "gt": "video9784"
+    },
+    {
+        "txt_id": 733,
+        "txt": "there is a woman in her roomshe is a net idol show her new vedio",
+        "preds": [
+            "video8783",
+            "video8453",
+            "video9509",
+            "video9343",
+            "video9225"
+        ],
+        "gt": "video7547"
+    },
+    {
+        "txt_id": 735,
+        "txt": "a transvestite shows what she bought for her dog including shampoo and conditioner made by martha stuart",
+        "preds": [
+            "video7579",
+            "video8866",
+            "video8837",
+            "video9828",
+            "video8488"
+        ],
+        "gt": "video7549"
+    },
+    {
+        "txt_id": 743,
+        "txt": "sleeping beauty play promotion",
+        "preds": [
+            "video8240",
+            "video8340",
+            "video9012",
+            "video9509",
+            "video8827"
+        ],
+        "gt": "video9251"
+    },
+    {
+        "txt_id": 744,
+        "txt": "a woman talking about a white tank top",
+        "preds": [
+            "video7573",
+            "video8904",
+            "video7341",
+            "video9346",
+            "video9810"
+        ],
+        "gt": "video9250"
+    },
+    {
+        "txt_id": 746,
+        "txt": "a woman is making playdoh",
+        "preds": [
+            "video7173",
+            "video7561",
+            "video7020",
+            "video8774",
+            "video8620"
+        ],
+        "gt": "video9256"
+    },
+    {
+        "txt_id": 750,
+        "txt": "a lady describes about workout and exercises for women",
+        "preds": [
+            "video7610",
+            "video8267",
+            "video9824",
+            "video8936",
+            "video8690"
+        ],
+        "gt": "video7724"
+    },
+    {
+        "txt_id": 752,
+        "txt": "two boys introducing a young lady who plays the cups and sings",
+        "preds": [
+            "video8685",
+            "video8786",
+            "video9229",
+            "video7362",
+            "video7578"
+        ],
+        "gt": "video7558"
+    },
+    {
+        "txt_id": 755,
+        "txt": "a man drives his car down the road",
+        "preds": [
+            "video7965",
+            "video7445",
+            "video8263",
+            "video9677",
+            "video7597"
+        ],
+        "gt": "video9331"
+    },
+    {
+        "txt_id": 756,
+        "txt": "a girl plays a videogame",
+        "preds": [
+            "video9031",
+            "video9458",
+            "video8860",
+            "video7035",
+            "video7366"
+        ],
+        "gt": "video9332"
+    },
+    {
+        "txt_id": 759,
+        "txt": "the person is frying the prawns and fish",
+        "preds": [
+            "video8489",
+            "video8751",
+            "video9639",
+            "video9309",
+            "video9409"
+        ],
+        "gt": "video9335"
+    },
+    {
+        "txt_id": 761,
+        "txt": "some people are inside of a room",
+        "preds": [
+            "video9237",
+            "video7593",
+            "video7843",
+            "video9322",
+            "video8129"
+        ],
+        "gt": "video9337"
+    },
+    {
+        "txt_id": 767,
+        "txt": "a song from the movie beauty and the beast",
+        "preds": [
+            "video7164",
+            "video7964",
+            "video8790",
+            "video8680",
+            "video7467"
+        ],
+        "gt": "video8781"
+    },
+    {
+        "txt_id": 768,
+        "txt": "a woman swings her hair in front of a large sing on a brick wall",
+        "preds": [
+            "video9827",
+            "video8261",
+            "video8317",
+            "video8605",
+            "video8650"
+        ],
+        "gt": "video7728"
+    },
+    {
+        "txt_id": 769,
+        "txt": "news of marijuana business having trouble growing",
+        "preds": [
+            "video9010",
+            "video7613",
+            "video9356",
+            "video9692",
+            "video8906"
+        ],
+        "gt": "video9028"
+    },
+    {
+        "txt_id": 770,
+        "txt": "a player is putting a basket ball into the basket from distance",
+        "preds": [
+            "video7358",
+            "video9018",
+            "video8668",
+            "video7710",
+            "video7112"
+        ],
+        "gt": "video9029"
+    },
+    {
+        "txt_id": 774,
+        "txt": "a group of young people are playing",
+        "preds": [
+            "video7112",
+            "video7776",
+            "video7358",
+            "video7688",
+            "video7117"
+        ],
+        "gt": "video9027"
+    },
+    {
+        "txt_id": 776,
+        "txt": "a pitcher throws a fastball",
+        "preds": [
+            "video8913",
+            "video8049",
+            "video7021",
+            "video8308",
+            "video7787"
+        ],
+        "gt": "video9021"
+    },
+    {
+        "txt_id": 778,
+        "txt": "several shots of tv shows combined were shown here",
+        "preds": [
+            "video8475",
+            "video9804",
+            "video8811",
+            "video8794",
+            "video9037"
+        ],
+        "gt": "video9023"
+    },
+    {
+        "txt_id": 785,
+        "txt": "a man eats rice and a woman goes to the hospital",
+        "preds": [
+            "video7825",
+            "video7823",
+            "video7559",
+            "video8048",
+            "video9237"
+        ],
+        "gt": "video8606"
+    },
+    {
+        "txt_id": 788,
+        "txt": "there is a man in black is walking in to the bridge",
+        "preds": [
+            "video7368",
+            "video7236",
+            "video9815",
+            "video7468",
+            "video7352"
+        ],
+        "gt": "video8319"
+    },
+    {
+        "txt_id": 789,
+        "txt": "a group discusses a man s outfit",
+        "preds": [
+            "video8796",
+            "video8821",
+            "video7418",
+            "video8801",
+            "video8337"
+        ],
+        "gt": "video8318"
+    },
+    {
+        "txt_id": 790,
+        "txt": "three men were discussing the national football league",
+        "preds": [
+            "video8259",
+            "video7158",
+            "video7501",
+            "video7731",
+            "video9745"
+        ],
+        "gt": "video8315"
+    },
+    {
+        "txt_id": 791,
+        "txt": "a woman dances around for a music video",
+        "preds": [
+            "video9827",
+            "video8605",
+            "video8305",
+            "video7783",
+            "video9782"
+        ],
+        "gt": "video8314"
+    },
+    {
+        "txt_id": 795,
+        "txt": "two wrestlers are fighting on a mat",
+        "preds": [
+            "video8470",
+            "video8443",
+            "video8823",
+            "video9803",
+            "video8309"
+        ],
+        "gt": "video8310"
+    },
+    {
+        "txt_id": 796,
+        "txt": "a woman is discussing a new video game",
+        "preds": [
+            "video7414",
+            "video7207",
+            "video9031",
+            "video9813",
+            "video7972"
+        ],
+        "gt": "video8313"
+    },
+    {
+        "txt_id": 801,
+        "txt": "handsome man plays guitar and sings",
+        "preds": [
+            "video7419",
+            "video7227",
+            "video8251",
+            "video9330",
+            "video7961"
+        ],
+        "gt": "video9600"
+    },
+    {
+        "txt_id": 803,
+        "txt": "a man playing video games",
+        "preds": [
+            "video9813",
+            "video7207",
+            "video7723",
+            "video8860",
+            "video7757"
+        ],
+        "gt": "video9808"
+    },
+    {
+        "txt_id": 808,
+        "txt": "characters from video games are dancing to old mc donald had a farm",
+        "preds": [
+            "video8128",
+            "video9200",
+            "video7232",
+            "video7172",
+            "video8676"
+        ],
+        "gt": "video9805"
+    },
+    {
+        "txt_id": 809,
+        "txt": "a woman dances in the background while a guy doesn t move",
+        "preds": [
+            "video8305",
+            "video9513",
+            "video9251",
+            "video9957",
+            "video9919"
+        ],
+        "gt": "video9802"
+    },
+    {
+        "txt_id": 812,
+        "txt": "selena gomez clips of her videos and her dancing with a man in a tux while she wears pink",
+        "preds": [
+            "video8605",
+            "video8794",
+            "video7144",
+            "video9683",
+            "video9513"
+        ],
+        "gt": "video9801"
+    },
+    {
+        "txt_id": 814,
+        "txt": "a cnn report is talking about their dogs",
+        "preds": [
+            "video8866",
+            "video8935",
+            "video8491",
+            "video8323",
+            "video9622"
+        ],
+        "gt": "video8604"
+    },
+    {
+        "txt_id": 815,
+        "txt": "a group of people watching a screen",
+        "preds": [
+            "video7754",
+            "video7027",
+            "video7175",
+            "video8337",
+            "video9909"
+        ],
+        "gt": "video7444"
+    },
+    {
+        "txt_id": 816,
+        "txt": "a man is talking and playing a video game",
+        "preds": [
+            "video9813",
+            "video7723",
+            "video8116",
+            "video7972",
+            "video8256"
+        ],
+        "gt": "video7445"
+    },
+    {
+        "txt_id": 820,
+        "txt": "the man thought students should be given the freedom to learn",
+        "preds": [
+            "video9908",
+            "video8331",
+            "video7134",
+            "video7345",
+            "video7843"
+        ],
+        "gt": "video8269"
+    },
+    {
+        "txt_id": 821,
+        "txt": "cartoon play for kids",
+        "preds": [
+            "video8827",
+            "video8863",
+            "video9014",
+            "video8676",
+            "video8916"
+        ],
+        "gt": "video8268"
+    },
+    {
+        "txt_id": 826,
+        "txt": "wrestlers are involved in a large wrestling meet",
+        "preds": [
+            "video8470",
+            "video9803",
+            "video8823",
+            "video8443",
+            "video8310"
+        ],
+        "gt": "video8262"
+    },
+    {
+        "txt_id": 831,
+        "txt": "scene from a popular party",
+        "preds": [
+            "video7725",
+            "video9752",
+            "video7411",
+            "video9405",
+            "video7960"
+        ],
+        "gt": "video8441"
+    },
+    {
+        "txt_id": 834,
+        "txt": "a person covers a popular song",
+        "preds": [
+            "video7767",
+            "video9351",
+            "video9695",
+            "video7755",
+            "video7377"
+        ],
+        "gt": "video8442"
+    },
+    {
+        "txt_id": 835,
+        "txt": "people enjoy the performance of singer",
+        "preds": [
+            "video9254",
+            "video8314",
+            "video8482",
+            "video9243",
+            "video7156"
+        ],
+        "gt": "video8445"
+    },
+    {
+        "txt_id": 837,
+        "txt": "a woman singing on the voice",
+        "preds": [
+            "video7569",
+            "video9222",
+            "video9202",
+            "video9303",
+            "video7220"
+        ],
+        "gt": "video8447"
+    },
+    {
+        "txt_id": 840,
+        "txt": "there is no sound while the screen shows a person playing a computer game",
+        "preds": [
+            "video8860",
+            "video7035",
+            "video8116",
+            "video7919",
+            "video8313"
+        ],
+        "gt": "video7203"
+    },
+    {
+        "txt_id": 842,
+        "txt": "lady and her dogs",
+        "preds": [
+            "video8837",
+            "video7836",
+            "video7579",
+            "video8867",
+            "video9828"
+        ],
+        "gt": "video7201"
+    },
+    {
+        "txt_id": 844,
+        "txt": "young men discuss and demonstrate a video game",
+        "preds": [
+            "video8116",
+            "video9813",
+            "video8860",
+            "video7766",
+            "video7972"
+        ],
+        "gt": "video7207"
+    },
+    {
+        "txt_id": 846,
+        "txt": "hands rubbing together in the dark and band members singing and playing the guitar",
+        "preds": [
+            "video8978",
+            "video9243",
+            "video8466",
+            "video8926",
+            "video8324"
+        ],
+        "gt": "video7205"
+    },
+    {
+        "txt_id": 847,
+        "txt": "a man talking about finances",
+        "preds": [
+            "video7834",
+            "video7833",
+            "video7632",
+            "video7491",
+            "video7790"
+        ],
+        "gt": "video9474"
+    },
+    {
+        "txt_id": 854,
+        "txt": "someone is frying food",
+        "preds": [
+            "video9335",
+            "video8751",
+            "video9333",
+            "video7165",
+            "video8056"
+        ],
+        "gt": "video7973"
+    },
+    {
+        "txt_id": 855,
+        "txt": "a woman is ripping off a man clothes",
+        "preds": [
+            "video8012",
+            "video9827",
+            "video9816",
+            "video7964",
+            "video8317"
+        ],
+        "gt": "video7974"
+    },
+    {
+        "txt_id": 860,
+        "txt": "people talking about a fight",
+        "preds": [
+            "video7501",
+            "video9804",
+            "video7060",
+            "video9354",
+            "video8606"
+        ],
+        "gt": "video7979"
+    },
+    {
+        "txt_id": 861,
+        "txt": "two men talk with children s voices",
+        "preds": [
+            "video7838",
+            "video8828",
+            "video8492",
+            "video8673",
+            "video9777"
+        ],
+        "gt": "video9579"
+    },
+    {
+        "txt_id": 863,
+        "txt": "george lopez s family sits down for dinner",
+        "preds": [
+            "video7825",
+            "video9752",
+            "video9919",
+            "video9801",
+            "video8912"
+        ],
+        "gt": "video8048"
+    },
+    {
+        "txt_id": 865,
+        "txt": "cartoon one women in horse and speak to that calmly",
+        "preds": [
+            "video9776",
+            "video8327",
+            "video8794",
+            "video9839",
+            "video7222"
+        ],
+        "gt": "video9577"
+    },
+    {
+        "txt_id": 867,
+        "txt": "broth is being added to a soup pot and stirred with a rubber spatula",
+        "preds": [
+            "video8654",
+            "video9689",
+            "video9639",
+            "video8835",
+            "video8300"
+        ],
+        "gt": "video7376"
+    },
+    {
+        "txt_id": 868,
+        "txt": "a guy reports on complex news",
+        "preds": [
+            "video9819",
+            "video8491",
+            "video7967",
+            "video8864",
+            "video7613"
+        ],
+        "gt": "video7377"
+    },
+    {
+        "txt_id": 870,
+        "txt": "a man talks about the school system",
+        "preds": [
+            "video9908",
+            "video8331",
+            "video7134",
+            "video8257",
+            "video9326"
+        ],
+        "gt": "video7375"
+    },
+    {
+        "txt_id": 871,
+        "txt": "someone is showing some drink",
+        "preds": [
+            "video9699",
+            "video8067",
+            "video8343",
+            "video7785",
+            "video8471"
+        ],
+        "gt": "video7372"
+    },
+    {
+        "txt_id": 873,
+        "txt": "boys and girls dancing and singing on beach",
+        "preds": [
+            "video7117",
+            "video8241",
+            "video9201",
+            "video8556",
+            "video7025"
+        ],
+        "gt": "video7370"
+    },
+    {
+        "txt_id": 874,
+        "txt": "a tv shows review program hosts discuss about the performance and staying on air of star trek",
+        "preds": [
+            "video9882",
+            "video8927",
+            "video8175",
+            "video8813",
+            "video8650"
+        ],
+        "gt": "video7371"
+    },
+    {
+        "txt_id": 875,
+        "txt": "colored lights and pictures of people fade in and out of view",
+        "preds": [
+            "video9688",
+            "video8311",
+            "video7116",
+            "video8937",
+            "video7223"
+        ],
+        "gt": "video7732"
+    },
+    {
+        "txt_id": 877,
+        "txt": "a child is singing on stage",
+        "preds": [
+            "video9879",
+            "video9303",
+            "video8447",
+            "video8810",
+            "video9202"
+        ],
+        "gt": "video7733"
+    },
+    {
+        "txt_id": 884,
+        "txt": "a women is doing craft and talking about that",
+        "preds": [
+            "video8620",
+            "video8784",
+            "video8011",
+            "video8317",
+            "video7909"
+        ],
+        "gt": "video8686"
+    },
+    {
+        "txt_id": 885,
+        "txt": "a man prepares some food in the kitchen",
+        "preds": [
+            "video8865",
+            "video7799",
+            "video9038",
+            "video8834",
+            "video9625"
+        ],
+        "gt": "video8685"
+    },
+    {
+        "txt_id": 886,
+        "txt": "a person points out certain figures on a paper",
+        "preds": [
+            "video9242",
+            "video8269",
+            "video7166",
+            "video7431",
+            "video7581"
+        ],
+        "gt": "video8684"
+    },
+    {
+        "txt_id": 890,
+        "txt": "a woman talking to a man in a hood",
+        "preds": [
+            "video7755",
+            "video9816",
+            "video7583",
+            "video8650",
+            "video7548"
+        ],
+        "gt": "video8680"
+    },
+    {
+        "txt_id": 892,
+        "txt": "there is a wrestling match going on between two people",
+        "preds": [
+            "video8443",
+            "video8470",
+            "video8310",
+            "video8823",
+            "video9803"
+        ],
+        "gt": "video7153"
+    },
+    {
+        "txt_id": 894,
+        "txt": "a man is sitting on a chair",
+        "preds": [
+            "video7946",
+            "video9245",
+            "video9474",
+            "video9909",
+            "video9517"
+        ],
+        "gt": "video7151"
+    },
+    {
+        "txt_id": 898,
+        "txt": "there are two men swimming in a pond",
+        "preds": [
+            "video9830",
+            "video8079",
+            "video9831",
+            "video8493",
+            "video9578"
+        ],
+        "gt": "video7155"
+    },
+    {
+        "txt_id": 902,
+        "txt": "an animated girl talks to a baby and plays with it",
+        "preds": [
+            "video8827",
+            "video7179",
+            "video9776",
+            "video8676",
+            "video7222"
+        ],
+        "gt": "video8863"
+    },
+    {
+        "txt_id": 903,
+        "txt": "a woman s background voice describes a virtual scene where a dog enters a bathroom",
+        "preds": [
+            "video8867",
+            "video9458",
+            "video9200",
+            "video9820",
+            "video9580"
+        ],
+        "gt": "video8862"
+    },
+    {
+        "txt_id": 904,
+        "txt": "a white male raps while another plays guitar",
+        "preds": [
+            "video7135",
+            "video7961",
+            "video8978",
+            "video8466",
+            "video9330"
+        ],
+        "gt": "video8861"
+    },
+    {
+        "txt_id": 905,
+        "txt": "explainin about the scene in the net",
+        "preds": [
+            "video9549",
+            "video7913",
+            "video7546",
+            "video9781",
+            "video9119"
+        ],
+        "gt": "video8860"
+    },
+    {
+        "txt_id": 914,
+        "txt": "a famous tv talk show",
+        "preds": [
+            "video9037",
+            "video8813",
+            "video9223",
+            "video8930",
+            "video7234"
+        ],
+        "gt": "video7794"
+    },
+    {
+        "txt_id": 919,
+        "txt": "three kids are performing a song",
+        "preds": [
+            "video7772",
+            "video9202",
+            "video8447",
+            "video9589",
+            "video8810"
+        ],
+        "gt": "video7791"
+    },
+    {
+        "txt_id": 920,
+        "txt": "screen cast of mine craft oneline",
+        "preds": [
+            "video7203",
+            "video8663",
+            "video8463",
+            "video8077",
+            "video7346"
+        ],
+        "gt": "video7792"
+    },
+    {
+        "txt_id": 922,
+        "txt": "there are pictures and quotes from george bernard shaw and vincent van gogh while a voice over artist talks about making mistakes",
+        "preds": [
+            "video8260",
+            "video8475",
+            "video7767",
+            "video9024",
+            "video7562"
+        ],
+        "gt": "video7333"
+    },
+    {
+        "txt_id": 924,
+        "txt": "a man is trying some sushi",
+        "preds": [
+            "video9309",
+            "video9327",
+            "video7415",
+            "video8129",
+            "video8456"
+        ],
+        "gt": "video7559"
+    },
+    {
+        "txt_id": 928,
+        "txt": "a person playing a video game and commentating",
+        "preds": [
+            "video9813",
+            "video8313",
+            "video8256",
+            "video7374",
+            "video8116"
+        ],
+        "gt": "video9795"
+    },
+    {
+        "txt_id": 929,
+        "txt": "it is about a cartoon film",
+        "preds": [
+            "video8110",
+            "video8794",
+            "video9772",
+            "video8903",
+            "video8128"
+        ],
+        "gt": "video7552"
+    },
+    {
+        "txt_id": 930,
+        "txt": "interview with artist shanai twain",
+        "preds": [
+            "video8828",
+            "video8813",
+            "video7946",
+            "video7577",
+            "video7159"
+        ],
+        "gt": "video9793"
+    },
+    {
+        "txt_id": 932,
+        "txt": "a woman talking about different pictures next to her",
+        "preds": [
+            "video8806",
+            "video9698",
+            "video9509",
+            "video9503",
+            "video7547"
+        ],
+        "gt": "video9791"
+    },
+    {
+        "txt_id": 940,
+        "txt": "they are singing a song and playing a guitar in the stage",
+        "preds": [
+            "video8466",
+            "video7461",
+            "video7596",
+            "video8926",
+            "video8324"
+        ],
+        "gt": "video9243"
+    },
+    {
+        "txt_id": 942,
+        "txt": "man interviews bill murray",
+        "preds": [
+            "video8813",
+            "video7159",
+            "video7794",
+            "video8930",
+            "video7753"
+        ],
+        "gt": "video9245"
+    },
+    {
+        "txt_id": 944,
+        "txt": "in an animated scene two characters are outside under a menacing sky glaring at each other",
+        "preds": [
+            "video7157",
+            "video7467",
+            "video9306",
+            "video7917",
+            "video8463"
+        ],
+        "gt": "video9247"
+    },
+    {
+        "txt_id": 945,
+        "txt": "a man playing video games",
+        "preds": [
+            "video9813",
+            "video7723",
+            "video8116",
+            "video7207",
+            "video8256"
+        ],
+        "gt": "video7710"
+    },
+    {
+        "txt_id": 946,
+        "txt": "a man with brown hair is singing a song",
+        "preds": [
+            "video9351",
+            "video8573",
+            "video7575",
+            "video7961",
+            "video7686"
+        ],
+        "gt": "video9489"
+    },
+    {
+        "txt_id": 948,
+        "txt": "a person is playing a video game",
+        "preds": [
+            "video8313",
+            "video8860",
+            "video8116",
+            "video9813",
+            "video7374"
+        ],
+        "gt": "video8929"
+    },
+    {
+        "txt_id": 952,
+        "txt": "a football match between usa and japan",
+        "preds": [
+            "video7358",
+            "video9647",
+            "video8665",
+            "video9605",
+            "video8913"
+        ],
+        "gt": "video9305"
+    },
+    {
+        "txt_id": 953,
+        "txt": "three young people sing on stage",
+        "preds": [
+            "video9519",
+            "video7596",
+            "video8265",
+            "video8925",
+            "video8447"
+        ],
+        "gt": "video9304"
+    },
+    {
+        "txt_id": 954,
+        "txt": "the lady came their room go to the kitchen try to make their food",
+        "preds": [
+            "video7825",
+            "video9816",
+            "video9343",
+            "video9356",
+            "video8444"
+        ],
+        "gt": "video9307"
+    },
+    {
+        "txt_id": 955,
+        "txt": "a cartoon with violence",
+        "preds": [
+            "video8486",
+            "video8245",
+            "video9208",
+            "video8674",
+            "video7747"
+        ],
+        "gt": "video9306"
+    },
+    {
+        "txt_id": 956,
+        "txt": "how to make a galaxy fighter",
+        "preds": [
+            "video9609",
+            "video8121",
+            "video9428",
+            "video9620",
+            "video9530"
+        ],
+        "gt": "video9301"
+    },
+    {
+        "txt_id": 957,
+        "txt": "a squid is talking",
+        "preds": [
+            "video7111",
+            "video9808",
+            "video7235",
+            "video8446",
+            "video8677"
+        ],
+        "gt": "video9300"
+    },
+    {
+        "txt_id": 958,
+        "txt": "children singing a song as a group on a stage",
+        "preds": [
+            "video8447",
+            "video9202",
+            "video9879",
+            "video7772",
+            "video8265"
+        ],
+        "gt": "video9303"
+    },
+    {
+        "txt_id": 960,
+        "txt": "someone is showing a car features",
+        "preds": [
+            "video7356",
+            "video7340",
+            "video9358",
+            "video9514",
+            "video9691"
+        ],
+        "gt": "video7209"
+    },
+    {
+        "txt_id": 965,
+        "txt": "people scoring in sports videos",
+        "preds": [
+            "video9647",
+            "video7358",
+            "video9029",
+            "video9605",
+            "video8979"
+        ],
+        "gt": "video9018"
+    },
+    {
+        "txt_id": 967,
+        "txt": "a woman in black dress and a man in a black suit sits together",
+        "preds": [
+            "video8821",
+            "video7234",
+            "video8315",
+            "video9824",
+            "video8074"
+        ],
+        "gt": "video9011"
+    },
+    {
+        "txt_id": 974,
+        "txt": "all persons are wearing bikini dresses and playing in sea",
+        "preds": [
+            "video7025",
+            "video8457",
+            "video8999",
+            "video9830",
+            "video7681"
+        ],
+        "gt": "video9016"
+    },
+    {
+        "txt_id": 975,
+        "txt": "a women in blue shows two pink lipsticks",
+        "preds": [
+            "video9822",
+            "video9025",
+            "video9818",
+            "video7372",
+            "video9250"
+        ],
+        "gt": "video9509"
+    },
+    {
+        "txt_id": 980,
+        "txt": "a news reader describing about a news",
+        "preds": [
+            "video8494",
+            "video9819",
+            "video8491",
+            "video7967",
+            "video8864"
+        ],
+        "gt": "video8752"
+    },
+    {
+        "txt_id": 983,
+        "txt": "there is a wrestling match",
+        "preds": [
+            "video8310",
+            "video8470",
+            "video8823",
+            "video8443",
+            "video8440"
+        ],
+        "gt": "video8309"
+    },
+    {
+        "txt_id": 984,
+        "txt": "a man talks about kim chi to a camera",
+        "preds": [
+            "video8301",
+            "video7823",
+            "video7755",
+            "video9409",
+            "video8317"
+        ],
+        "gt": "video8302"
+    },
+    {
+        "txt_id": 985,
+        "txt": "a cartoon announcing the next event in a fake show",
+        "preds": [
+            "video7835",
+            "video9300",
+            "video9790",
+            "video8799",
+            "video9776"
+        ],
+        "gt": "video8303"
+    },
+    {
+        "txt_id": 990,
+        "txt": "a man dressed as a woman in a spanish language tv program",
+        "preds": [
+            "video8912",
+            "video9603",
+            "video8669",
+            "video8453",
+            "video8650"
+        ],
+        "gt": "video8304"
+    },
+    {
+        "txt_id": 991,
+        "txt": "in a music video a man is laying with women while singing",
+        "preds": [
+            "video7682",
+            "video7592",
+            "video7144",
+            "video7917",
+            "video8790"
+        ],
+        "gt": "video8305"
+    },
+    {
+        "txt_id": 995,
+        "txt": "the young performer impressed his audience",
+        "preds": [
+            "video7828",
+            "video7733",
+            "video7175",
+            "video7351",
+            "video9303"
+        ],
+        "gt": "video9879"
+    },
+    {
+        "txt_id": 996,
+        "txt": "some peole are sitting in hall",
+        "preds": [
+            "video9824",
+            "video9908",
+            "video7843",
+            "video7832",
+            "video7680"
+        ],
+        "gt": "video9878"
+    },
+    {
+        "txt_id": 998,
+        "txt": "someone is playing a first person shooter game and is making jokes",
+        "preds": [
+            "video7757",
+            "video9813",
+            "video8256",
+            "video7207",
+            "video9837"
+        ],
+        "gt": "video9872"
+    },
+    {
+        "txt_id": 999,
+        "txt": "bearded guy in grey tshirt talking to the camera",
+        "preds": [
+            "video9901",
+            "video8078",
+            "video8301",
+            "video9474",
+            "video7833"
+        ],
+        "gt": "video9871"
+    }
+]

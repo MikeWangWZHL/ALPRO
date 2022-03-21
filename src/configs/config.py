@@ -90,7 +90,7 @@ class SharedConfigs(object):
                                  "then uniformly sample num_frm from the clip. The length of the clip "
                                  "will be fps * num_frm")
         parser.add_argument("--frm_sampling_strategy", type=str, default="rand",
-                            choices=["rand", "uniform", "start", "middle", "end"],
+                            choices=["rand", "uniform", "start", "middle", "end", "clip-kmeans"],
                             help="see src.datasets.dataset_base.extract_frames_from_video_binary for details")
 
         # MLL training settings

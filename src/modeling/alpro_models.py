@@ -882,7 +882,7 @@ class AlproForVideoTextRetrieval(AlproBaseModel):
         # timeSformer asks for (b, c, t, h, w) as input.
         visual_inputs = visual_inputs.transpose(1, 2)
 
-        video_embeds = self.visual_encoder.forward_features(visual_inputs, return_all_tokens=True)
+        video_embeds = self.visual_encoder.forward_features(visual_inputs, return_all_tokens=True) # pooling default using temporal pooling
         video_feat = F.normalize(self.vision_proj(video_embeds[:,0,:]),dim=-1)  
 
         video_embeds = video_embeds.repeat(text_input_mask.shape[0], 1, 1)

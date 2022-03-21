@@ -408,20 +408,20 @@ def start_training():
     set_random_seed(cfg.seed)
 
     n_gpu = hvd.size()
-    # device = torch.device("cuda", hvd.local_rank())
-    # torch.cuda.set_device(hvd.local_rank())
+    device = torch.device("cuda", hvd.local_rank())
+    torch.cuda.set_device(hvd.local_rank())
 
-    # This resolves the issue GPU 0 always has more processes running and more GPU-RAM.
-    # c.f. https://github.com/horovod/horovod/issues/2625#issuecomment-868134876
-    os.environ['CUDA_VISIBLE_DEVICES'] = str(hvd.local_rank())
-    device = torch.device("cuda", 0)
-    torch.cuda.set_device(0)
+    # # This resolves the issue GPU 0 always has more processes running and more GPU-RAM.
+    # # c.f. https://github.com/horovod/horovod/issues/2625#issuecomment-868134876
+    # os.environ['CUDA_VISIBLE_DEVICES'] = str(hvd.local_rank())
+    # device = torch.device("cuda", 0)
+    # torch.cuda.set_device(0)
 
     if hvd.rank() != 0:
         LOGGER.disabled = True
     LOGGER.info(f"device: {device} n_gpu: {n_gpu}, "
                 f"rank: {hvd.rank()}, 16-bits training: {cfg.fp16}")
-
+    
     model = setup_model(cfg, device=device)
     model.train()
 

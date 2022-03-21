@@ -12,8 +12,10 @@ from src.datasets.data_utils import (
     ImageResize, ImagePad, image_to_tensor)
 from src.utils.load_save import LOGGER
 
-decord.bridge.set_bridge("torch")
+from transformers import CLIPProcessor, CLIPVisionModel, CLIPTokenizer, CLIPTextModel, CLIPModel, CLIPFeatureExtractor
+from sklearn.cluster import KMeans
 
+decord.bridge.set_bridge("torch")
 
 class AlproBaseDataset(Dataset):
     """
@@ -58,6 +60,10 @@ class AlproBaseDataset(Dataset):
             self.txn = self.env.begin(buffers=True)
         else:
             self.img_db_dir = img_lmdb_dir
+
+        if self.frm_sampling_strategy == 'clip-kmeans':
+            self.clip_model = CLIPVisionModel.from_pretrained("openai/clip-vit-base-patch32")
+            self.clip_processor = CLIPProcessor.from_pretrained("openai/clip-vit-base-patch32")
 
     def __len__(self):
         return len(self.datalist)
@@ -170,17 +176,51 @@ class AlproBaseDataset(Dataset):
                 frame_indices_head = sorted(random.sample(range(vlen // 2), self.num_frm // 2))
                 frame_indices_tail = sorted(random.sample(range(vlen // 2, vlen), self.num_frm // 2))
                 frame_indices = frame_indices_head + frame_indices_tail
+            elif self.frm_sampling_strategy == 'clip-kmeans':
+                frame_indices = self._CLIP_selection(vr, self.num_frm)
             else:
                 raise NotImplementedError('Invalid sampling strategy {} '.format(self.frm_sampling_strategy))
 
+            # LOGGER.info(f'selected frms:{frame_indices}')
             raw_sample_frms = vr.get_batch(frame_indices)
 
         except Exception as e:
+            LOGGER.info(f'Error occured!!!!!!!!!!!!!!!!')
+            LOGGER.info(e)
             return None
 
         raw_sample_frms = raw_sample_frms.permute(0, 3, 1, 2)
 
         return raw_sample_frms
+    
+    def _CLIP_selection(self, vr, num_frm, downsample_ratio = 2):
+        # LOGGER.info('HERE!!!!!0')
+        vlen = len(vr)
+        downsampled_indices = np.arange(vlen, step=downsample_ratio, dtype=int)
+        # LOGGER.info(downsampled_indices)
+        # calculate vision embedding for each frame
+        all_frames = vr.get_batch(downsampled_indices) # a tensor, since bridged
+        all_frames = all_frames.numpy()
+        all_frames_pil = [Image.fromarray(frm) for frm in all_frames]
+        inputs = self.clip_processor(images=all_frames_pil, return_tensors="pt")
+        outputs = self.clip_model(**inputs)
+        pooled_output = outputs.pooler_output  # pooled CLS states
+        frm_embeddings = pooled_output.detach().numpy()
+        # cluster into num_frm clusters
+        kmeans = KMeans(n_clusters=num_frm, random_state=0).fit(frm_embeddings)
+        labels = kmeans.labels_ 
+        frame_indices = []
+        # random sample one frame from each cluster
+        for i in range(num_frm):
+            masked = np.where(labels == i)[0]
+            idx = np.random.choice(masked)
+            frame_indices.append(downsampled_indices[idx])
+        # raw_sample_frms = [all_frames_pil[idx] for idx in frame_indices]
+        # return frame_indices, raw_sample_frms
+        frame_indices = sorted(frame_indices)
+        # LOGGER.info(frame_indices)
+        # quit()
+        return frame_indices
 
 def img_collate(imgs):
     """

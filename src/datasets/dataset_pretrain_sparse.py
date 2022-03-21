@@ -113,7 +113,7 @@ class AlproPretrainSparseDataset(AlproBaseDataset):
         else:
             raise RuntimeError(f"Failed to fetch video after {num_retries} retries.")
         
-        examples = [{'text_str': text, 'itm_label': 1}]
+        examples = [{'text_str': text, 'itm_label': 1}] # can be more than one
 
         return dict(
             img=img_array,  # (T, C, H, W)

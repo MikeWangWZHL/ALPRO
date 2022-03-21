@@ -36,7 +36,7 @@ from torch.utils.data.distributed import DistributedSampler
 from tqdm import tqdm
 from transformers import BertConfig, BertTokenizerFast
 
-GPU_DEVICE = "cuda:3"
+# GPU_DEVICE = "cuda:2,3"
 
 def mk_video_ret_datalist(raw_datalist, cfg):
     """
@@ -48,12 +48,14 @@ def mk_video_ret_datalist(raw_datalist, cfg):
 
     """
     LOGGER.info(f"Loaded data size {len(raw_datalist)}")
+    # cfg.data_ratio = 0.01
     if cfg.data_ratio != 1.0:
         random.shuffle(raw_datalist)
         raw_datalist = raw_datalist[:int(len(raw_datalist) * cfg.data_ratio)]
         LOGGER.info(f"Use {100 * cfg.data_ratio}% of the loaded data: {len(raw_datalist)}")
 
     datalist = []
+    qid2data = {}
     qid = 0
     for raw_d in raw_datalist:
         d = dict(
@@ -61,9 +63,19 @@ def mk_video_ret_datalist(raw_datalist, cfg):
             txt=raw_d["caption"],
             vid_id=raw_d["clip_name"]
         )
+        qid2data[qid] = d
         qid += 1
         datalist.append(d)
     LOGGER.info(f"datalist {len(datalist)}")
+    inference_res_dir = join(
+        cfg.output_dir,
+        f"results_{os.path.splitext(os.path.basename(cfg.inference_txt_db))[0]}/"
+        f"step_{cfg.inference_model_step}_{cfg.inference_n_clips}_{cfg.score_agg_func}"
+    )
+    result_qid2data_path = join(inference_res_dir, "qid2data.json")
+    save_json(qid2data, result_qid2data_path,
+        save_pretty=True)
+    LOGGER.info(f"save qid2data at {result_qid2data_path}")
     return datalist
 
 
@@ -137,6 +149,7 @@ def mk_video_ret_eval_dataloader(anno_path, lmdb_dir, cfg, tokenizer):
     raw_datalist = load_jsonl(anno_path)
     datalist = mk_video_ret_datalist(raw_datalist, cfg)
     frm_sampling_strategy = cfg.frm_sampling_strategy # this can be extended
+    LOGGER.info(f'frm_sampling_strategy:{frm_sampling_strategy}')
     if frm_sampling_strategy == "rand":
         frm_sampling_strategy = "uniform"
 
@@ -306,10 +319,10 @@ def start_training(cfg):
     n_gpu = hvd.size()
     cfg.n_gpu = n_gpu
 
-    device = torch.device(GPU_DEVICE)
-    torch.cuda.set_device(device)
-    # device = torch.device("cuda", hvd.local_rank())
-    # torch.cuda.set_device(hvd.local_rank())
+    # device = torch.device(GPU_DEVICE)
+    # torch.cuda.set_device(device)
+    device = torch.device("cuda", hvd.local_rank())
+    torch.cuda.set_device(hvd.local_rank())
     if hvd.rank() != 0:
         LOGGER.disabled = True
     LOGGER.info("device: {} n_gpu: {}, rank: {}, "
@@ -733,7 +746,18 @@ def inference_retrieval(model, val_loader, eval_file_path, cfg):
             retrieval_res.extend(load_json(
                 join(eval_dir, f"tmp_results_rank{rk}.json")))
         LOGGER.info('results joined')
+        # early save
+        inference_res_dir = join(
+            cfg.output_dir,
+            f"results_{os.path.splitext(os.path.basename(cfg.inference_txt_db))[0]}/"
+            f"step_{cfg.inference_model_step}_{cfg.inference_n_clips}_{cfg.score_agg_func}"
+        )
+        result_save_path = join(inference_res_dir, "results.json")
+        save_json(retrieval_res, result_save_path,
+            save_pretty=True)
+        LOGGER.info(f'results saved at {result_save_path}')
 
+    LOGGER.info('Successful inference before calculating metric')
     if hvd.rank() == 0:
         retrieval_metrics = eval_retrieval(
             retrieval_res, val_loader.dataset.gt_cap_id2vid_id, val_loader.dataset.id2data)
@@ -749,10 +773,10 @@ def start_inference(cfg):
     set_random_seed(cfg.seed)
     n_gpu = hvd.size()
     
-    # device = torch.device("cuda", hvd.local_rank())
-    # torch.cuda.set_device(hvd.local_rank())
-    device = torch.device(GPU_DEVICE)
-    torch.cuda.set_device(device)
+    # device = torch.device(GPU_DEVICE)
+    # torch.cuda.set_device(device)
+    device = torch.device("cuda", hvd.local_rank())
+    torch.cuda.set_device(hvd.local_rank())
 
     if hvd.rank() != 0:
         LOGGER.disabled = True
@@ -801,8 +825,8 @@ def start_inference(cfg):
     cfg.data_ratio = 1.
 
     val_loader = mk_video_ret_eval_dataloader(
-        anno_path=cfg.inference_txt_db,
-        lmdb_dir=cfg.inference_img_db,
+        anno_path=cfg.inference_txt_db, # data/<dataset>/txt/<phase>.jsonl
+        lmdb_dir=cfg.inference_img_db, # data/<dataset>/videos/<phase>Video/
         cfg=cfg, tokenizer=tokenizer,
     )
 
@@ -828,6 +852,7 @@ if __name__ == '__main__':
     # Initialize Horovod
     hvd.init()
     input_cfg = shared_configs.get_video_retrieval_args()
+    
     if input_cfg.do_inference:
         start_inference(input_cfg)
     else:
